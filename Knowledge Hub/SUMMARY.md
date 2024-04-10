@@ -6,6 +6,7 @@
 
 * [💡 What we do](overview/what-we-do.md)
 * [✨ Our Features](overview/our-features.md)
+* [🎉 Onboarding](overview/onboarding.md)
 
 ## Product Guides
 
@@ -17,6 +18,7 @@
 * [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [The Decentralized Hub Landing Page](fundamentals/the-decentralized-hub-landing-page.md)
 
 ## Use Cases
 
