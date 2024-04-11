@@ -28,9 +28,13 @@
 ## Class 12
 
 ### English
-* [Ls 1 - The Last Lesson]("Class 12/English/Ls 1 - The Last Lesson.md")
+#### Lessons and Poems (Main Book)
+* [Ls 1 - The Last Lesson](Class-12/English/main/Ls-1-The-Last-Lesson.md")
+* [Poem 1 - My Mother at Sixty-Six](Class-12/English/main/Poem-1-My-Mother-at-66.md)
 
 #### Activities
+* [Investigatory Project](Class-12/English/Activities/Investigatory-Project.md)
 
 #### Composition
-
+* [Invitation Writing](Class-12/English/Composition/Invitation-Writing.md)
+* [Notice Writing](Class-12/English/Composition/Notice-Writing.md)
