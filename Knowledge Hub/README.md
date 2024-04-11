@@ -15,7 +15,7 @@ This is a digital documentation.
 
 ### Classes
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Class 12</strong></td><td>By the Brigadiers</td><td><em>10 Subjects</em></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/The Troopers Board of Directors.jpg">The Troopers Board of Directors.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Class 12</strong></td><td>By the Brigadiers</td><td><em>10 Subjects</em></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/The Troopers Board of Directors.jpg">The Troopers Board of Directors.jpg</a></td></tr><tr><td><strong>Class 11</strong></td><td>by the Troopers</td><td><em>10 Subjects</em></td><td><a href="class/class-11.md">class-11.md</a></td><td></td></tr><tr><td><strong>Class 10</strong></td><td>by Jugzards</td><td><em>10 Subjects</em></td><td><a href="class/class-10.md">class-10.md</a></td><td></td></tr></tbody></table>
 
 ### Mission Statement
 
