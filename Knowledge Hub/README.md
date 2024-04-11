@@ -4,7 +4,7 @@ description: >-
   hub.
 ---
 
-# 🎉 Onboarding
+# 👋 Welcome to Project Troopers!
 
 Welcome to Project Troopers! I’m Sugeeth, the Collaborator In-Charge (i.e the de-jure head) of this Project Troopers.
 
@@ -20,11 +20,11 @@ The current outreach operation is aimed at connecting students everywhere. You g
 
 We are a non-profit non-governmental organisation, a student body for the students, by the students and of the students. We are not linked with any school, any institution. And our structure is pretty military-themed, so don't mind if we use a lot of military related terms.
 
-![unsplash](https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxNDIyNzR8MHwxfHNlYXJjaHw1fHxlZHVjYXRpb258ZW58MHx8fHwxNzEyNDc2NTg5fDA&ixlib=rb-4.0.3&q=85)
+![A beautiful image](https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxNDIyNzR8MHwxfHNlYXJjaHw1fHxlZHVjYXRpb258ZW58MHx8fHwxNzEyNDc2NTg5fDA\&ixlib=rb-4.0.3\&q=85)
 
 ### Our Initiatives and Structure
 
-1. ### The Doubt Groups
+1. #### The Doubt Groups
 
 The group which you guys are part of, are the communication groups where we, at Project Troopers, connect to every student who wishes to participate, access and view project Materials. Anyone can express their views, opinions and doubts, while being civil, moral and humane.
 
@@ -36,19 +36,19 @@ Each division related to a particular batch…. For eg: Brigadiers refer to the 
 
 Now, each group has its own set of admins. And each division will provide us with a director…
 
-2. ### The Board of Directors
+2. #### The Board of Directors
 
 This project was originally run by a core group. Since we expanded, we needed only a few trust-worthy people to take decisions, on behalf of the people on the Project. So, we have a Board of Directors, the highest administrative authority of the project that is allowed to take decisions. The board is headed by the Collaborator In-Charge (that's me), who will be appointed by the Board. Each decision taken by the board goes through a vote.
 
 Since the whole hub is just transitioning into this structure, I, the CIC will do some heavy-lifting and will take care of some administrative decision on my own… After some time, when the board has decided to implement the governing guidelines and related structures, I will have very limited power…
 
-3. ### The Troopers Knowledge Hub
+3. #### The Troopers Knowledge Hub
 
-It is our repository of information, here we share our files and knowledge. It is available at trooopers.craft.me and is run by a group of volunteers, called collaborators. If you wish to contribute to the hub, let us know.&#x20;
+It is our repository of information, here we share our files and knowledge. It is available at trooopers.craft.me and is run by a group of volunteers, called collaborators. If you wish to contribute to the hub, let us know.
 
 The Hub does contain some materials that the contributors create and some materials from other sources. We release the material that we created under the Creative Commons 4.0 Share-Alike License.
 
-4. ### Jugzards
+4. #### Jugzards
 
 It is the place where we archive our materials that we have on the hub. It is also maintained by a group of collaborators…
 
