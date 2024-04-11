@@ -2,7 +2,7 @@
 
 ## The Decentralized Hub Landing Page
 
-> ### Administrative Notice
+> #### Administrative Notice
 
 > This is a `Class Action Notice Box, Type A (CANB-A)`. Do not remove this Notice box, if you don’t have the required access level. ([Learn why.)](craftdocs://open?blockId=82E22F22-B1CA-4F7F-AFED-3C5B66B86947\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
@@ -36,21 +36,21 @@ We are a select group of Class 12 students who make up a focus group. Our divisi
 
 Welcome to The First Brigadier Regiment section! Here you will find the latest homework assignments and important announcements for all subjects. Stay organized and on top of your tasks with this comprehensive platform. Remember to check back regularly for updates and complete your assignments on time. Let's make homework management a breeze together!
 
-> #### [**→ Class 12.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/A19C5D9F-5F5E-44AA-9082-A0C04BB6C154)
+> [**→ Class 12.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/A19C5D9F-5F5E-44AA-9082-A0C04BB6C154)
 
 > Troopers Knowledge Hub Class 12: Navigate through a repository of curated files and resources tailored for Project Troopers. Click on the title above to access it.
 
 **The Bulletin Board**
 
-> #### Latest Homework:-
+> **Latest Homework:-**
 
 > Nothing as of yet
 
-> #### Announcements
+> **Announcements**
 
 * > The new year is starting! Let's go!!!
 
-> #### [← Troopers Knowledge Hub: Home](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**← Troopers Knowledge Hub: Home**](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Wanna go back to the home page, but lost your way? Click above to return.
 
@@ -68,7 +68,7 @@ Welcome to the **upgraded** ::Announcements:: (previously Homework List) section
 
 Coming soon… if we find something to add here.
 
-> ### Sources
+> #### Sources
 
 > We respect copyright laws, and we do not claim copyright for the above materials.
 
@@ -113,7 +113,7 @@ So keep an eye out for our next edition, and get ready to take your brain on an 
 
 > Status: Almost done. ::Theme: Women’s Day:: Published on \_\_\_\_
 
-> > ### Final Version
+> > #### Final Version
 
 [The Corridor - Series 2 Issue 1 - Final Work.pdf](https://drive.google.com/file/d/1f6t25ptsKeradj6pUEFq7xxBeCAVBOZd/view?usp=drive\_link)
 
@@ -161,7 +161,7 @@ This time, it's an article by Riya Roopesh on the theme of this week's newslette
 
 ### Submissions
 
-1.  #### Kevin Daniel
+1.  **Kevin Daniel**
 
     **GREATEST WOMEN TRIVIA**
 
@@ -193,7 +193,7 @@ This time, it's an article by Riya Roopesh on the theme of this week's newslette
 
 [Greatest\_Women\_Trivia\[1\]\_\_-\_\_Read-Only\[2\].pptx](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/bebb365f-d340-4b5a-8457-e20b221441b2/B28AEF54-3E73-4432-8DF5-3B9ECAA2B964\_2/5b0LzRbgRr7xSnbM1jf83bqk4xOkvnoTzqN0jZkBBGEz/Greatest\_Women\_Trivia1\_\_-\_\_Read-Only2.pptx)
 
-1.  #### Sugeeth Jayaraj S.A.
+1.  **Sugeeth Jayaraj S.A.**
 
     **Can you guess the movie correctly?**
 
@@ -217,7 +217,7 @@ _Winter’s bone_
 
 [Can you guess the movie correctly.docx](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/bebb365f-d340-4b5a-8457-e20b221441b2/7DFF2958-B44F-45E0-B934-8FBE96C4081E\_2/mFpZo2S66oVOzcmaMs7wtrDHfcXtHNmSQvju2YStyuAz/Can%20you%20guess%20the%20movie%20correctly.docx)
 
-1.  #### M Faheema Nasrin
+1.  **M Faheema Nasrin**
 
     **The Dragon Origami**
 
@@ -227,7 +227,7 @@ _Winter’s bone_
 
 ![Image.png](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/bebb365f-d340-4b5a-8457-e20b221441b2/8F785A9D-4892-47D9-BFAE-C8D34B743DC9\_2/26XOykQvVczsjI0fZWA3R8IXO13bieJg8gxJY18Ls1Yz/Image.png)
 
-1.  #### Riya Elizabeth Roopesh
+1.  **Riya Elizabeth Roopesh**
 
     **Article on Women Empowerment**
 
@@ -236,11 +236,11 @@ _Winter’s bone_
     In many corners of the globe, ladies often get the short end of the stick when it comes to education. Their talents and intelligence are sometimes shrugged off, and the power scales are tipped against them, from their homes to the world stage.
 
     It's high time to even out the playing field. Let's crack open the doors to education for all and give props where they're due. When women are bossing the decision-making tables, standing up for their rights, and rocking every sector, that's when the magic happens. Societies bloom, progress booms, and the future starts looking brighter. Let's team up, smash stereotypes, and pave the way to a world where gender equality isn't just a dream but a reality for all.
-2. #### Ishana Santhosh
+2. **Ishana Santhosh**
 
 ![Image.png](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/bebb365f-d340-4b5a-8457-e20b221441b2/EC77EB5E-0D1A-4C1D-A8E9-0ADCE1E620AD\_2/ygUqo5j8OX6uik2H5HtXhN4NpGpaKVtzx6LvcdujvFsz/Image.png)
 
-1.  #### Nikhel Joseph
+1.  **Nikhel Joseph**
 
     **Logical Reasoning**
 
@@ -520,11 +520,11 @@ Ishana's Crossword
 
 [The Corridor - Issue 1 - June 26 of 2023 - Final.pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/dc58501b-8c2d-b8cd-82ed-0264718616d1)
 
-> #### [← Troopers Knowledge Hub](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**← Troopers Knowledge Hub**](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Wanna go back to the home page, but lost your way? Click above to return.
 
-> #### [→ The Common Regimental Division](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/A3A3D5E7-40E3-43A8-A6A7-BC181054DA80)
+> [**→ The Common Regimental Division**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/A3A3D5E7-40E3-43A8-A6A7-BC181054DA80)
 
 > Looking for other combined division-specific materials? Click the link above to learn more.
 
@@ -538,7 +538,7 @@ We predate the hub in its existence. It was one of our internal discussions that
 
 ### About our teachers
 
-> ### ::More about our English Teacher.::
+> #### ::More about our English Teacher.::
 
 > Ms. Carmel Jeru Joachim is an ardent and resilient English teacher who’s had 20+ years of teaching experience. Born and raised in Chennai, she’s worked tirelessly to become the teacher she is today.
 
@@ -560,7 +560,7 @@ We predate the hub in its existence. It was one of our internal discussions that
 
 > Some of her past pupils still remain in touch with her, and one of them wishes her happy birthday every year! That’s the result of her continuing success as a great educator in today’s turbulent times.
 
-> ### ::More about our Chemistry teacher. (Int)::
+> #### ::More about our Chemistry teacher. (Int)::
 
 > Mr. G. P. Naidu is a passionate teacher who strives to deliver huge concepts through short and sweet notes for the ease of revision during exam time. He only delivers whatever’s needed, and thus helps the students to focus on the core concepts. He analyses previous JEE/NEET papers to understand what makes them tick.
 
@@ -568,13 +568,13 @@ We predate the hub in its existence. It was one of our internal discussions that
 
 > Mr. Naidu is married to Gautami and they‘ve been blessed with a lovely baby girl. He aspires to become a Chemistry professor one day, so he’s currently pursuing his first year of Ph.D in Analytical Chemistry, while also teaching at a school. His passion and interest is Chemistry.
 
-> ### ::More about our other teachers. (Int)::
+> #### ::More about our other teachers. (Int)::
 
 * > Mr. Narasimha Rao Reddy → Physics
 * > Mr. Mohammed Haja → Maths (BE, ME) 9+ years experience, and 2 years college lecturer
 * > Ms. Yasmine → Biology
 
-> ### ::More about the Maths Teacher (Int).::
+> #### ::More about the Maths Teacher (Int).::
 
 > Mr. Mohammed K Haja sir’s birthday is on January 2.
 
@@ -584,21 +584,21 @@ We predate the hub in its existence. It was one of our internal discussions that
 
 Welcome to The Second Brigadier Regiment section! Here you will find the latest homework assignments and important announcements for all subjects. Stay organized and on top of your tasks with this comprehensive platform. Remember to check back regularly for updates and complete your assignments on time. Let's make homework management a breeze together!
 
-> #### **→ Class 12.**
+> **→ Class 12.**
 
 > Troopers Knowledge Hub Class 12: Navigate through a repository of curated files and resources tailored for Project Troopers. Click on the title above to access it.
 
 **The Bulletin Board**
 
-> #### Latest Homework:-
+> **Latest Homework:-**
 
 > Nothing as of yet.
 
-> #### Announcements
+> **Announcements**
 
 * > The new year is starting, let's go!!!
 
-> #### [← Troopers Knowledge Hub: Home](craftdocs://open?blockId=5C767257-CCBF-4469-AF25-1834F9538FDA\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**← Troopers Knowledge Hub: Home**](craftdocs://open?blockId=5C767257-CCBF-4469-AF25-1834F9538FDA\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Wanna go back to the home page, but lost your way? Click above to return.
 
@@ -614,7 +614,7 @@ Refer the [Reminders - The Second Brigadier Regiment](craftdocs://open?blockId=7
 
 Coming soon… when we have something to archive here.
 
-> ### Sources
+> #### Sources
 
 > We respect copyright laws, and we do not claim copyright for the above materials.
 
@@ -626,7 +626,7 @@ Coming soon… when we have something to archive here.
 4. > Own unlisted in-school sources
 5. > DBX Data Portal
 
-> #### [→ The Common Regimental Division](craftdocs://open?blockId=A3A3D5E7-40E3-43A8-A6A7-BC181054DA80\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**→ The Common Regimental Division**](craftdocs://open?blockId=A3A3D5E7-40E3-43A8-A6A7-BC181054DA80\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Looking for other combined division-specific materials? Click the link above to learn more.
 
@@ -640,11 +640,11 @@ We're a group of hard-working students trying help out our classmates to do bett
 
 Welcome to The Fourth Brigadier Regiment section! Here you will find the latest homework assignments and important announcements for all subjects. Stay organized and on top of your tasks with this comprehensive platform. Remember to check back regularly for updates and complete your assignments on time. Let's make homework management a breeze together!
 
-> #### **→ Class 12.**
+> **→ Class 12.**
 
 > Troopers Knowledge Hub Class 12: Navigate through a repository of curated files and resources tailored for Project Troopers. Click on the title above to access it.
 
-> #### [→ The Common Regimental Division](craftdocs://open?blockId=A3A3D5E7-40E3-43A8-A6A7-BC181054DA80\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**→ The Common Regimental Division**](craftdocs://open?blockId=A3A3D5E7-40E3-43A8-A6A7-BC181054DA80\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Looking for other combined division-specific materials? Click the link above to learn more.
 
@@ -791,7 +791,7 @@ Welcome once again, and let the Troopers' knowledge ignite your passion for exce
 
 **Governing Guidelines**
 
-> ### CAIS-A Notice
+> #### CAIS-A Notice
 
 > This is a ::Class Action Info Section Type A::. All information in this section and its sub-sections are to be taken with utmost severity; and is highly protected. Only members with a ::CA-A pass:: are allowed to edit this section. All details enforced within is/are serious matter(s).
 
@@ -809,7 +809,7 @@ Originally designed by a single person to just help his friends, it aims to help
 
 > This is the heart of all Project Trooper matters.
 
-1. ### Introduction
+1. #### Introduction
    1. Once you start using the Project’s services, you automatically accept the Governing Guidelines. This legal stature is between you and the non-profit non-governmental organisation “Project Troopers”.
    2. Henceforth, in this document, "the Project", the "Hub", the "Knowledge Hub", the "TKH", will refer to the Troopers Knowledge Hub and/or Project Troopers.
    3. Any changes made to the rules and regulations in this document must be approved by a majority of the directors and the CIC before they take effect. The Boards and the ArbCom reserves the right to modify and update our Governing Guidelines at any given point of time; with exceptions noted.
@@ -818,7 +818,7 @@ Originally designed by a single person to just help his friends, it aims to help
    6. The Project is not responsible for any issues between the Other Companies and end-users.
    7. We have decided to host our governing guidelines on the same service as we host our hub for simple and easy access.
    8. Henceforth each header will be declared a section and every law under the section (if it does not have multiple sub-sections) will be a clause, which can contain multiple sub-clauses. Each sub-clause can have a statement under it.
-2. ### Legality and Jurisdiction
+2. #### Legality and Jurisdiction
    1. The Hub is a non-profit collection of documents, software, and ideas maintained by collaborators. It is not affiliated with any company or institution.
    2. The Indian Constitution and Tamil Nadu state laws apply to the Hub.
    3. The Project is a self-governing entity without official ties to any government, UN, school, or institution. Members join voluntarily for academic collaboration.
@@ -827,13 +827,13 @@ Originally designed by a single person to just help his friends, it aims to help
    6. The Hub is accountable only to its members and governments under Indian law, not to any institution. It accepts members regardless of their affiliations.
    7. The Hub is responsible for its actions, and only its members (or past members) can be held accountable for Hub-related matters.
    8. If you aim to lodge a case against us ‘with’ or ‘without’ reading terms, we deem it illegal if it is against us for a reason that is included in our Terms as is.
-3. ### **Copyright and Intellectual Property Policy:**
-   1. #### **Usage of Copyrighted Materials:**
+3. #### **Copyright and Intellectual Property Policy:**
+   1. **Usage of Copyrighted Materials:**
       1. We may use copyrighted materials for educational purposes under the Indian Copyright Act, 1951 and its amendments.
       2. The hub also serves as a recommendation and archiving service for materials by other publishers, explicitly credited in the hosting service's Credits section. It is, and will remain, the duty of the collaborators, to add to the archives any material that they add references to, in the project, with exceptions determined by the Board and outlined in the Governing Guidelines.
       3. The Project does not claim copyright for externally-published or third-party materials and will inform users beforehand.
       4. Disputes or queries or takedown requests regarding copyright should be addressed to a collaborator, with proof of copyright when deemed necessary. Filing a case against us without prior contact and resolution attempts will not stand. We will address copyright issues promptly.
-   2. #### **Ownership of Intellectual Property:**
+   2. **Ownership of Intellectual Property:**
       1. The Service and all materials created by the collaborators therein, including Intellectual Property Rights, are the exclusive property of the Project and the respective creators. Materials published by the Project are subject to the Creative Commons 4.0 Share-Alike License, available at [link](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en); with exceptions determined by the Board and outlined in the Governing Guidelines.
 
 [CC BY-SA 4.0 Legal Code | Attribution-ShareAlike 4.0 International | Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en)
@@ -844,13 +844,13 @@ Originally designed by a single person to just help his friends, it aims to help
 
 3\. ### **Main Aim and Archiving:** 1. Project Troopers aims to curate and spotlight the best educational materials available. 2. Original materials are archived on Google Drive for transparency, verification, and availability. 3. Archived materials are freely available online and not redistributed under the Project's brand. 4. ## General Classification of Person or People based on their interactions with the project:
 
-1. #### The Viewer/User
+1. **The Viewer/User**
    1. A person, who uses or views or accesses the Knowledge Hub, will automatically be called and henceforth referred to as the "User".
    2. Users are granted a **license** to view the Knowledge Hub and its documents; and download documents for personal reference only.
    3. Redistribution of Hub contents without permission or without using the proper license is prohibited.
    4. Violation may lead to license termination by the collaborator-in-charge.
    5. Contact us if you find outdated educational materials on the hub, we will try to respond as soon as possible; with reasonable exceptions declared by the Board of Directors.
-2. #### The Collaborator
+2. **The Collaborator**
    1. **Definition:** Any individual granted editing access to the Hub or is a part of the groups that maintain the hub is referred to as a Collaborator or member.
    2. **Rules:** All the rules in the governing guidelines is automatically applicable and binding on the collaborators. Different access levels and roles are explained in detail in the governing guidelines.
    3. **Conduct:** Collaborators must maintain civility, morality, and humane conduct in all interactions within the Knowledge Hub.
@@ -859,22 +859,22 @@ Originally designed by a single person to just help his friends, it aims to help
    6. **The Observer:** The observers would be anonymous people who would add anonymous edits to the hub from time to time, authorised by the board of directors.
    7. **Responsibility**: Collaborators bear sole responsibility for the content they contribute. Administrators bear no liability for user-generated content.
    8. **Accuracy of materials**: The Hub aims to provide updated and accurate educational materials. Collaborators are responsible for the accuracy of their published materials. Inaccurate materials will not be entertained.
-3. ### Responsibility and Liability
+3. #### Responsibility and Liability
    1. The project is not liable to anything that the user or the collaborator does with its services. Therefore, you accept the responsibility of any violation or abuse perpetuated by you. The Project is neither liable to loss of your data that occurs due to misuse of the platform by you.
    2. Violations of established rules may incur the following consequences, administered progressively:
       1. **Suspension**: Duration ranging from one day to one month, or indefinite suspension.
       2. **Termination**: Permanent cessation of collaborator privileges.
       3. **Closure of Project Services**: Implementation of Emergency Protocol (🚨) for swift response.
       4. **Closure of the Project**: Immediate cessation of all Project Troopers services and removal of associated assets.
-4. ## Institutions and their powers
-   1. #### The Troopers Board of Directors
+4. ### Institutions and their powers
+   1. **The Troopers Board of Directors**
       1. The directors are nominees / admins who have been selected by the people or the CIC to lead the Project. They will have control over all the decisions of the Project's administrative matters. These directors will then constitute the Troopers Board of Directors, which has the power to halt, proceed, change, allow or deny any administrative decision before they are put into action. More about the board will be given in this document.
       2. The Board of Directors is the deciding authority of the Project, i.e the _de-facto **head**_. It is where the directors are to propose new ideas, solve conflicts and decide on the future of the Project. This Group will, as is, follow all the rules outlined previously. The directors are in no way above the law. This group will only be composed of the volunteering admins (aka the directors).
       3. Some directors can be considered inactive, if they can not respond to any board activity for 2 weeks or notify the board that they can not attend to the matters of the project temporarily. All other directors will be considered active.
       4. The creation of any sub-group belonging to the Project will also be subject to approval by a majority of the directors and the CIC.
       5. All Board decisions are required to documented well, with transparent proceedings. The board can form its own internal processes, rules and sub-committees. _**The current director(s), with appointed or assigned any roles and their records; the board and its records, and decisions will be maintained under the governing guidelines section of the project.**_
       6. **The Collaborator-in-Charge (CIC):** The CIC is the _de-jure_ head of the Knowledge Hub with level of Ownership, director and a CA-A pass. He has the power to decide upon the administrative matters of the Knowledge Hub, but not without the knowledge and approval of the Board of directors.
-      7.  #### Proposing ideas or take a decision
+      7.  **Proposing ideas or take a decision**
 
           When a director wants to propose new ideas to the Project's infrastructure or take any decision related to the project, they have to follow a few set of procedures before implementing them, in successive order.
 
@@ -891,7 +891,7 @@ Originally designed by a single person to just help his friends, it aims to help
           5. Any idea that affects a particular division of the Project and their operations must be discussed with their admins.
           6. After implementation or veto, it has to be recorded below. The Project docs must be also updated in parallel to reflect the same.
       8. No board decision can be implemented without at least three-fourths of the board voicing their opinion regarding it. If the no. of voting directors (i.e non-abstained) fall below the set threshold, then it is mandatory that some directors must change their opinion via a re-vote. If the threshold is still not satisfied after two re-votes or if the no. of inactive directors impedes the voting procedure (during the first vote), then the board is authorised to hold elections to vote directors to the board by the Project Members.
-   2. ### Election Committee to conduct Elections to the Board and ArbCom
+   2. #### Election Committee to conduct Elections to the Board and ArbCom
       1. **Appointment Process:** Members of the community appoint directors or members of the ArbCom through two separate methods, with each member's vote considered equal. The methods are:-
          1. **Normal Procedure:** Each division votes for their representative director or ArbCom member to be seated on the board.
          2. **Special Procedure:** The entire community decides on a director or ArbCom member.
@@ -902,7 +902,7 @@ Originally designed by a single person to just help his friends, it aims to help
       3. **Rule-Making Authority:**
          1. The Election Committee has the authority to establish its own rules for elections, which will be documented in the Project's Governing Guidelines.
          2. These rules, if aligned with the mission of conducting free and fair elections without unauthorized or malicious activity, are binding on the voters, the ArbCom and the Board.
-   3. ### Administrators
+   3. #### Administrators
       1. **Accountability and Enforcement:** The CIC, the Board, and the admins are accountable to the rules outlined in this document. They have the authority to punish participants found violating any rules and regulations.
       2. **Appointment and Responsibilities:**
          1. Administrators are appointed based on the needs of the project and have limited roles or sections to oversee. They are responsible for handling violations within their jurisdiction, filing reports, and providing reasoning for their judgments.
@@ -914,7 +914,7 @@ Originally designed by a single person to just help his friends, it aims to help
       4. **Accountability and Restrictions:**
          1. Admins are answerable only to the Board and the community, not to other admins.
          2. They are not allowed to single-handedly remove another admin (except during the switch of rolling admins), act on irrational decisions, make major changes to the rules, show prejudice or bias, delete the group, or remove members without proper justification.
-   4. ### Arbitration Committee **(ArbCom)**
+   4. #### Arbitration Committee **(ArbCom)**
       1. **Responsibilities:**
          1. The ArbCom ensures proper enforcement of document rules, members' rights, and preservation of the document's basic structure.
          2. It serves as a court of last resort, intervening when other project bodies fail to address issues adequately. However, it can initiate cases even if other avenues haven't been exhausted.
@@ -930,7 +930,7 @@ Originally designed by a single person to just help his friends, it aims to help
       4. **Workings:**
          1. The ArbCom panel is activated upon filing a grievance or case by a member in personal or public interest.
          2. It develops its own process, subcommittees, and rules to effectively carry out its duties.
-5. ### Emergency Protocol 🚨
+5. #### Emergency Protocol 🚨
    1. The Emergency Protocol is a set of rules and regulations that give the board of directors a wide variety of powers in unforeseen circumstances. Any power, granted by the emergency protocol, is not applicable to the Project during the normal operations of the Project.
    2. **The unforeseen circumstances include, but are not limited to:-**
       1. Heavy argument and dissatisfaction among the members of the Project, and/or a heavy disregard for the rules of the Project.
@@ -952,10 +952,10 @@ Originally designed by a single person to just help his friends, it aims to help
          1. Approval from 50% of the members.
          2. At least 60% of the Project's Board.
    6. This protocol has never been invoked once since the implementation of the documentation. (as of March 31, 2024)
-6.  ### Point of Contact Services
+6.  #### Point of Contact Services
 
     We respect the fact that users and content owners would like to contact us, the required has been mentioned in the “Contact Us” section of the Hub. The Board is responsible for providing Point of Contact services.
-7. ### Fair Use moderation
+7. #### Fair Use moderation
    1. **Protection Against Abuse:**
       1. The Project ensures that its services are not abused in any way. The Right to Life, guaranteed by Article 21 of the Indian Constitution, is applicable to everyone, and abuse of it will not be tolerated.
       2. Consequences of abuse may include termination of the license granted to the abuser, although this is not guaranteed in every case.
@@ -964,7 +964,7 @@ Originally designed by a single person to just help his friends, it aims to help
       2. The Project will assist affected parties and attempt to prevent abuses. Personal information of the affected will not be disclosed upon request, but details of the abuse will be transparently published to inform the public and serve as a reminder of The Project's stance against abuse.
    3. **Forgiveness Policy:** The Board or the ArbCom reserves the right to forgive abusers if forgiveness is granted by the affected party in written form, and if the abuser promises not to repeat the abuse in written form for legal validity.
    4. **Freedom of Expression:** The Project allows criticism and voicing of opinions, which is not considered abuse, except for illegal criticism such as cybercrimes against The Project, as defined under respective jurisdiction.
-8. ## Data
+8. ### Data
    1. **Data Storage and Privacy Policy:**
       1. The data within the Knowledge Hub is stored on third-party implementations, and the privacy policies of the software used are automatically applicable to all end-users and collaborators.
       2. Technical aspects of the Hub are required to be documented under the Governing Guidelines of the Project, focusing on keeping viewer data safe whenever possible.
@@ -988,7 +988,7 @@ Originally designed by a single person to just help his friends, it aims to help
       2. **Tracking (Marketing) Cookies**: Placed by third parties for tracking and selling data. We do not place these cookies.
       3. **Functional Cookies**: Used by the Project and/or third-parties to remember user choices for personalized experiences.
       4. **Analytics Cookies**: Aid in understanding visitor interactions and website analytics.
-9. ### Changes to Offerings and Closure Procedures:
+9. #### Changes to Offerings and Closure Procedures:
    1. **Changes to Services:** We reserve the right to change, discontinue, or limit "services or access to them" without prior notice; for any reason; which will be provided by the Board of Directors or/and ArbCom (both of which can be disputed with the ArbCom).
    2. **Basic Structure Preservation**: Any changes to the Basic and Fundamental structure of the governing guidelines should be made by consulting all admins, directors, ArbCom members together and should be approved by the Election Committee.
    3. **Closure Scenarios:** The group may be closed under the following circumstances:
@@ -1013,7 +1013,7 @@ Originally designed by a single person to just help his friends, it aims to help
 
 **Editorial Code of Conduct**
 
-> ### Info-box
+> #### Info-box
 
 > This sub-section of the guidelines serves as a set of rules for the collaborators and users. All templates here can not be modified here, but they can be copied over for use at any other place on the Hub. The templates over here must not be considered as effective in this portion of the guidelines, as they only templates and not an actual notice.
 
@@ -1076,7 +1076,7 @@ A “Type A” notice is a message that conveys something extremely important. I
 
 Every CA-A invoked section must have a CA-A notice on the main page of the section, preferably at the top. The colour of a CA-A notice is supposed to be red; in standalone version. However, if a CA-A notice is serving another purpose, then it can be indicated with another colour. The template for the CA-A notices is as follows: (Replace all tags in `code blocks (or monospaced)` as instructed inside them.)
 
-> ### **CAIS-A (Class Action Information Section, Type - A)** Notice
+> #### **CAIS-A (Class Action Information Section, Type - A)** Notice
 
 > This is a ::Class Action Information Section, Type A::. All information in this section and its sub-sections are to be taken with utmost severity; and is highly protected. Only members with a ::📣 CA-A:: pass are allowed to edit this section. All details enforced within is/are serious matter(s). ([Learn why.](craftdocs://open?blockId=82E22F22-B1CA-4F7F-AFED-3C5B66B86947\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c))
 
@@ -1084,7 +1084,7 @@ Every CA-A invoked section must have a CA-A notice on the main page of the secti
 
 The above notice is a CAIS-A template; the upcoming notice is a CANB-A template.
 
-> ### `Any Title`
+> #### `Any Title`
 
 > This is a `Class Action Notice Box, Type A (CANB-A)`. Do not remove this Notice box, if you don’t have the required access level. ([Learn why.)](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/82E22F22-B1CA-4F7F-AFED-3C5B66B86947)
 
@@ -1104,7 +1104,7 @@ A maintenance notice serves to inform users that a specific area of the hub is c
 
 To communicate this information, it will be relayed through the maintenance notice or tag. The template for the notice is provided below, where the necessary details should be inserted, replacing the code blocks or monospaced font:
 
-> ### 🧑‍🔧 This `section` is under Maintenance!
+> #### 🧑‍🔧 This `section` is under Maintenance!
 
 > We’ve currently polishing up a few things, and tightening up a few bolts to ensure that this section provides the best quality info possible. However, until then, this part may feel janky or contain invalid information. It’s safe to ignore this part until `this notice is removed`. ([Learn why you’re seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/7F6E9BA4-DFDC-4B89-B4D0-50AB3C9BDDB9))
 
@@ -1122,7 +1122,7 @@ The integrity of information posted on the Knowledge Hub is of utmost importance
 
 The template for the notice is:-
 
-> #### Questionable Content
+> **Questionable Content**
 
 > The following section contains content of questionable accuracy from questionable sources. We expect you to take the given section with a pinch of salt… We will not be held responsible nor accountable for your interpretation of the given content. ([Learn why you’re seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/27FCFB5C-439F-4F8D-9705-4DDF42A5C42F))
 
@@ -1138,7 +1138,7 @@ In situations where content is identified as potentially harmful, sensitive, or 
 
 The template is:-
 
-> #### ⚠️ **Caution**: Outdated or Potentially Harmful Information
+> **⚠️ Caution: Outdated or Potentially Harmful Information**
 
 > This section may contain sensitive or harmful information related to ongoing events. Please note that the content may be outdated or superseded by new information. We advise you to exercise caution when referring to this section, as we are not liable for your interpretation or understanding of the content. ([Learn why you’re seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/B9CAB24C-0984-4032-925A-C2ABAA8FA1BF))
 
@@ -1150,7 +1150,7 @@ The Information Notice is a useful tool for effectively communicating important 
 
 The template for this notice is:
 
-> #### Infobox
+> **Infobox**
 
 > `Content`
 
@@ -1164,7 +1164,7 @@ Some sections contain a person or a group of people’s collective opinion on a 
 
 The template for this notice is:-
 
-> ### Opinions coming right up! 🎤
+> #### Opinions coming right up! 🎤
 
 > This section contains opinions of the author(s), who have written out this piece of content. Your views may differ, and it’s always ok to agree to disagree. Never expect this information to be factually accurate, and the Hub will not take any responsibility for the views enclosed within, nor your interpretation of it. ([Learn why you’re seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/81F208F8-3083-4414-AE26-B160EB498877))
 
@@ -1174,7 +1174,7 @@ The template for this notice is:-
 
 This notice is created when a particular section of the hub is regarded as a stub and requires elaboration.
 
-> ### Stub Notice
+> #### Stub Notice
 
 > This section of the hub needs a lot more information than just this, to prove helpful to the viewer. If you're a collaborator and if you have enough knowledge, then please do elaborate this section so that it will prove helpful. ([Learn why you're seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/CF673FD1-29C5-45B6-9F8E-769D4E6A6AD9))
 
@@ -1182,7 +1182,7 @@ This notice is created when a particular section of the hub is regarded as a stu
 
 This section is placed at the bottom of page that has supposedly excellent content.
 
-> #### ::🥇 Created by a Trooper 🏆::
+> **::🥇 Created by a Trooper 🏆::**
 
 > The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images, and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
 
@@ -1192,7 +1192,7 @@ This section is placed at the bottom of page that has supposedly excellent conte
 
 Some boxes are also used for navigation purposes. An example is the one given below:-
 
-> #### [← Troopers Knowledge Hub](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/B6285B28-BFB4-48C4-A575-5503601541D5)
+> [**← Troopers Knowledge Hub**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/B6285B28-BFB4-48C4-A575-5503601541D5)
 
 > Wanna go back to the home page, but lost your way? Click above to return.
 
@@ -1315,7 +1315,7 @@ The Hub and the Project depends on a series of software technologies, handshakes
 
 Craft is the documentation software on which the hub is located. This page, the website, the sub-domain of hosting, well, most of the software is provided by Craft.
 
-> #### [← Troopers Knowledge Hub](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**← Troopers Knowledge Hub**](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Wanna go back to the home page, but lost your way? Click above to return.
 
@@ -1456,7 +1456,7 @@ To access and download all of the Google Drive materials that we host here, acce
 
 [The Troopers' Jugzards Backend - Google Drive](https://drive.google.com/drive/u/2/folders/1H6GLo8tvjuDqWGfHuYQiZo\_WkKoVZmJX)
 
-> #### [← Troopers Knowledge Hub](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**← Troopers Knowledge Hub**](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Wanna go back to the home page, but lost your way? Click above to return.
 
@@ -1468,7 +1468,7 @@ To access and download all of the Google Drive materials that we host here, acce
 
 Welcome to the Troopers' knowledge hub. Here, you will have access to a vast collection of files and resources that are specifically curated for ::Project Troopers.::
 
-> #### ::Mission Statement::
+> **::Mission Statement::**
 
 > Our mission is to equip you with the tools and knowledge necessary to excel in your role as a member of the Troopers. Whether you are a seasoned veteran or a fresh recruit, this knowledge hub will serve as your steadfast companion throughout your journey.
 
@@ -1484,43 +1484,43 @@ Welcome to Class 12! In this course, we will explore a wide range of topics and 
 
 ### Subjects
 
-> #### [**→ English**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/EB16397C-1624-4FEB-895C-922EF8726FDE)
+> [**→ English**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/EB16397C-1624-4FEB-895C-922EF8726FDE)
 
 > The English section of the Troopers Knowledge Hub! In this section, we will cover various aspects of the English language, including grammar rules, vocabulary, writing tips, and more. Click on the title above to access it.
 
-> #### [**→ Maths**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/F602F9DE-199F-4E38-A677-EBE15A2D3036)
+> [**→ Maths**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/F602F9DE-199F-4E38-A677-EBE15A2D3036)
 
 > The Maths section of the Troopers Knowledge Hub! In this section, we will explore various mathematical concepts and techniques that are essential for troopers in their daily tasks. Click on the title above to access it.
 
-> #### [**→ Biology.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/977210EF-1EE9-4428-99E7-668BE041A856)
+> [**→ Biology.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/977210EF-1EE9-4428-99E7-668BE041A856)
 
 > The Biology section of the Troopers Knowledge Hub! In this section, we will explore the fascinating world of living organisms, their structures, functions, and interactions with the environment. Click on the title above to access it.
 
-> #### [**→ Physics.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/EDF18F52-4F78-4B40-AB0B-40A684DA8213)
+> [**→ Physics.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/EDF18F52-4F78-4B40-AB0B-40A684DA8213)
 
 > The Physics section of the Troopers Knowledge Hub! In this section, we will explore the fundamental principles of physics and how they apply to various aspects of life as a Trooper. Click on the title above to access it.
 
-> #### [**→ Chemistry.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/52719A34-07FD-4B38-B841-E72CEAA91AAB)
+> [**→ Chemistry.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/52719A34-07FD-4B38-B841-E72CEAA91AAB)
 
 > The Chemistry section of the Troopers Knowledge Hub! In this section, we will explore the fundamental principles and concepts of chemistry that are essential for understanding various aspects of trooper life and duties. Click on the title above to access it.
 
-> #### [**→ Psychology.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/E56390D2-AF2C-4BC8-9CDC-C2D92634A918)
+> [**→ Psychology.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/E56390D2-AF2C-4BC8-9CDC-C2D92634A918)
 
 > Understanding the psychology of individuals is essential in law enforcement and public safety professions. Click on the title above to access it.
 
-> #### [**→ Computer Science.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/7D0E32ED-AD96-4A47-B44D-6367644A7E2A)
+> [**→ Computer Science.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/7D0E32ED-AD96-4A47-B44D-6367644A7E2A)
 
 > The Computer Science section of the Troopers Knowledge Hub! In this section, you will find comprehensive information and resources on various topics related to computer science. Click on the title above to access it.
 
-> #### [**→ General Studies.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/F9223310-E62D-4650-9947-DCE47EE8D6A0)
+> [**→ General Studies.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/F9223310-E62D-4650-9947-DCE47EE8D6A0)
 
 > The General Studies section of the Troopers Knowledge Hub! Here, you will find a wide range of topics and subjects that are essential for a well-rounded education and a successful career in law enforcement. Click on the title above to access it.
 
-> #### [**→ Art.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/5FD88057-DD79-405D-8DA1-0B0725327ACD)
+> [**→ Art.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/5FD88057-DD79-405D-8DA1-0B0725327ACD)
 
 > The Art section of the Troopers Knowledge Hub! In this section, we will explore the role of art in both military culture and society as a whole. Click on the title above to access it.
 
-> #### [**→ Catechism / Moral Science.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/C59DA2E2-29A8-4CCD-813F-8F0832CEB0C7)
+> [**→ Catechism / Moral Science.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/0C3C22BD-FFA0-4D7F-A6C8-EC738F5DF53B/x/C59DA2E2-29A8-4CCD-813F-8F0832CEB0C7)
 
 > Catechism and Moral Science are both important subjects that play a significant role in shaping an individual's moral values and spiritual beliefs. Click on the title above to access it.
 
@@ -1528,21 +1528,21 @@ Welcome to Class 12! In this course, we will explore a wide range of topics and 
 
 Then refer the other subsidiaries for information on the current proceedings!
 
-> #### [→ The Common Brigadier Regiment Division](craftdocs://open?blockId=A3A3D5E7-40E3-43A8-A6A7-BC181054DA80\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**→ The Common Brigadier Regiment Division**](craftdocs://open?blockId=A3A3D5E7-40E3-43A8-A6A7-BC181054DA80\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Looking for other combined division-specific materials? Click the link above to learn more.
 
-> #### [→ The First Brigadier Regiment](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/2A4304A6-9EAD-4226-A4E1-F5564523F7B1)
+> [**→ The First Brigadier Regiment**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/2A4304A6-9EAD-4226-A4E1-F5564523F7B1)
 
 > Are you a member of the First Brigadier Regiment and looking for materials related to it? Click the link above to learn more.
 
-> #### [→ The Second Brigadier Regiment](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/C5D494D8-C1EA-4079-BAEA-315F8B7E97A2)
+> [**→ The Second Brigadier Regiment**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/C5D494D8-C1EA-4079-BAEA-315F8B7E97A2)
 
 > Are you a member of the Second Brigadier Regiment and looking for materials related to it? Click the link above to learn more.
 
 ***
 
-> #### [← Troopers Knowledge Hub](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**← Troopers Knowledge Hub**](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Wanna go back to the home page, but lost your way? Click above to return.
 
@@ -1552,77 +1552,77 @@ Welcome to Class 11! In this course, we will explore a wide range of topics and 
 
 ### Subjects
 
-> #### [**→ English**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/15CBAF8F-170A-41F9-8688-202D832C2BA6)
+> [**→ English**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/15CBAF8F-170A-41F9-8688-202D832C2BA6)
 
 > The English section of the Troopers Knowledge Hub! In this section, we will cover various aspects of the English language, including grammar rules, vocabulary, writing tips, and more. Click on the title above to access it.
 
-> #### [**→ Maths**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/33165F39-AA5B-4490-908E-6BB16D397B15)
+> [**→ Maths**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/33165F39-AA5B-4490-908E-6BB16D397B15)
 
 > The Maths section of the Troopers Knowledge Hub! In this section, we will explore various mathematical concepts and techniques that are essential for troopers in their daily tasks. Click on the title above to access it.
 
-> #### [**→ Biology.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/DD5E82ED-3A03-4A5B-AA49-7C6C521FCFAF)
+> [**→ Biology.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/DD5E82ED-3A03-4A5B-AA49-7C6C521FCFAF)
 
 > The Biology section of the Troopers Knowledge Hub! In this section, we will explore the fascinating world of living organisms, their structures, functions, and interactions with the environment. Click on the title above to access it.
 
-> #### [**→ Physics.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/15C2CD58-1780-43A4-B7E2-B3E4BC4174A1)
+> [**→ Physics.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/15C2CD58-1780-43A4-B7E2-B3E4BC4174A1)
 
 > The Physics section of the Troopers Knowledge Hub! In this section, we will explore the fundamental principles of physics and how they apply to various aspects of life as a Trooper. Click on the title above to access it.
 
-> #### [**→ Chemistry.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/4E3D0369-C587-4CDC-8360-58EA406E67F2)
+> [**→ Chemistry.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/4E3D0369-C587-4CDC-8360-58EA406E67F2)
 
 > The Chemistry section of the Troopers Knowledge Hub! In this section, we will explore the fundamental principles and concepts of chemistry that are essential for understanding various aspects of trooper life and duties. Click on the title above to access it.
 
-> #### [**→ Psychology.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/432B7A30-202B-484A-9DF5-FD142EED5C40)
+> [**→ Psychology.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/432B7A30-202B-484A-9DF5-FD142EED5C40)
 
 > Understanding the psychology of individuals is essential in law enforcement and public safety professions. Click on the title above to access it.
 
-> #### [**→ Computer Science.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/C8B4656B-88A2-4741-B1CA-CB6F7B45099D)
+> [**→ Computer Science.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/C8B4656B-88A2-4741-B1CA-CB6F7B45099D)
 
 > The Computer Science section of the Troopers Knowledge Hub! In this section, you will find comprehensive information and resources on various topics related to computer science. Click on the title above to access it.
 
-> #### [**→ General Studies.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/E3E17A55-FCB2-40E4-874D-55DFB3B61A50)
+> [**→ General Studies.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/E3E17A55-FCB2-40E4-874D-55DFB3B61A50)
 
 > The General Studies section of the Troopers Knowledge Hub! Here, you will find a wide range of topics and subjects that are essential for a well-rounded education and a successful career in law enforcement. Click on the title above to access it.
 
-> #### [**→ Art.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/504AFE6C-4A51-4319-B4E5-D2C514A21E03)
+> [**→ Art.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/504AFE6C-4A51-4319-B4E5-D2C514A21E03)
 
 > The Art section of the Troopers Knowledge Hub! In this section, we will explore the role of art in both military culture and society as a whole. Click on the title above to access it.
 
-> #### [**→ Catechism / Moral Science.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/7DDECA62-9BED-49DE-994E-563DF95C80C6)
+> [**→ Catechism / Moral Science.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/6E82BE57-B2FC-4519-9B63-CFFAAB9A2AFC/x/7DDECA62-9BED-49DE-994E-563DF95C80C6)
 
 > Catechism and Moral Science are both important subjects that play a significant role in shaping an individual's moral values and spiritual beliefs. Click on the title above to access it.
 
 ***
 
-> #### [← Troopers Knowledge Hub](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
+> [**← Troopers Knowledge Hub**](craftdocs://open?blockId=B6285B28-BFB4-48C4-A575-5503601541D5\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)
 
 > Wanna go back to the home page, but lost your way? Click above to return.
 
-> #### [**→ Class 10.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/1DADEB55-CD11-489F-B701-F58F57026C68/x/799C7196-9F18-48F2-B2BA-16CDC10DBC01)
+> [**→ Class 10.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/1DADEB55-CD11-489F-B701-F58F57026C68/x/799C7196-9F18-48F2-B2BA-16CDC10DBC01)
 
 > Troopers Knowledge Hub Class 10: Navigate through a repository of curated files and resources tailored for Project Troopers. Click on the title above to access it.
 
-> #### [→ Review Space: Click here…](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/447CCA8A-35CF-4471-9C03-1EEE0A7E636F/x/8C1B849B-2375-49A3-9C89-CCFFCD8700E6)
+> [**→ Review Space: Click here…**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/447CCA8A-35CF-4471-9C03-1EEE0A7E636F/x/8C1B849B-2375-49A3-9C89-CCFFCD8700E6)
 
 > Would you like to access our review space and contribute? Click above
 
 ### The Regimental Subsidiaries
 
-> #### [**→ The**](craftdocs://open?blockId=1F32BE7B-C440-4CAB-B65D-C03E572731F7\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c) [**Regimental**](craftdocs://open?blockId=1F32BE7B-C440-4CAB-B65D-C03E572731F7\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c) [**Subsidiaries**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/1F32BE7B-C440-4CAB-B65D-C03E572731F7)
+> [**→ The**](craftdocs://open?blockId=1F32BE7B-C440-4CAB-B65D-C03E572731F7\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c) [**Regimental**](craftdocs://open?blockId=1F32BE7B-C440-4CAB-B65D-C03E572731F7\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c) [**Subsidiaries**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/1F32BE7B-C440-4CAB-B65D-C03E572731F7)
 
 > All the regiments of Project Troopers, pay heed to me here! The above title is the click-on link to access the regimental information. Let us all work for a better day.
 
 ### Competitive Exams
 
-> #### [**→ NEET.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/94942508-9908-49B3-B954-BC67B70EB29E)
+> [**→ NEET.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/94942508-9908-49B3-B954-BC67B70EB29E)
 
 > NEET is the first step for a medical -aspirant in India to ensure allowance into their dream medical college of choice. Interested in learning more? Click the title above.
 
-> #### [**→ JEE / VIT / BITSAT.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/F02530CD-CBE5-4EA6-9096-082EF81F7FB8)
+> [**→ JEE / VIT / BITSAT.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/F02530CD-CBE5-4EA6-9096-082EF81F7FB8)
 
 > Designed for aspiring engineers, our goal is to equip you with the knowledge and strategies needed to excel in these exams and gain admission into your dream colleges. Interested in learning more? Click the title above.
 
-> #### [**→ SAT.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/89869114-8BDB-4909-9C02-8C81A2A563BF)
+> [**→ SAT.**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/89869114-8BDB-4909-9C02-8C81A2A563BF)
 
 > The SAT, or Scholastic Assessment Test, is a standardized exam administered by the College Board, which is widely used by colleges and universities in the United States as part of their admissions process. Interested in learning more? Click the title above.
 
@@ -1630,7 +1630,7 @@ Welcome to Class 11! In this course, we will explore a wide range of topics and 
 
 **A Quick How-to? …study**
 
-> ### Opinions coming right up! 🎤
+> #### Opinions coming right up! 🎤
 
 > This section contains opinions of the author(s), who have written out this piece of content. Your views may differ, and it’s always ok to agree to disagree. Never expect this information to be factually accurate, and the Hub will not take any responsibility for the views enclosed within, nor your interpretation of it. (Learn why you’re seeing this.)
 
@@ -1658,7 +1658,7 @@ Welcome to Class 11! In this course, we will explore a wide range of topics and 
 
 ### Archives: Project Troopers
 
-> #### [**→ The**](craftdocs://open?blockId=C275FB90-D7DC-47D4-9502-2960CED61FAC\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c) [**Original**](craftdocs://open?blockId=C275FB90-D7DC-47D4-9502-2960CED61FAC\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c) [**Archives**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/C275FB90-D7DC-47D4-9502-2960CED61FAC)
+> [**→ The**](craftdocs://open?blockId=C275FB90-D7DC-47D4-9502-2960CED61FAC\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c) [**Original**](craftdocs://open?blockId=C275FB90-D7DC-47D4-9502-2960CED61FAC\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c) [**Archives**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/C275FB90-D7DC-47D4-9502-2960CED61FAC)
 
 > Delve into the archival records of the Troopers Knowledge Hub during its inaugural year of operation, from 2023 to 2024, by clicking above.
 
@@ -1666,7 +1666,7 @@ Welcome to Class 11! In this course, we will explore a wide range of topics and 
 
 This hub may include copyrighted materials and text for scientific and research purposes under the ::educational exemptions of the Indian Copyright Act, 1951:: and its further amendments. We do not claim copyright for any materials that have been used from other sources, and will priorly inform you regarding the same.
 
-> #### [**→ Wish to learn more about us?**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/FD390CA3-1D8B-4E98-8F8E-F3FD994A99A6)
+> [**→ Wish to learn more about us?**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/FD390CA3-1D8B-4E98-8F8E-F3FD994A99A6)
 
 > Learn more about us over here, like about our history, changes and guidelines; by clicking above.
 
@@ -1680,7 +1680,7 @@ No Copyrights Claimed. Private (Unlisted) Use only. By the Troopers Project. Ope
 
 In this section, we delve into the archival records of the Troopers Knowledge Hub during its inaugural year of operation, from 2023 to 2024. As we step back, we uncover the humble beginnings of the Troopers Knowledge Hub, a resource that was initially created to assist a small group of classmates with their schoolwork. Led by the Founder's vision to streamline information sharing and collaboration, the hub evolved into a valuable platform for academic support and communication within the group. Join us on a journey through the archival records of this pioneering period, where the focus was on homework assignments, important announcements, and various initiatives undertaken by the Troopers. Explore the early days of the hub and gain insight into its foundation and growth, paving the way for what it has become today. ::As we explore these records, it is important to note that the content may be considered outdated or depreciated, but it is preserved here for historical and reference purposes.::
 
-> ### Founder's Note
+> #### Founder's Note
 
 > In the beginning, I started the Troopers Knowledge Hub as an internal effort for only my fellow colleagues, to help them catch up on the latest happenings in school, get the latest notes and a lot more in one place. I found out that this method was more efficient than answering everyone's queries on a one-on-one basis… 😅. This record here directly deals with the operations of the Hub in the founding year, where it was only directed to help my class mates of Class 11. Thus, this section is not relevant to the current structure of the hub.
 
@@ -2322,7 +2322,7 @@ Incomplete submissions of the note will also be graded accordingly. If you have 
 3. **Biology** - Final Reminder. Mam wants to see the records soon… So submit it by tmrw with all the required experiments completed. Remember, this is your _final submission_ of the Bio Record, which will be evaluated for this academic year’s internals.
 4. **Chemistry** - Submit your _Record_ with Experiments 1 and 2 tmrw (as mam had instructed us to submit it by the next working day). And submit your observation notes for all 4 experiments and get them corrected.
 
-> #### Notice
+> **Notice**
 
 > All Periodic Exam 3 related announcements are present in the Annual Exam sub-section of the Tests section. Refer there for the archives.
 
@@ -2616,7 +2616,7 @@ From Ishana Santhosh (On WhatsApp):-
 
 **October**
 
-> ### Rolling H.W.
+> #### Rolling H.W.
 
 * > Bio Record - Finish Exp 7 to 14.
 * > Physics Record - Finish Exp 1 to 8
@@ -2768,7 +2768,7 @@ From Ishana Santhosh (On WhatsApp):-
 
 **September**
 
-> ### H.W. List
+> #### H.W. List
 
 * > Bio Record - Finish Exp 7 to 13.
 * > Physics Record - Finish Exp 1 to 4
@@ -2863,7 +2863,7 @@ Students of Std XI A had Special classes on Saturday (2.09.23). **Timing**:
 
 **August**
 
-> ### Rolling H.W.
+> #### Rolling H.W.
 
 * > **English:** Finish sticking the notes that mam sends for the composition - Speech Writing and Poster Making - and complete the exercises. Deadline not mentioned, but it was claimed that we had to submit soon.
 * > **Maths**: Submit your Worksheet note for Ls 1, Ls 2 on Friday. Don’t write the dates in the index until then.
@@ -3339,7 +3339,7 @@ This was the school provided version… However, it was improperly formatted. A 
 
 * > The Catechism and Moral Science exams have been postponed indefinitely. Further announcements will be made regarding their rescheduling.
 
-> ### Sources
+> #### Sources
 
 > We respect copyright laws, and we do not claim copyright for the above materials.
 
@@ -3399,7 +3399,7 @@ Refer the [Reminders - The Second Brigadier Regiment](https://desktop.craft.do:6
 2. **General** - The SOF Level 2 admit cards have been released on SOF’s website. _Please go through the guidelines and download the admit card._
 3. **General** - **PUBLIC DISCLOSURE** - I’m kinda sorry for the sending the announcements this late, as my automation had a small bug that crept in while upgrading the automation code, which rendered a dictionary building subsystem completely unusable. _Forgive me._
 
-> ### Sources
+> #### Sources
 
 > We respect copyright laws, and we do not claim copyright for the above materials.
 
@@ -3411,7 +3411,7 @@ Refer the [Reminders - The Second Brigadier Regiment](https://desktop.craft.do:6
 4. > Own unlisted in-school sources
 5. > DBX Data Portal
 
-> #### Why is the actual content over here?
+> **Why is the actual content over here?**
 
 > While conduct some trial runs with the hub, we found out that craft is designed to load all the contents of the sharing page in one go. In order to reduce bandwidth issues and increase stability, the hub has an alternate user-facing page for the viewers alone.
 
