@@ -24,3 +24,13 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥️ For Developers](use-cases/for-developers.md)
+
+## Class 12
+
+### English
+* [Ls 1 - The Last Lesson](Class 12/English/Ls 1 - The Last Lesson.md)
+
+#### Activities
+
+#### Composition
+
