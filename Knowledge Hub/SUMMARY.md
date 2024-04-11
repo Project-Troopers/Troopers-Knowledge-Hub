@@ -28,7 +28,7 @@
 ## Class 12
 
 ### English
-* [Ls 1 - The Last Lesson](Class 12/English/Ls 1 - The Last Lesson.md)
+* [Ls 1 - The Last Lesson]("Class 12/English/Ls 1 - The Last Lesson.md")
 
 #### Activities
 
