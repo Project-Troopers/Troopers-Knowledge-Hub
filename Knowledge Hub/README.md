@@ -6,7 +6,7 @@ description: >-
 
 # 👋 Welcome to Project Troopers!
 
-Welcome to Project Troopers! I’m Sugeeth, the Collaborator In-Charge (i.e the de-jure head) of this Project Troopers.
+> Welcome to Project Troopers! I’m Sugeeth, the Collaborator In-Charge (i.e the de-jure head) of this Project Troopers.
 
 ### What is Project Troopers?
 
@@ -19,6 +19,8 @@ This Project was quite small towards the start, with only including my classmate
 The current outreach operation is aimed at connecting students everywhere. You guys, are now part of our pan-India outreach programme (which is still very small)… but we aim to expand soon.
 
 We are a non-profit non-governmental organisation, a student body for the students, by the students and of the students. We are not linked with any school, any institution. And our structure is pretty military-themed, so don't mind if we use a lot of military related terms.
+
+We are governed by our governing guidelines.
 
 ![A beautiful image](https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxNDIyNzR8MHwxfHNlYXJjaHw1fHxlZHVjYXRpb258ZW58MHx8fHwxNzEyNDc2NTg5fDA\&ixlib=rb-4.0.3\&q=85)
 
