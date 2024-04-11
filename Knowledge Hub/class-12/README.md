@@ -10,5 +10,3 @@ Welcome to Class 12! In this course, we will explore a wide range of topics and 
 
 1. [One Shot Download - Class 12 Books - Folder](https://drive.google.com/drive/folders/1jj-A5Zo5BJ1\_CqvWvR7ZL25r1TTUI009)\
    maintained on the Jugzards Archive Mirror
-
-### Lessons

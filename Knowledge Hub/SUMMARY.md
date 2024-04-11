@@ -4,18 +4,18 @@
 
 ## 🤩 class
 
-* [🕛 Class 12](class/class-12/README.md)
-  * [📚 English](class/class-12/english/README.md)
-    * [Lessons](class/class-12/english/lessons/README.md)
-      * [Ls 1 - The Last Lesson](class/class-12/english/lessons/ls-1-the-last-lesson.md)
-      * [Poem 1 - My Mother at Sixty-six](class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md)
-    * [Activities](class/class-12/english/activities/README.md)
-      * [Investigatory Project](class/class-12/english/activities/investigatory-project.md)
-    * [Composition](class/class-12/english/composition/README.md)
-      * [Invitation Writing](class/class-12/english/composition/invitation-writing.md)
-      * [Notice Writing](class/class-12/english/composition/notice-writing.md)
-    * [Tips](class/class-12/english/tips/README.md)
-      * [How did some idioms and words came into existence?](class/class-12/english/tips/how-did-some-idioms-and-words-came-into-existence.md)
+* [🕛 Class 12](class-12/README.md)
+  * [📚 English](class-12/english/README.md)
+    * [Lessons](class-12/english/lessons/README.md)
+      * [Ls 1 - The Last Lesson](class-12/english/lessons/ls-1-the-last-lesson.md)
+      * [Poem 1 - My Mother at Sixty-six](class-12/english/lessons/poem-1-my-mother-at-sixty-six.md)
+    * [Activities](class-12/english/activities/README.md)
+      * [Investigatory Project](class-12/english/activities/investigatory-project.md)
+    * [Composition](class-12/english/composition/README.md)
+      * [Invitation Writing](class-12/english/composition/invitation-writing.md)
+      * [Notice Writing](class-12/english/composition/notice-writing.md)
+    * [Tips](class-12/english/tips/README.md)
+      * [How did some idioms and words came into existence?](class-12/english/tips/how-did-some-idioms-and-words-came-into-existence.md)
   * [🎰 Mathematics](class/class-12/mathematics/README.md)
     * [Ls 3 - Matrices](class/class-12/mathematics/ls-3-matrices.md)
   * [Physics](class/class-12/physics/README.md)
@@ -42,8 +42,8 @@
 
 ## Divisions
 
-* [📪 Making a post](divisions/making-a-post.md)
-* [📎 Understanding Projects](divisions/understanding-projects.md)
+* [📪 Making a post](product-guides/making-a-post.md)
+* [📎 Understanding Projects](product-guides/understanding-projects.md)
 * [Brigadiers](divisions/brigadiers/README.md)
   * [The First Brigadier Regiment](divisions/brigadiers/the-first-brigadier-regiment.md)
 
