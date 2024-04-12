@@ -37,8 +37,16 @@
 ## Overview
 
 * [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [✨ Governing Guidelines](overview/governing-guidelines/README.md)
+  * [Our Legal Stature](overview/governing-guidelines/our-legal-stature.md)
+  * [Technical Guideline to the Hub](overview/governing-guidelines/technical-guideline-to-the-hub.md)
+  * [The Troopers Board of Directors](overview/governing-guidelines/the-troopers-board-of-directors.md)
+  * [Arbitration Committee (ArbCom)](overview/governing-guidelines/arbitration-committee-arbcom.md)
+  * [Editorial Code of Conduct](overview/governing-guidelines/editorial-code-of-conduct.md)
+  * [Life cycle Policies](overview/governing-guidelines/life-cycle-policies.md)
 * [🎉 Onboarding](overview/onboarding.md)
+* [🧑‍🔧 Members](overview/members.md)
+* [📃 Changelog](overview/changelog.md)
 
 ## Divisions
 
@@ -46,6 +54,7 @@
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 * [Brigadiers](divisions/brigadiers/README.md)
   * [The First Brigadier Regiment](divisions/brigadiers/the-first-brigadier-regiment.md)
+* [Subedars](divisions/subedars.md)
 
 ## Fundamentals
 
@@ -58,3 +67,12 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥️ For Developers](use-cases/for-developers.md)
+
+## ☄️ Competitive Exams
+
+* [NEET](competitive-exams/neet.md)
+* [SAT](competitive-exams/sat.md)
+* [JEE / VIT / BITSAT](competitive-exams/jee-vit-bitsat/README.md)
+  * [The DB Prep Test Series](competitive-exams/jee-vit-bitsat/the-db-prep-test-series/README.md)
+    * [Class 11 (DBPTS-J)](competitive-exams/jee-vit-bitsat/the-db-prep-test-series/class-11-dbpts-j.md)
+    * [Class 12 (DBPTS-J)](competitive-exams/jee-vit-bitsat/the-db-prep-test-series/class-12-dbpts-j.md)
