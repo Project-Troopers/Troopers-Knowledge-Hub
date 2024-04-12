@@ -53,7 +53,7 @@
 * [📪 Making a post](product-guides/making-a-post.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 * [Brigadiers](divisions/brigadiers/README.md)
-  * [The First Brigadier Regiment](divisions/brigadiers/the-first-brigadier-regiment.md)
+  * [The Fourth Brigadier Regiment](divisions/brigadiers/the-fourth-brigadier-regiment.md)
 * [Subedars](divisions/subedars.md)
 
 ## Fundamentals
