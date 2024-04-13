@@ -168,5 +168,3 @@ Still I'll rise.
 [The issue 1.pptx - Microsoft PowerPoint Online](https://1drv.ms/p/s!Aud8bPEWal0q5zM2yVFU-LdGC4rk)
 
 ©️The Corridor Initiative, released under the Creative Commons 4.0 Non-commercial license. Ownership and license only applies to the assets that the initiative has created.
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+\[native+code]+}+File\&mimeType=application/octet-stream\&fileName=Issue+1.md\&fileType=undefined\&fileExtension=md
