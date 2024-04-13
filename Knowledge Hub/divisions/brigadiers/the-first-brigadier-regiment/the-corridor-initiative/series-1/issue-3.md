@@ -1,6 +1,9 @@
 # Issue 3
 
-Status: Published The Colorful Edition
+{% hint style="info" %}
+**Status**: Published \
+The Colorful Edition
+{% endhint %}
 
 ## Contributors:
 
@@ -16,5 +19,3 @@ Status: Published The Colorful Edition
 ## The Newspaper
 
 [The Corridor - Issue 3 - Final.pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/6aedab5d-852e-43ec-9705-d705d0d442ca/8d5b4bd7-49fd-472a-8c33-644442b99f3c)
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+\[native+code]+}+File\&mimeType=application/octet-stream\&fileName=Issue+3.md\&fileType=undefined\&fileExtension=md

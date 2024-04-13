@@ -1,6 +1,10 @@
 # Issue 6
 
-Status: Published ::Theme: Tech, with a dash of language:: Published on 05/10/2023
+{% hint style="info" %}
+**Status**: Published \
+**Theme**: Tech, with a dash of language\
+Published on 05/10/2023
+{% endhint %}
 
 ## Crew
 

@@ -2,7 +2,7 @@
 description: of Project Troopers (Batch 2)
 ---
 
-# Subedars
+# 🪖 Subedars
 
 ### Introduction
 

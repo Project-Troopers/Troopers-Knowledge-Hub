@@ -1,8 +1,10 @@
 # Issue 4
 
-## Issue 4
-
-Status: Published ::Theme: Astrology:: Published on 07/08/2023
+{% hint style="info" %}
+**Status**: Published \
+**Theme**: Astrology\
+_Published on 07/08/2023_
+{% endhint %}
 
 ### Contributors
 
@@ -81,5 +83,3 @@ By Ishana Santhosh
 ### Final Issue
 
 [The Corridor - Issue 4 - V4.pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/c2e44b9a-32d9-2ec1-a724-7627576c64b7/rcP6Xcx7klaJvSX2Sr5RV3xjxr7nK7z6lAfMVHPFyJ4z/The%20Corridor%20-%20Issue%204%20-%20V4.pdf)
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+\[native+code]+}+File\&mimeType=application/octet-stream\&fileName=Issue+4.md\&fileType=undefined\&fileExtension=md

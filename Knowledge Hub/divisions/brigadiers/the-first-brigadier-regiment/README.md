@@ -12,7 +12,7 @@ Welcome to The First Brigadier Regiment section! Here you will find the latest h
 
 ### Internal Pages
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>The Bulletin Board</strong></td><td><a href="bulletin-board.md">bulletin-board.md</a></td></tr><tr><td><strong>The Corridor Initiative</strong></td><td></td></tr><tr><td><strong>Announcements</strong></td><td><a href="announcements.md">announcements.md</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>The Bulletin Board</strong></td><td><a href="bulletin-board.md">bulletin-board.md</a></td><td><a href="../../../.gitbook/assets/cork-background-with-blank-slate-easter-bunny.jpg">cork-background-with-blank-slate-easter-bunny.jpg</a></td></tr><tr><td><strong>The Corridor Initiative</strong></td><td><a href="the-corridor-initiative/">the-corridor-initiative</a></td><td><a href="../../../.gitbook/assets/minimalist-hallways-background.jpg">minimalist-hallways-background.jpg</a></td></tr><tr><td><strong>Announcements</strong></td><td><a href="announcements/">announcements</a></td><td><a href="../../../.gitbook/assets/psd_ui_3d_render_megaphone.jpg">psd_ui_3d_render_megaphone.jpg</a></td></tr></tbody></table>
 
 ## About us.
 

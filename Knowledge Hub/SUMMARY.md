@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Home Page](README.md)
+  * [🏠 A Quick How-to? …study](readme/a-quick-how-to-...study.md)
 
 ## 🤩 class
 
@@ -22,9 +23,22 @@
     * [Lessons](class/class-12/physics/lessons/README.md)
       * [Ls 1 - Electric Charges and Fields](class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md)
       * [Ls 2 - Electrostatic Potential and Capacitance](class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md)
-  * [Biology](class/class-12/biology/README.md)
+  * [🧬 Biology](class/class-12/biology/README.md)
     * [Lessons](class/class-12/biology/lessons/README.md)
       * [Ls 1 - Sexual Reproduction in Flowering Plants](class/class-12/biology/lessons/ls-1-sexual-reproduction-in-flowering-plants.md)
+      * [Ls 2 - Human Reproduction](class/class-12/biology/lessons/ls-2-human-reproduction.md)
+      * [Ls 3 - Reproductive Health](class/class-12/biology/lessons/ls-3-reproductive-health.md)
+      * [Ls 4 - Principles of Inheritance and Variation](class/class-12/biology/lessons/ls-4-principles-of-inheritance-and-variation.md)
+      * [Ls 5 - Molecular Basis of Inheritance](class/class-12/biology/lessons/ls-5-molecular-basis-of-inheritance.md)
+      * [Ls 6 - Evolution](class/class-12/biology/lessons/ls-6-evolution.md)
+      * [Ls 7 - Human Health and Diseases](class/class-12/biology/lessons/ls-7-human-health-and-diseases.md)
+      * [Ls 8 - Microbes in Human Welfare](class/class-12/biology/lessons/ls-8-microbes-in-human-welfare.md)
+      * [Ls 9 - Biotechnology Principles and Processes](class/class-12/biology/lessons/ls-9-biotechnology-principles-and-processes.md)
+      * [Ls 10 - Biotechnology and Its Application](class/class-12/biology/lessons/ls-10-biotechnology-and-its-application.md)
+      * [Ls 11 - Organisms and Populations](class/class-12/biology/lessons/ls-11-organisms-and-populations.md)
+      * [Ls 12 - Ecosystem](class/class-12/biology/lessons/ls-12-ecosystem.md)
+      * [Ls 13 - Biodiversity and Conservation](class/class-12/biology/lessons/ls-13-biodiversity-and-conservation.md)
+    * [Practicals](class/class-12/biology/practicals.md)
   * [Chemistry](class/class-12/chemistry/README.md)
     * [Lessons](class/class-12/chemistry/lessons/README.md)
       * [Ls 1 - Solutions](class/class-12/chemistry/lessons/ls-1-solutions.md)
@@ -49,17 +63,33 @@
 
 ## Divisions
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-* [Brigadiers](divisions/brigadiers/README.md)
+* [😁 Brigadiers](divisions/brigadiers/README.md)
+  * [The Brigadier Common Division](divisions/brigadiers/the-brigadier-common-division/README.md)
+    * [Brigadier Common Archives](divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/README.md)
+      * [Cyber Club](divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/cyber-club.md)
+      * [Olympiads and Competitions](divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/olympiads-and-competitions.md)
+      * [Tests - Schedule](divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/tests-schedule.md)
+      * [The Noticeboard Initiative](divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/the-noticeboard-initiative.md)
+      * [Word of the Day](divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/word-of-the-day.md)
   * [The First Brigadier Regiment](divisions/brigadiers/the-first-brigadier-regiment/README.md)
     * [Bulletin Board](divisions/brigadiers/the-first-brigadier-regiment/bulletin-board.md)
-    * [Announcements](divisions/brigadiers/the-first-brigadier-regiment/announcements.md)
+    * [📢 Announcements](divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md)
+      * [Latest Reminders](divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md)
+      * [February 2024](divisions/brigadiers/the-first-brigadier-regiment/announcements/february-2024.md)
+      * [January 2024](divisions/brigadiers/the-first-brigadier-regiment/announcements/january-2024.md)
+      * [December 2023](divisions/brigadiers/the-first-brigadier-regiment/announcements/december-2023.md)
+      * [November 2023](divisions/brigadiers/the-first-brigadier-regiment/announcements/november-2023.md)
+      * [October 2023](divisions/brigadiers/the-first-brigadier-regiment/announcements/october-2023.md)
+      * [September 2023](divisions/brigadiers/the-first-brigadier-regiment/announcements/september-2023.md)
+      * [August 2023](divisions/brigadiers/the-first-brigadier-regiment/announcements/august-2023.md)
+      * [July 2023](divisions/brigadiers/the-first-brigadier-regiment/announcements/july-2023.md)
+      * [May - June 2023](divisions/brigadiers/the-first-brigadier-regiment/announcements/may-june-2023.md)
     * [The Corridor Initiative](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/README.md)
       * [Series 2](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/README.md)
         * [Issue 1](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-1.md)
         * [Issue 2](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md)
       * [Series 1](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/README.md)
+        * [Issue 1](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-1.md)
         * [Issue 2](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-2.md)
         * [Issue 3](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-3.md)
         * [Issue 4](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-4.md)
@@ -67,22 +97,13 @@
         * [Issue 6](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-6.md)
         * [Issue 7](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-7.md)
         * [Issue 8](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-8.md)
-        * [Issue 1](divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-1.md)
     * [The Troopers Board of Directors](divisions/brigadiers/the-first-brigadier-regiment/the-troopers-board-of-directors.md)
+  * [The Second Brigadier Regiment](divisions/brigadiers/the-second-brigadier-regiment/README.md)
+    * [📢 Announcements](divisions/brigadiers/the-second-brigadier-regiment/announcements/README.md)
+      * [Latest Reminders (SBR)](divisions/brigadiers/the-second-brigadier-regiment/announcements/latest-reminders-sbr.md)
+      * [February 2024](divisions/brigadiers/the-second-brigadier-regiment/announcements/february-2024.md)
   * [The Fourth Brigadier Regiment](divisions/brigadiers/the-fourth-brigadier-regiment.md)
-* [Subedars](divisions/subedars.md)
-
-## Fundamentals
-
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-* [The Decentralized Hub Landing Page](fundamentals/the-decentralized-hub-landing-page.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🪖 Subedars](divisions/subedars.md)
 
 ## ☄️ Competitive Exams
 
