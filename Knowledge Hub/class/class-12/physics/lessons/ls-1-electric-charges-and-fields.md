@@ -1,5 +1,17 @@
 # Ls 1 - Electric Charges and Fields
 
+## Questions
+
+1. Two identical charged spheres suspended from a common point by two massless strings of length l, are initially at a distance d(d<\<l) apart because of their mutual repulsion. The charges begins to leak from both the spheres at a constant rate. As a result, the spheres approach each other with a velocity v. Then v varies as a function of the distance x between the spheres as?&#x20;
+2. A charged cloud system produces an electric field in the air near the earth's surface. A particle of charge -2×10^−19C is acted on by a downward electrostatic force of 3x10^−6N when placed in this field. The gravitational and electrostatic force, respectively, exerted on a proton placed in this field are \
+   (1) 1.64×10^−26N , 2.4×10^−16 N \
+   (2) 1.64×10^−26N, 1.5×10^−16 N \
+   (3) 1.56×10^−18N, 2.4×10^−16 N \
+   (4) 1.5×10^3 N , 2.4×10^−16 N
+3.
+
+    <figure><img src="../../../../.gitbook/assets/WhatsApp Image 2024-04-13 at 13.01.13_5e4229f0.jpg" alt=""><figcaption><p>The third question.</p></figcaption></figure>
+
 ## The Good old notes…
 
 [Ls 1 - EC and Fields - Part 2 Full.pdf](https://drive.google.com/file/d/1ss3CBwiPT6uX2JuAaEJPNMbaiZB3RYSg/view?usp=drive\_link)

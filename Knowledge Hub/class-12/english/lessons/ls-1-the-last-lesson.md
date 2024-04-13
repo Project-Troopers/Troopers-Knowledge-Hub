@@ -231,8 +231,10 @@ Since the village school also served as a home for the teacher (and rarely his f
 4. “Ah how well I remembered it, that last lesson!” Why did Franz remember it well?
 5. How were the parents and M Hamel responsible for the children’s neglect of the French language?
 
-> #### ::🥇 Created by Troopers 🏆::
+{% hint style="info" %}
+#### 🥇 Created by Troopers 🏆
 
-> The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images, and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
+The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images, and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
 
-> written and claimed by [The First Brigadier Regiment](craftdocs://open?blockId=2A4304A6-9EAD-4226-A4E1-F5564523F7B1\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c) on March 26, 2024.
+written and claimed by [The First Brigadier Regiment](craftdocs://open?blockId=2A4304A6-9EAD-4226-A4E1-F5564523F7B1\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c)[ ](../../../divisions/brigadiers/the-first-brigadier-regiment/)on March 26, 2024.
+{% endhint %}
