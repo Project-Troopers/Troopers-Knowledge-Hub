@@ -1,5 +1,7 @@
 ---
 description: of Project Troopers (Batch 2)
+cover: ../.gitbook/assets/Subedar.jpg
+coverY: 0
 ---
 
 # 🪖 Subedars
