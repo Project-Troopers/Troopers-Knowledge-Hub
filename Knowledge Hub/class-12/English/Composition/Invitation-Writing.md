@@ -4,6 +4,6 @@ When it comes to inviting guests to a special event, the invitation sets the ton
 
 ## Reference Files
 
-[invitation writing.pdf](https://drive.google.com/open?id=10jTXpEZiZOscQcOrYuqypQ909bBkkiAb&usp=drive_fs)
+[invitation writing.pdf](https://drive.google.com/open?id=10jTXpEZiZOscQcOrYuqypQ909bBkkiAb\&usp=drive\_fs)
 
-[invitation writing notes.docx](https://docs.google.com/document/d/10lC9vsCNWuA7BKfxSEu1mHr3bTOYKj-f?rtpof=true&usp=drive_fs)
+[invitation writing notes.docx](https://docs.google.com/document/d/10lC9vsCNWuA7BKfxSEu1mHr3bTOYKj-f?rtpof=true\&usp=drive\_fs)

@@ -6,10 +6,10 @@ Notice writing is an important and effective way to communicate information to a
 
 Total: - 4 marks
 
-- Format - 1 mark
-- Content - 2 marks
-- Expression - 1/2 mark
-- Spelling/Grammar - 1/2 mark
+* Format - 1 mark
+* Content - 2 marks
+* Expression - 1/2 mark
+* Spelling/Grammar - 1/2 mark
 
 ## Format
 
@@ -19,16 +19,16 @@ Note: Ignore the row separator lines between each element of the format, they ar
 
 ## Important points:-
 
-- The name of the organisation / association/institution should be written in block letters on top of the notice.
-- The date should be in the DD/MM/YYYY (23rd March, 20XX).
-- The word "NOTICE" should be mentioned.
-- A precise caption or title should be given.
-- All the essential details should be in with in crisp sentences. in the order of importance
-- The language should be formal or semi-formal.
-- The notice must answer the question: When? where?, How? What?; Why?
-- The word limit of 50 words should be adhered to.
-- The box is mandatory.
-- Be logical about the date and timing.
+* The name of the organisation / association/institution should be written in block letters on top of the notice.
+* The date should be in the DD/MM/YYYY (23rd March, 20XX).
+* The word "NOTICE" should be mentioned.
+* A precise caption or title should be given.
+* All the essential details should be in with in crisp sentences. in the order of importance
+* The language should be formal or semi-formal.
+* The notice must answer the question: When? where?, How? What?; Why?
+* The word limit of 50 words should be adhered to.
+* The box is mandatory.
+* Be logical about the date and timing.
 
 ## Samples:-
 
@@ -49,4 +49,3 @@ Note: Ignore the row separator lines between each element of the format, they ar
 1. You are Scout Master/Guide Captain of K.R. Sagar Public School, Mysore. You have decided to send a troop of scouts and guides of your school to the jamboree to be held at Lucknow for a week. Draft a notice in not more than 50 words to be placed on the school notice board inviting the names of those scouts and guides who are interested to participate in the jamboree. Invent the necessary details.
 2. You are Sports Secretary of Lalwani Public School, Udaipur. Draft a notice in not more than 50 words for your school notice board asking the students to give their names for participation in various events to be held on the Annual Sports Day of your school. Invent the details of the events. Sign as Lalit/Lalita.
 3. You are Smitha/Sunil, Secretary AVM Housing Society. You are going to organize a blood donation camp. Write a notice in not more than 50 words, urging the members of your society to come in large numbers for this noble cause. Invent all the necessary details.
-
