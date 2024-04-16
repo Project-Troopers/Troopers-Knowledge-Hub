@@ -53,4 +53,8 @@ The Hub does contain some materials that the contributors create and some materi
 
 It is the place where we archive our materials that we have on the hub. It is also maintained by a group of collaborators…
 
+### Governing Guidelines
+
+We are self-governed by a set of guidelines, applicable to all viewers and contributors alike. You can read them up over [here](governing-guidelines/).
+
 If you have any doubts, please ask us, and we will help you. Thank you for joining Project Troopers!

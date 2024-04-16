@@ -9,7 +9,8 @@ description: What's changed?
 
 ## Version 4 (Beta)
 
-* Shifting the hub over to GitBook and implementing structural changes&#x20;
+* Shifted the hub over to GitBook (and GitHub) and implementing structural changes.
+* Loading times have now been improved, the hub loads atleast 10 times faster (internet connection dependent)
 
 ## Version 3.1
 

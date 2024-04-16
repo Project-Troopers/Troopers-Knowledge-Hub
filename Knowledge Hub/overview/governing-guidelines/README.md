@@ -6,8 +6,10 @@ description: >-
 
 # ✨ Governing Guidelines
 
+{% hint style="success" %}
 **Version 1** \
 Effective from _April 10, 2024; at 7:02 PM IST._
+{% endhint %}
 
 {% hint style="danger" %}
 ### <mark style="color:red;">CAIS-A Notice</mark>
@@ -23,5 +25,5 @@ Originally designed by a single person to just help his friends, it aims to help
 
 ## Sections
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Our Legal Stature</strong></td><td>The Legal power of our hub</td><td><a href="our-legal-stature.md">our-legal-stature.md</a></td></tr><tr><td><strong>Editorial Code of Conduct</strong></td><td>The editorial guidelines...</td><td><a href="editorial-code-of-conduct.md">editorial-code-of-conduct.md</a></td></tr><tr><td><strong>Technical Guidelines</strong></td><td>How to work with the hub?</td><td><a href="technical-guideline-to-the-hub.md">technical-guideline-to-the-hub.md</a></td></tr><tr><td><strong>The Trooper Board of Direc</strong></td><td><strong>The head of the hub</strong></td><td><a href="../../divisions/brigadiers/the-first-brigadier-regiment/the-troopers-board-of-directors.md">the-troopers-board-of-directors.md</a></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Our Legal Stature</strong></td><td>The Legal power of our hub</td><td><a href="our-legal-stature.md">our-legal-stature.md</a></td></tr><tr><td><strong>Editorial Code of Conduct</strong></td><td>The editorial guidelines...</td><td><a href="editorial-code-of-conduct.md">editorial-code-of-conduct.md</a></td></tr><tr><td><strong>Technical Guidelines</strong></td><td>How to work with the hub?</td><td><a href="technical-guideline-to-the-hub.md">technical-guideline-to-the-hub.md</a></td></tr><tr><td><strong>The Trooper Board of Directors</strong></td><td>The heads of the hub</td><td><a href="the-troopers-board-of-directors.md">the-troopers-board-of-directors.md</a></td></tr><tr><td><strong>Life Cycle Policies</strong></td><td>A set of rules of the editors...</td><td><a href="life-cycle-policies.md">life-cycle-policies.md</a></td></tr><tr><td><strong>Arbitration Committee</strong></td><td>The most powerful place of last resort in this project.</td><td><a href="arbitration-committee-arbcom.md">arbitration-committee-arbcom.md</a></td></tr></tbody></table>
 
