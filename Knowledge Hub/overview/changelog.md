@@ -10,7 +10,22 @@ description: What's changed?
 ## Version 4 (Beta)
 
 * Shifted the hub over to GitBook (and GitHub) and implementing structural changes.
-* Loading times have now been improved, the hub loads atleast 10 times faster (internet connection dependent)
+* Loading times have now been improved, the hub loads a lot faster (internet connection dependent)
+* Old Hub will be kept online for transparency and redundancy.&#x20;
+
+#### Old Hub - Speed Insights
+
+{% embed url="https://pagespeed.web.dev/analysis/https-troopers-craft-me/a2i5809cif?form_factor=mobile" %}
+PageSpeed Insights for the Old Hub
+{% endembed %}
+
+#### New hub - Speed Insights
+
+{% embed url="https://pagespeed.web.dev/analysis/https-project-troopers-gitbook-io/jw6hqlvgjm?form_factor=desktop" %}
+PageSpeed Insights for the New Hub
+{% endembed %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Lighthouse Treemap for the New Hub</p></figcaption></figure>
 
 ## Version 3.1
 
