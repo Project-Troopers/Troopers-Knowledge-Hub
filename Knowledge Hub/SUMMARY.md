@@ -10,6 +10,8 @@
     * [Lessons](class-12/english/lessons/README.md)
       * [Ls 1 - The Last Lesson](class-12/english/lessons/ls-1-the-last-lesson.md)
       * [Poem 1 - My Mother at Sixty-six](class-12/english/lessons/poem-1-my-mother-at-sixty-six.md)
+      * [Vistas](class/class-12/english/lessons/vistas/README.md)
+        * [Ls 1 - The Third Level](class/class-12/english/lessons/vistas/ls-1-the-third-level.md)
     * [Activities](class-12/english/activities/README.md)
       * [Investigatory Project](class-12/english/activities/investigatory-project.md)
     * [Composition](class-12/english/composition/README.md)
