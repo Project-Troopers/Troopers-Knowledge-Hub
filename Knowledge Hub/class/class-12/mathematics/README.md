@@ -8,7 +8,7 @@ Welcome to the Maths section of the Troopers Knowledge Hub! In this section, we 
 
 ### Lessons
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Ls 3</strong></td><td>Matrices</td><td><a href="../../../.gitbook/assets/person-with-books-digital-art-style-education-day.jpg">person-with-books-digital-art-style-education-day.jpg</a></td><td><a href="ls-3-matrices.md">ls-3-matrices.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Ls 3</strong></td><td>Matrices</td><td><a href="ls-3-matrices.md">ls-3-matrices.md</a></td><td><a href="../../../.gitbook/assets/person-with-books-digital-art-style-education-day.jpg">person-with-books-digital-art-style-education-day.jpg</a></td></tr></tbody></table>
 
 ### Previous Year Board Papers
 

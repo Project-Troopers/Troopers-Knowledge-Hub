@@ -82,7 +82,9 @@ PageSpeed Insights for the New Hub
 * Bifurcated the HW details from the main documentation for automation purposes.
 * Updated the share link, the old one will not work anymore.
 
-[Troopers Knowledge Hub: Unleash Your Potential](http://bit.ly/trooper-hub)
+{% embed url="https://troopers.craft.me" %}
+The hub on Craft
+{% endembed %}
 
 **Stable Release (v1):-**
 
@@ -129,10 +131,14 @@ This is the place where we will document all the necessary changes in the Troope
 
 After a small problem involving an non-participating party, the description of the Troopers Group was changed to provide more clarity on the function of the group as a whole. The verdict of an admin has been attached above (may contain personal info).
 
-![WhatsApp Image 2023-08-05 at 21.09.02.jpg](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/42f640f7-b425-9423-926b-403a9d2ca0b7)
+<div>
 
-![Left side → old group description. Right side → new group description.](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/7f089ffe-9d73-34ab-2af9-2c6ca52b4ecb)
+<img src="https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/42f640f7-b425-9423-926b-403a9d2ca0b7" alt="Left side → old group description. ">
 
+ 
 
+<figure><img src="https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/7f089ffe-9d73-34ab-2af9-2c6ca52b4ecb" alt="" width="563"><figcaption><p>Right side → new group description.</p></figcaption></figure>
+
+</div>
 
 ![The Troopers - Badge.jpg](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/0ec69cd6-368b-43c5-a9f2-01e5a12f6551)
