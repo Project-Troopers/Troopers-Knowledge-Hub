@@ -35,38 +35,40 @@ Effective from _April 10, 2024; at 7:02 PM IST._
       4. Disputes or queries or takedown requests regarding copyright should be addressed to a collaborator, with proof of copyright when deemed necessary. Filing a case against us without prior contact and resolution attempts will not stand. We will address copyright issues promptly.
    2. #### **Ownership of Intellectual Property:**
       1. The Service and all materials created by the collaborators therein, including Intellectual Property Rights, are the exclusive property of the Project and the respective creators. Materials published by the Project are subject to the Creative Commons 4.0 Share-Alike License, available at [link](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en); with exceptions determined by the Board and outlined in the Governing Guidelines.
+      2. No license is granted under any such Intellectual Property Rights except as explicitly provided herein. Users agree not to infringe upon these rights.
 
-[CC BY-SA 4.0 Legal Code | Attribution-ShareAlike 4.0 International | Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en)
+{% embed url="https://creativecommons.org/licenses/by-sa/4.0/legalcode.en" %}
+The link to the legal code of the Creative Commons Share-Alike 4.0 license we use.
+{% endembed %}
 
-```
-  2. No license is granted under any such Intellectual Property Rights except as explicitly provided herein. Users agree not to infringe upon these rights.
-```
-
-3\. ### **Main Aim and Archiving:** 1. Project Troopers aims to curate and spotlight the best educational materials available. 2. Original materials are archived on Google Drive for transparency, verification, and availability. 3. Archived materials are freely available online and not redistributed under the Project's brand. 4. ## General Classification of Person or People based on their interactions with the project:
-
-1. #### The Viewer/User
-   1. A person, who uses or views or accesses the Knowledge Hub, will automatically be called and henceforth referred to as the "User".
-   2. Users are granted a **license** to view the Knowledge Hub and its documents; and download documents for personal reference only.
-   3. Redistribution of Hub contents without permission or without using the proper license is prohibited.
-   4. Violation may lead to license termination by the collaborator-in-charge.
-   5. Contact us if you find outdated educational materials on the hub, we will try to respond as soon as possible; with reasonable exceptions declared by the Board of Directors.
-2. #### The Collaborator
-   1. **Definition:** Any individual granted editing access to the Hub or is a part of the groups that maintain the hub is referred to as a Collaborator or member.
-   2. **Rules:** All the rules in the governing guidelines is automatically applicable and binding on the collaborators. Different access levels and roles are explained in detail in the governing guidelines.
-   3. **Conduct:** Collaborators must maintain civility, morality, and humane conduct in all interactions within the Knowledge Hub.
-   4. **Documentation:** Details of collaborators, including member pages and relevant non-legal information, will be documented in the Governing Guidelines’ section of the Hub.
-   5. **Leaving the project**: If a collaborator is to leave the project, they are supposed to notify the board. However, any prior contributions will not be deleted.
-   6. **The Observer:** The observers would be anonymous people who would add anonymous edits to the hub from time to time, authorised by the board of directors.
-   7. **Responsibility**: Collaborators bear sole responsibility for the content they contribute. Administrators bear no liability for user-generated content.
-   8. **Accuracy of materials**: The Hub aims to provide updated and accurate educational materials. Collaborators are responsible for the accuracy of their published materials. Inaccurate materials will not be entertained.
-3. ### Responsibility and Liability
+3. **Main Aim and Archiving:**&#x20;
+   1. Project Troopers aims to curate and spotlight the best educational materials available.&#x20;
+   2. Original materials are archived on Google Drive for transparency, verification, and availability.&#x20;
+   3. Archived materials are freely available online and not redistributed under the Project's brand.&#x20;
+4. ### General Classification of Person or People based on their interactions with the project:
+   1. #### The Viewer/User
+      1. A person, who uses or views or accesses the Knowledge Hub, will automatically be called and henceforth referred to as the "User".
+         1. Users are granted a **license** to view the Knowledge Hub and its documents; and download documents for personal reference only.
+         2. Redistribution of Hub contents without permission or without using the proper license is prohibited.
+         3. Violation may lead to license termination by the collaborator-in-charge.
+         4. Contact us if you find outdated educational materials on the hub, we will try to respond as soon as possible; with reasonable exceptions declared by the Board of Directors.
+   2. #### The Collaborator
+      1. **Definition:** Any individual granted editing access to the Hub or is a part of the groups that maintain the hub is referred to as a Collaborator or member.
+         1. **Rules:** All the rules in the governing guidelines is automatically applicable and binding on the collaborators. Different access levels and roles are explained in detail in the governing guidelines.
+         2. **Conduct:** Collaborators must maintain civility, morality, and humane conduct in all interactions within the Knowledge Hub.
+         3. **Documentation:** Details of collaborators, including member pages and relevant non-legal information, will be documented in the Governing Guidelines’ section of the Hub.
+         4. **Leaving the project**: If a collaborator is to leave the project, they are supposed to notify the board. However, any prior contributions will not be deleted.
+         5. **The Observer:** The observers would be anonymous people who would add anonymous edits to the hub from time to time, authorised by the board of directors.
+         6. **Responsibility**: Collaborators bear sole responsibility for the content they contribute. Administrators bear no liability for user-generated content.
+         7. **Accuracy of materials**: The Hub aims to provide updated and accurate educational materials. Collaborators are responsible for the accuracy of their published materials. Inaccurate materials will not be entertained.
+5. ### Responsibility and Liability
    1. The project is not liable to anything that the user or the collaborator does with its services. Therefore, you accept the responsibility of any violation or abuse perpetuated by you. The Project is neither liable to loss of your data that occurs due to misuse of the platform by you.
    2. Violations of established rules may incur the following consequences, administered progressively:
       1. **Suspension**: Duration ranging from one day to one month, or indefinite suspension.
       2. **Termination**: Permanent cessation of collaborator privileges.
       3. **Closure of Project Services**: Implementation of Emergency Protocol (🚨) for swift response.
       4. **Closure of the Project**: Immediate cessation of all Project Troopers services and removal of associated assets.
-4. ## Institutions and their powers
+6. ## Institutions and their powers
    1. #### The Troopers Board of Directors
       1. The directors are nominees / admins who have been selected by the people or the CIC to lead the Project. They will have control over all the decisions of the Project's administrative matters. These directors will then constitute the Troopers Board of Directors, which has the power to halt, proceed, change, allow or deny any administrative decision before they are put into action. More about the board will be given in this document.
       2. The Board of Directors is the deciding authority of the Project, i.e the _de-facto **head**_. It is where the directors are to propose new ideas, solve conflicts and decide on the future of the Project. This Group will, as is, follow all the rules outlined previously. The directors are in no way above the law. This group will only be composed of the volunteering admins (aka the directors).
@@ -130,7 +132,7 @@ Effective from _April 10, 2024; at 7:02 PM IST._
       4. **Workings:**
          1. The ArbCom panel is activated upon filing a grievance or case by a member in personal or public interest.
          2. It develops its own process, subcommittees, and rules to effectively carry out its duties.
-5. ### Emergency Protocol 🚨
+7. ### Emergency Protocol 🚨
    1. The Emergency Protocol is a set of rules and regulations that give the board of directors a wide variety of powers in unforeseen circumstances. Any power, granted by the emergency protocol, is not applicable to the Project during the normal operations of the Project.
    2. **The unforeseen circumstances include, but are not limited to:-**
       1. Heavy argument and dissatisfaction among the members of the Project, and/or a heavy disregard for the rules of the Project.
@@ -152,10 +154,10 @@ Effective from _April 10, 2024; at 7:02 PM IST._
          1. Approval from 50% of the members.
          2. At least 60% of the Project's Board.
    6. This protocol has never been invoked once since the implementation of the documentation. (as of March 31, 2024)
-6.  ### Point of Contact Services
+8.  ### Point of Contact Services
 
     We respect the fact that users and content owners would like to contact us, the required has been mentioned in the “Contact Us” section of the Hub. The Board is responsible for providing Point of Contact services.
-7. ### Fair Use moderation
+9. ### Fair Use moderation
    1. **Protection Against Abuse:**
       1. The Project ensures that its services are not abused in any way. The Right to Life, guaranteed by Article 21 of the Indian Constitution, is applicable to everyone, and abuse of it will not be tolerated.
       2. Consequences of abuse may include termination of the license granted to the abuser, although this is not guaranteed in every case.
@@ -164,44 +166,44 @@ Effective from _April 10, 2024; at 7:02 PM IST._
       2. The Project will assist affected parties and attempt to prevent abuses. Personal information of the affected will not be disclosed upon request, but details of the abuse will be transparently published to inform the public and serve as a reminder of The Project's stance against abuse.
    3. **Forgiveness Policy:** The Board or the ArbCom reserves the right to forgive abusers if forgiveness is granted by the affected party in written form, and if the abuser promises not to repeat the abuse in written form for legal validity.
    4. **Freedom of Expression:** The Project allows criticism and voicing of opinions, which is not considered abuse, except for illegal criticism such as cybercrimes against The Project, as defined under respective jurisdiction.
-8. ## Data
-   1. **Data Storage and Privacy Policy:**
-      1. The data within the Knowledge Hub is stored on third-party implementations, and the privacy policies of the software used are automatically applicable to all end-users and collaborators.
-      2. Technical aspects of the Hub are required to be documented under the Governing Guidelines of the Project, focusing on keeping viewer data safe whenever possible.
-   2. **Data Collection:**
-      1. Necessary data is collected only with user consent, including actions such as enrolling in Project Services or for legitimate interests like protection, security, and legal obligations.
-      2. **Two separate databases interact daily:**
-         1. **Online Database**: Contains instructions for software and data voluntarily shared by users, including basic information like Name, Email, Contributions, and Last Access Date.
-         2. **Offline Database**: Cached on end-users' devices, may include Name, Device Model, and Preferences.
-   3. **Optional Data:** Users may opt-in to provide additional data, enhancing the ability to provide customised services based on user preferences.
-   4. **Data Protection Measures:**
-      1. Important data is protected in databases, not shared with third parties without consent (except Governments).
-      2. While data is processed in the cloud and on-device, electronic storage is not guaranteed to be 100% secure.
-      3. Personal information is retained for necessary periods, with efforts made to protect it within legally acceptable means.
-      4. If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us and provide us with full details of the alleged breach. We will be happy to assist you.
-   5. **User/Contributor Rights and Responsibilities:**
-      1. You have the right to access, correct, or obtain a copy of their data upon request.
-      2. You will be informed of any data breaches affecting your data.
-      3. If you are below 13 years of age, you must have the consent of your guardian or parents before using this platform.
-   6. **Cookies:** The Project uses cookies to collect information and improve user experience. Four types of cookies are used:
-      1. **Essential Cookies**: Necessary for proper device connectivity and caching.
-      2. **Tracking (Marketing) Cookies**: Placed by third parties for tracking and selling data. We do not place these cookies.
-      3. **Functional Cookies**: Used by the Project and/or third-parties to remember user choices for personalized experiences.
-      4. **Analytics Cookies**: Aid in understanding visitor interactions and website analytics.
-9. ### Changes to Offerings and Closure Procedures:
-   1. **Changes to Services:** We reserve the right to change, discontinue, or limit "services or access to them" without prior notice; for any reason; which will be provided by the Board of Directors or/and ArbCom (both of which can be disputed with the ArbCom).
-   2. **Basic Structure Preservation**: Any changes to the Basic and Fundamental structure of the governing guidelines should be made by consulting all admins, directors, ArbCom members together and should be approved by the Election Committee.
-   3. **Closure Scenarios:** The group may be closed under the following circumstances:
-      1. General consensus (90% majority) among participants.
-      2. Widespread disregard and violation of rules leading to organisational breakdown.
-      3. Closure order from WhatsApp, government, or relevant authority.
-      4. Merger with another group by general consensus (90% majority) among participants.
-      5. Remote wiping of project data and deletion by the CIC under the ultimatum mode (Refer Emergency Protocol 🚨).
-   4. **Content Rights Upon Closure:** Upon closure or merger, all Project content rights will be transferred to either the conglomeratic group owning the project (in case of merger) or to respective participants (in case of closure). However, all content previously released under the CC BY-SA 4.0 License will still apply to the respective materials. This clause cannot be changed or nullified by anyone, including the Project.
-   5. **Applicability of Rules and Regulations:**
-      * Until full closure or transfer is complete, Project Rules & Regulations will apply, not the terms of any other group.
-      * Upon complete merger and transfer of ownership, users continuing to use Project's Services automatically agree to the conglomeratic group’s policies.
-   6. **Autonomous Operation Acknowledgment:** We acknowledge the intention to maintain autonomous operation, with closure or merger being rare situations.
+10. ## Data
+    1. **Data Storage and Privacy Policy:**
+       1. The data within the Knowledge Hub is stored on third-party implementations, and the privacy policies of the software used are automatically applicable to all end-users and collaborators.
+       2. Technical aspects of the Hub are required to be documented under the Governing Guidelines of the Project, focusing on keeping viewer data safe whenever possible.
+    2. **Data Collection:**
+       1. Necessary data is collected only with user consent, including actions such as enrolling in Project Services or for legitimate interests like protection, security, and legal obligations.
+       2. **Two separate databases interact daily:**
+          1. **Online Database**: Contains instructions for software and data voluntarily shared by users, including basic information like Name, Email, Contributions, and Last Access Date.
+          2. **Offline Database**: Cached on end-users' devices, may include Name, Device Model, and Preferences.
+    3. **Optional Data:** Users may opt-in to provide additional data, enhancing the ability to provide customised services based on user preferences.
+    4. **Data Protection Measures:**
+       1. Important data is protected in databases, not shared with third parties without consent (except Governments).
+       2. While data is processed in the cloud and on-device, electronic storage is not guaranteed to be 100% secure.
+       3. Personal information is retained for necessary periods, with efforts made to protect it within legally acceptable means.
+       4. If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us and provide us with full details of the alleged breach. We will be happy to assist you.
+    5. **User/Contributor Rights and Responsibilities:**
+       1. You have the right to access, correct, or obtain a copy of their data upon request.
+       2. You will be informed of any data breaches affecting your data.
+       3. If you are below 13 years of age, you must have the consent of your guardian or parents before using this platform.
+    6. **Cookies:** The Project uses cookies to collect information and improve user experience. Four types of cookies are used:
+       1. **Essential Cookies**: Necessary for proper device connectivity and caching.
+       2. **Tracking (Marketing) Cookies**: Placed by third parties for tracking and selling data. We do not place these cookies.
+       3. **Functional Cookies**: Used by the Project and/or third-parties to remember user choices for personalized experiences.
+       4. **Analytics Cookies**: Aid in understanding visitor interactions and website analytics.
+11. ### Changes to Offerings and Closure Procedures:
+    1. **Changes to Services:** We reserve the right to change, discontinue, or limit "services or access to them" without prior notice; for any reason; which will be provided by the Board of Directors or/and ArbCom (both of which can be disputed with the ArbCom).
+    2. **Basic Structure Preservation**: Any changes to the Basic and Fundamental structure of the governing guidelines should be made by consulting all admins, directors, ArbCom members together and should be approved by the Election Committee.
+    3. **Closure Scenarios:** The group may be closed under the following circumstances:
+       1. General consensus (90% majority) among participants.
+       2. Widespread disregard and violation of rules leading to organisational breakdown.
+       3. Closure order from WhatsApp, government, or relevant authority.
+       4. Merger with another group by general consensus (90% majority) among participants.
+       5. Remote wiping of project data and deletion by the CIC under the ultimatum mode (Refer Emergency Protocol 🚨).
+    4. **Content Rights Upon Closure:** Upon closure or merger, all Project content rights will be transferred to either the conglomeratic group owning the project (in case of merger) or to respective participants (in case of closure). However, all content previously released under the CC BY-SA 4.0 License will still apply to the respective materials. This clause cannot be changed or nullified by anyone, including the Project.
+    5. **Applicability of Rules and Regulations:**
+       * Until full closure or transfer is complete, Project Rules & Regulations will apply, not the terms of any other group.
+       * Upon complete merger and transfer of ownership, users continuing to use Project's Services automatically agree to the conglomeratic group’s policies.
+    6. **Autonomous Operation Acknowledgment:** We acknowledge the intention to maintain autonomous operation, with closure or merger being rare situations.
 
 **We wish the user a happy experience using the Troopers' Services. Your experience is invaluable.**
 

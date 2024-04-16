@@ -52,3 +52,9 @@ Browse through the intricately categorized files, meticulously organized for you
 ### Notice
 
 This hub may include copyrighted materials and text for scientific and research purposes under the educational exemptions of the Indian Copyright Act, 1951 and its further amendments. We do not claim copyright for any materials that have been used from other sources and will priorly inform you regarding the same.
+
+***
+
+© Project Troopers (2024). Released under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our [Terms ](overview/governing-guidelines/)with exceptions).&#x20;
+
+You automatically abide by the governing guidelines when you visit our site.
