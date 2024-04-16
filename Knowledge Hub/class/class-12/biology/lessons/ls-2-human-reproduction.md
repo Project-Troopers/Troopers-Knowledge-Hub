@@ -10,7 +10,7 @@
 by the dandelion team
 {% endembed %}
 
-{% embed url="https://www.youtube.com/watch?v=BFrVmDgh4v4" %}
+{% embed url="https://www.youtube.com/watch?v=BFrVmDgh4v4" fullWidth="false" %}
 
 ## Extra
 

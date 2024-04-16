@@ -28,13 +28,15 @@ _By K. S. Harshavardhan_
 
 * A solution is a homogenous mixture of two or more substances. (Homogeneous - Uniformity)
 * The substance which constitutes the largest quantity of solution is called solvent.
-*   The substance which is present in smaller quantities of the solution is called solute(s).
+* The substance which is present in smaller quantities of the solution is called solute(s).
 
-    > ### ::NEET:: PYQs
+{% hint style="info" %}
+### NEET PYQs
 
-    > **What is the solvent of air?**
+**What is the solvent of air?**
 
-    > Ans:- Nitrogen
+Ans:- Nitrogen
+{% endhint %}
 
 #### Classification of Solutions
 

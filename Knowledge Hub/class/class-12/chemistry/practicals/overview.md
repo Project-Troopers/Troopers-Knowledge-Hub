@@ -18,5 +18,3 @@ This year, the practicals have wide-ranging portions that you'd have to consider
 
 1. Oxalic Acid Vs $$KMnO_4$$
 2. F.A.S Vs $$KMnO_4$$
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+\[native+code]+}+File\&mimeType=application/octet-stream\&fileName=Overview.md\&fileType=undefined\&fileExtension=md
