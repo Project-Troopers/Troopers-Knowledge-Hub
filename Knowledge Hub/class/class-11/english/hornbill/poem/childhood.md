@@ -1,6 +1,6 @@
 # Childhood
 
-> ## **📢 Photo-seizure content warning**
+> ### **📢 Photo-seizure content warning**
 
 > This is a `Class Action Notice Box, Type A (CANB-A)`. Do not remove this Notice box, if you don’t have the required access level. ([Learn why.](craftdocs://open?blockId=82E22F22-B1CA-4F7F-AFED-3C5B66B86947\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c))
 

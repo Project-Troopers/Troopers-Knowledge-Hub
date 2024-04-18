@@ -1,6 +1,6 @@
 # Final Chemistry Practical Examination
 
-> ### Alert
+> #### Alert
 
 > The following formulas are written in LaTeX. You may need to scroll sideways or double-click to see the full formula.
 
@@ -33,7 +33,7 @@ You will be asked questions related to Salt Analysis, the four salts, and their 
 
 * ⁠You are requested to memorise the Chemical Reactions given in the Manual for the Viva Voce to be held.
 * ⁠You are expected to express good knowledge of the salt analysis process from all fronts during the Viva.
-* ⁠_OPTIONAL_: In case you have any doubts regarding the Chemistry Practicals, please clarify them with mam.
+* ⁠\_OPTIONAL\_: In case you have any doubts regarding the Chemistry Practicals, please clarify them with mam.
 
 **Suggestions**: Related concepts in Chemistry _(from the Class 11 Chem Book)_
 
@@ -99,6 +99,6 @@ Thus, the evolution of White ppt confirms the presence of `Ca`.
 
 …for $$CaCl_2$$
 
-> #### ← Troopers Knowledge Hub
+> **← Troopers Knowledge Hub**
 
 > Wanna go back to the home page, but lost your way? Click above to return.

@@ -32,7 +32,7 @@ Taking notes is a method of organizing and summarizing data from multiple source
 * **SUMMARISE:** Write a brief paragraph or two summarizing the main ideas and information from the notes. This is a great way to quickly review and recall the most crucial points.
 * **REVIEW:** Regularly reviewing your notes is an excellent way to ensure that you retain the most crucial information from the passage.
 
-> ### **Note Format example**
+> #### **Note Format example**
 
 > (Title)
 
@@ -72,7 +72,7 @@ Taking notes is a method of organizing and summarizing data from multiple source
 | 4    |               |     |
 | 5    |               |     |
 
-> #### Summary
+> **Summary**
 
 > (Heading)
 
@@ -96,7 +96,7 @@ Before you begin note-making, it is essential to follow a few key steps in order
 
 By following these tips for effective note-making, you can ensure that your content feels more elaborate, polished, and professional in the examination. Remember to approach the process with focus and attention to detail, resulting in comprehensive and visually appealing notes.
 
-> #### Example:-
+> **Example:-**
 
 > B**reakfast**
 
@@ -204,6 +204,6 @@ _(**Source**: India Today - Empathy, Key to Quick Healing)_
 
 Commonplace AI has found it's ways into the medical system. It helps surgeons to streamline tasks, improve operation efficiencies and simplify complex procedures. However, there are new challenges posed by AI. They are the ever-growing threats of privacy, medial and ethical errors. So, the need of the hour is to shift our understanding as using AI as helpers, not as the ones in-charge. Human-AI interface, knowledge-handler and communicators can help alleviate some of these concerns, since AI works logically while humans rely on emotions and observe behavioural patterns. Its faster processing comes with the cost of reduced accuracy, safety and stunted creativity, qualities which are needed on the operating table to save human lives. Due to this, people do not trust AI with their life. It is imperative to note that AI can detect minor overlooked errors in operations, but mechanical and human errors are still possible, potentially costing a lot of lives. Thus, humans must be in the driver's seat when it comes to taking decisions in medical scenarios.
 
-> #### ← Troopers Knowledge Hub
+> **← Troopers Knowledge Hub**
 
 > Wanna go back to the home page, but lost your way? Click above to return.

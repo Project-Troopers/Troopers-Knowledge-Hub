@@ -1,7 +1,7 @@
 # Ls 1 - Sexual Reproduction in Flowering Plants
 
 {% hint style="info" %}
-### 🌀 Before we deep dive, try revising these topics:-
+#### 🌀 Before we deep dive, try revising these topics:-
 
 * Anatomy of a Flower
 * Morphology of a Flower
@@ -47,7 +47,7 @@
 The androecium is a whorl of the flower, which is made up of Stamens. Now, stamens are the male reproductive units of the flowers. Each stamen is made up of two parts - the anther and the filament. The number and length of the stamens vary with each flower species.
 
 {% hint style="success" %}
-#### 📸 Perspective Corner
+**📸 Perspective Corner**
 
 **What does proximal refer to?**
 
@@ -56,10 +56,10 @@ Proximal refers to the closer end of something. In this reference; we call the p
 Now, if something is called terminal, then it would refer to an "end" of the filament. The word "terminal" can differ with place of usage. Here, we will use the word "terminal" to refer to the further end of the filament.
 {% endhint %}
 
-1.  #### Filament
+1.  **Filament**
 
     The filament is a long and slender stalk that has a terminal structure called Anther attached to it. The proximal end of the filament is attached to the thalamus or the petal of the flower.
-2.  #### Anther
+2.  **Anther**
 
     An anther is a bilobed structure _(usually)_ that is terminally attached to the filament. This "bilobed" nature of the anther is usually visible in the transverse section of the anther. Each lobe had two theca, thus they are referred to as <mark style="background-color:blue;">**dithecous**</mark>. A longitudinal groove runs lengthwise separating the theca.
 

@@ -2,7 +2,7 @@
 
 ## The Order of the Mass (Universalis)
 
-> ## The Introductory Rites
+> ### The Introductory Rites
 
 > The Introductory Rites help the faithful come together as one, establish communion and prepare themselves properly to listen to the Word of God and to celebrate the Eucharist worthily.
 
@@ -151,7 +151,7 @@ After the First Reading the psalmist or cantor sings or says the Psalm, with the
 
 > The Eucharistic Prayer, the centre and summit of the entire celebration is a memorial proclamation of praise and thanksgiving for God’s work of salvation, a proclamation in which the Body and Blood of Christ are made present by the power of the Holy Spirit and the people are joined to Christ in offering his Sacrifice to the Father.
 
-> Eucharistic Prayer I (‘The Roman Canon’)     Eucharistic Prayer II     Eucharistic Prayer III     Eucharistic Prayer IV     For Reconciliation I     For Reconciliation II     For Various Needs I     For Various Needs II     For Various Needs III     For Various Needs IV     (Show only the people’s part)
+> Eucharistic Prayer I (‘The Roman Canon’) Eucharistic Prayer II Eucharistic Prayer III Eucharistic Prayer IV For Reconciliation I For Reconciliation II For Various Needs I For Various Needs II For Various Needs III For Various Needs IV (Show only the people’s part)
 
 > Throughout this section, the Priest is supposed to raise and extend his hands towards the participants of the holy mass.
 
@@ -169,11 +169,11 @@ It is truly right and just, our duty and our salvation, always and everywhere to
 
 (After the singing of the Sanctus the congregation kneels for the remainder of the Eucharistic Prayer.)
 
-> Eucharistic Prayer I (‘The Roman Canon’)     Eucharistic Prayer II     Eucharistic Prayer III     Eucharistic Prayer IV     For Reconciliation I     For Reconciliation II     For Various Needs I     For Various Needs II     For Various Needs III     For Various Needs IV     (Show only the people’s part)
+> Eucharistic Prayer I (‘The Roman Canon’) Eucharistic Prayer II Eucharistic Prayer III Eucharistic Prayer IV For Reconciliation I For Reconciliation II For Various Needs I For Various Needs II For Various Needs III For Various Needs IV (Show only the people’s part)
 
 **The Priest alone recites:** To you, therefore, most merciful Father, we make humble prayer and petition through Jesus Christ, your Son, our Lord: that you accept and bless ✠ these gifts, these offerings, these holy and unblemished sacrifices, which we offer you firstly for your holy catholic Church. Be pleased to grant her peace, to guard, unite and govern her throughout the whole world, together with your servant N. our Pope and N. our Bishop, and all those who, holding to the truth, hand on the catholic and apostolic faith. Remember, Lord, your servants (N. and N.) and all gathered here, whose faith and devotion are known to you. For them, we offer you this sacrifice of praise or they offer it for themselves and all who are dear to them: for the redemption of their souls, in hope of health and well-being, and paying their homage to you, the eternal God, living and true.
 
-> ‘Communicantes’: usual form     On the Nativity of the Lord and throughout the Octave     On the Epiphany of the Lord     On the Thursday of Holy Week at the Evening Mass of the Lord’s Supper     From the Mass of the Easter Vigil until the Second Sunday of Easter     On the Ascension of the Lord     On Pentecost Sunday
+> ‘Communicantes’: usual form On the Nativity of the Lord and throughout the Octave On the Epiphany of the Lord On the Thursday of Holy Week at the Evening Mass of the Lord’s Supper From the Mass of the Easter Vigil until the Second Sunday of Easter On the Ascension of the Lord On Pentecost Sunday
 
 In communion with those whose memory we venerate, especially the glorious ever-Virgin Mary, Mother of our God and Lord, Jesus Christ, and blessed Joseph, her Spouse, your blessed Apostles and Martyrs, Peter and Paul, Andrew, (James, John, Thomas, James, Philip, Bartholomew, Matthew, Simon and Jude; Linus, Cletus, Clement, Sixtus, Cornelius, Cyprian, Lawrence, Chrysogonus, John and Paul, Cosmas and Damian) and all your Saints; we ask that through their merits and prayers, in all things we may be defended by your protecting help. (Through Christ our Lord. Amen.)
 

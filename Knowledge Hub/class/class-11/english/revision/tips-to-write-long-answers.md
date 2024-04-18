@@ -1,6 +1,6 @@
 # Tips to write Long Answers
 
-> ### Before we start…
+> #### Before we start…
 
 > It important to understand the logic to write short answers. It can give you enough experience to write long answers well.
 
@@ -66,7 +66,7 @@ I personally call this part as "creating a unified singular main linking road".
 
 In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise your paper and find any minor errors that can be used to decrease your score.
 
-1.  ### Character Sketch
+1.  #### Character Sketch
 
     * Character's Place
     * Physical Appearance
@@ -80,7 +80,7 @@ In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise 
     * Is the character the "protagonist" or "antagonist"?
 
     > **Learning points** → What you learn from the character
-2.  ### Value-based Questions
+2.  #### Value-based Questions
 
     * Development of the Character from the start to the end of the story
     * Typically, these questions involve proverbs or sayings.
@@ -89,7 +89,7 @@ In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise 
     * Connect to today's society
 
     > **Spotlight:** The tale of Melon City (Hornbill - Class 11)
-3.  ### Multiple characters/lessons/values
+3.  #### Multiple characters/lessons/values
 
     Now if a question asks us (directly or indirectly) to compare between characters or lessons or values , we must give:-
 
@@ -104,7 +104,7 @@ In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise 
     * > discuss the concept of an "ideal parent".
     * > shed light on the emotions experienced by parents (using examples like Joe Morgan's anticipation and anxiety before his child's birth.)
     * > Use quotes or thought-provoking ideas (Eg: "Parents have to go beyond the call of duty to meet their children's needs.")
-4.  ### Title Justification:-
+4.  #### Title Justification:-
 
     Here's a general outline:
 
@@ -185,12 +185,12 @@ In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise 
 
     > **Plan: DIY**
 
-> #### ::🥇 Created by a Trooper 🏆::
+> **::🥇 Created by a Trooper 🏆::**
 
 > The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
 
 > claim by [Sugeeth Jayaraj Samala Augustine](craftdocs://users?id=b8b89018-aef2-86a2-127d-5e07bf8933bc) on February 28, 2024.
 
-> #### ← Troopers Knowledge Hub
+> **← Troopers Knowledge Hub**
 
 > Wanna go back to the home page, but lost your way? Click above to return.

@@ -5,7 +5,7 @@ description: by the First Brigadier Regiment
 # The Corridor Initiative
 
 {% hint style="info" %}
-**Introducing The Corridor Initiative**: Unleashing Brain Power! \
+**Introducing The Corridor Initiative**: Unleashing Brain Power!\
 _Celebrating the 2nd year of the running initiative!_
 {% endhint %}
 
@@ -30,4 +30,4 @@ So keep an eye out for our next edition, and get ready to take your brain on an 
 
 ### Series
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Series 1</strong></td><td>Leader: <em>Ishana Santhosh.</em></td><td><em>Design by</em> <a data-mention href="https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2">Sugeeth Jayaraj S.A.</a></td><td><a href="../../../../.gitbook/assets/Class 10 - Edu Banner.jpg">Class 10 - Edu Banner.jpg</a></td></tr><tr><td><strong>Series 2</strong></td><td>Leader: <em>Nikhel Joseph</em></td><td><em>Design by Faheema Nasrin and Neysa Kristyn Ebinezer</em></td><td><a href="../../../../.gitbook/assets/person-with-books-digital-art-style-education-day.jpg">person-with-books-digital-art-style-education-day.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Series 1</strong></td><td>Leader: <em>Ishana Santhosh.</em></td><td><em>Design by</em> <a data-mention href="https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2">Sugeeth Jayaraj S.A.</a></td><td><a href="../../../../.gitbook/assets/Class 10 - Edu Banner.jpg">Class 10 - Edu Banner.jpg</a></td><td><a href="series-1/">series-1</a></td></tr><tr><td><strong>Series 2</strong></td><td>Leader: <em>Nikhel Joseph</em></td><td><em>Design by Faheema Nasrin and Neysa Kristyn Ebinezer</em></td><td><a href="../../../../.gitbook/assets/person-with-books-digital-art-style-education-day.jpg">person-with-books-digital-art-style-education-day.jpg</a></td><td><a href="series-2/">series-2</a></td></tr></tbody></table>

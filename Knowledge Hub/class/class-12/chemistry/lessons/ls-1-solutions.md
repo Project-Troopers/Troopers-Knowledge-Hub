@@ -1,11 +1,11 @@
 # Ls 1 - Solutions
 
 {% hint style="info" %}
-#### EXTRA NOTES (NOT FROM SCHOOL):&#x20;
+**EXTRA NOTES (NOT FROM SCHOOL):**
 
 **File:** [Solution.pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/bebb365f-d340-4b5a-8457-e20b221441b2/bed305f7-6888-4ed1-b8f2-69c52abe2e03)
 
-Hey, fellas I'll try my best to gather and upload notes that i gather from outside sources which I believe will be useful for all.&#x20;
+Hey, fellas I'll try my best to gather and upload notes that i gather from outside sources which I believe will be useful for all.
 
 _By K. S. Harshavardhan_
 {% endhint %}
@@ -31,7 +31,7 @@ _By K. S. Harshavardhan_
 * The substance which is present in smaller quantities of the solution is called solute(s).
 
 {% hint style="info" %}
-### NEET PYQs
+#### NEET PYQs
 
 **What is the solvent of air?**
 

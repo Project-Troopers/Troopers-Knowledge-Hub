@@ -1,8 +1,11 @@
 # Issue 1
 
-> Status: Almost done. ::Theme: Women’s Day:: Published on \_\_\_\_
+{% hint style="info" %}
+Status: Done. \
+Theme: Women’s Day.&#x20;
+{% endhint %}
 
-> > ### Final Version
+### Final Version
 
 [The Corridor - Series 2 Issue 1 - Final Work.pdf](https://drive.google.com/file/d/1f6t25ptsKeradj6pUEFq7xxBeCAVBOZd/view?usp=drive\_link)
 
@@ -50,7 +53,7 @@ This time, it's an article by Riya Roopesh on the theme of this week's newslette
 
 ## Submissions
 
-1.  #### Kevin Daniel
+1.  **Kevin Daniel**
 
     **GREATEST WOMEN TRIVIA**
 
@@ -82,7 +85,7 @@ This time, it's an article by Riya Roopesh on the theme of this week's newslette
 
 [Greatest\_Women\_Trivia\[1\]\_\_-\_\_Read-Only\[2\].pptx](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/bebb365f-d340-4b5a-8457-e20b221441b2/B28AEF54-3E73-4432-8DF5-3B9ECAA2B964\_2/5b0LzRbgRr7xSnbM1jf83bqk4xOkvnoTzqN0jZkBBGEz/Greatest\_Women\_Trivia1\_\_-\_\_Read-Only2.pptx)
 
-1.  #### Sugeeth Jayaraj S.A.
+1.  **Sugeeth Jayaraj S.A.**
 
     **Can you guess the movie correctly?**
 
@@ -106,7 +109,7 @@ _Winter’s bone_
 
 [Can you guess the movie correctly.docx](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/bebb365f-d340-4b5a-8457-e20b221441b2/7DFF2958-B44F-45E0-B934-8FBE96C4081E\_2/mFpZo2S66oVOzcmaMs7wtrDHfcXtHNmSQvju2YStyuAz/Can%20you%20guess%20the%20movie%20correctly.docx)
 
-1.  #### M Faheema Nasrin
+1.  **M Faheema Nasrin**
 
     **The Dragon Origami**
 
@@ -116,7 +119,7 @@ _Winter’s bone_
 
 ![Image.png](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/bebb365f-d340-4b5a-8457-e20b221441b2/8F785A9D-4892-47D9-BFAE-C8D34B743DC9\_2/26XOykQvVczsjI0fZWA3R8IXO13bieJg8gxJY18Ls1Yz/Image.png)
 
-1.  #### Riya Elizabeth Roopesh
+1.  **Riya Elizabeth Roopesh**
 
     **Article on Women Empowerment**
 
@@ -125,11 +128,11 @@ _Winter’s bone_
     In many corners of the globe, ladies often get the short end of the stick when it comes to education. Their talents and intelligence are sometimes shrugged off, and the power scales are tipped against them, from their homes to the world stage.
 
     It's high time to even out the playing field. Let's crack open the doors to education for all and give props where they're due. When women are bossing the decision-making tables, standing up for their rights, and rocking every sector, that's when the magic happens. Societies bloom, progress booms, and the future starts looking brighter. Let's team up, smash stereotypes, and pave the way to a world where gender equality isn't just a dream but a reality for all.
-2. #### Ishana Santhosh
+2. **Ishana Santhosh**
 
 ![Image.png](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/bebb365f-d340-4b5a-8457-e20b221441b2/EC77EB5E-0D1A-4C1D-A8E9-0ADCE1E620AD\_2/ygUqo5j8OX6uik2H5HtXhN4NpGpaKVtzx6LvcdujvFsz/Image.png)
 
-1.  #### Nikhel Joseph
+1.  **Nikhel Joseph**
 
     **Logical Reasoning**
 

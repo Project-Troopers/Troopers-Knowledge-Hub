@@ -1,6 +1,6 @@
 # Final Biology Practical Exam
 
-> ### To be conducted on February 3, 2024.
+> #### To be conducted on February 3, 2024.
 
 > _This is not official in any way. I am not responsible for your interpretation of this page._
 
@@ -94,17 +94,17 @@
 
 The practical exam question paper will be made up of 3 parts:-
 
-1.  #### Part A
+1.  **Part A**
 
     It will consists of two major experiments (compulsory). You will be asked to perform these two experiments and write down the stipulated sections as indicated. You might be asked to write Aim, Materials Required, Procedure, Results (Observation and Conclusions), Diagram, Floral Formula (if required) and/or Precautions.
 
     There will be one or two experimental set-ups, where you might have to identify the parts or write the Aim, Materials Required, Procedure, Results (Observation and Conclusions), Diagram and/or Precautions.
-2.  #### Part B
+2.  **Part B**
 
     It will consist of specimens and spotters, where you will be asked 8 specimens/spotters. You must write at least two comments for each. (If one comment is wrong, mam will take up the other comment and give you marks. But you must write at least two comments otherwise mam might strike out the whole answer.)
 
     For at least one specimen, you will be asked to draw the diagram. For at least two or three specimens, you will be asked to write the classification.
-3.  #### Part C
+3.  **Part C**
 
     This is the place where your records and Viva will be evaluated. It'll be for a combined total of 9 or 10 marks, subject to change. You will be asked general viva on all the experiments that are part of this annual exam's portions. Please read the related **Theory** and **Viva Voce** section in the biology manual (it is a must). If possible, read the related lessons, including the full Morphology of Flowering Plants \[this is a suggestion, based on the questions asked during the Viva of the Second Brigadier Regiment (the Second Biology Corps)].
 
@@ -124,6 +124,6 @@ The practical exam question paper will be made up of 3 parts:-
 
 [Biology Record - Exp 1 to 14 - Sugeeth - 09-11-2023.pdf](https://drive.google.com/file/d/17m2s1UCkNQ\_6ysyBoH2C0NoIpI4QpEe3/view?usp=drive\_link)
 
-> #### ← Troopers Knowledge Hub
+> **← Troopers Knowledge Hub**
 
 > Wanna go back to the home page, but lost your way? Click above to return.

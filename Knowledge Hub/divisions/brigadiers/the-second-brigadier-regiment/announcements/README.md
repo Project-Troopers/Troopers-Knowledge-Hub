@@ -11,7 +11,7 @@ Welcome to the **upgraded** ::Announcements:: (previously Homework List) section
 If you're looking for archives, then click on the menu button and the other archives are located under this page... Or use the navigation buttons in the footer to search.
 
 {% hint style="info" %}
-### Sources
+#### Sources
 
 We respect copyright laws, and we do not claim copyright for the above materials. Consists of data from:-
 

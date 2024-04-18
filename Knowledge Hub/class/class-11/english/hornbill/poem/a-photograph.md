@@ -1,6 +1,6 @@
 # A Photograph
 
-> ## **📢 Photo-seizure content warning**
+> ### **📢 Photo-seizure content warning**
 
 > This is a `Class Action Notice Box, Type A (CANB-A)`. Do not remove this Notice box, if you don’t have the required access level. ([Learn why.](craftdocs://open?blockId=82E22F22-B1CA-4F7F-AFED-3C5B66B86947\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c))
 
@@ -116,7 +116,7 @@ The poem is a nostalgic rendition of the poet's mother. The poet comes across a 
 
 **AI Generated image. Prompt:** A woman looking at the photograph of her mother and reminiscing memories; at home while sifting through boxes of old content. The face shows a labored ease of loss. The photograph shows when the mother was 12 years old and was on a beach vacation with her two cousins, standing in the sea, smiling through their hair that the breeze blows across and the waves washing their terribly transient feet. **(or)** DIGITAL ART: A woman looking at the photograph of her mother and reminiscing memories; at home while sifting through boxes of old content. The face shows a labored ease of loss. The photograph shows when the mother was 12 years old and was on a beach vacation with the mother and her two cousins, standing in the sea, smiling through their hair that the breeze blows across and the waves washing their terribly transient feet.
 
-> #### ::🥇 Created by a Trooper 🏆::
+> **::🥇 Created by a Trooper 🏆::**
 
 > The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images, and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
 

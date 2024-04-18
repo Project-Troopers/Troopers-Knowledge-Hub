@@ -1,6 +1,6 @@
 # Practical Info
 
-> ### Alert
+> #### Alert
 
 > The following formulas are written in LaTeX, and this is the first time it’s ever being used in this document (or across all my documents). So, the implementation may be buggy, and you may need to scroll sideways or double-click to see the full formula.
 

@@ -2,7 +2,7 @@
 
 ## Editorial Code of Conduct
 
-> ### Info-box
+> #### Info-box
 
 > This sub-section of the guidelines serves as a set of rules for the collaborators and users. All templates here can not be modified here, but they can be copied over for use at any other place on the Hub. The templates over here must not be considered as effective in this portion of the guidelines, as they only templates and not an actual notice.
 
@@ -65,7 +65,7 @@ A “Type A” notice is a message that conveys something extremely important. I
 
 Every CA-A invoked section must have a CA-A notice on the main page of the section, preferably at the top. The colour of a CA-A notice is supposed to be red; in standalone version. However, if a CA-A notice is serving another purpose, then it can be indicated with another colour. The template for the CA-A notices is as follows: (Replace all tags in `code blocks (or monospaced)` as instructed inside them.)
 
-> ### **CAIS-A (Class Action Information Section, Type - A)** Notice
+> #### **CAIS-A (Class Action Information Section, Type - A)** Notice
 
 > This is a ::Class Action Information Section, Type A::. All information in this section and its sub-sections are to be taken with utmost severity; and is highly protected. Only members with a ::📣 CA-A:: pass are allowed to edit this section. All details enforced within is/are serious matter(s). ([Learn why.](craftdocs://open?blockId=82E22F22-B1CA-4F7F-AFED-3C5B66B86947\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c))
 
@@ -73,7 +73,7 @@ Every CA-A invoked section must have a CA-A notice on the main page of the secti
 
 The above notice is a CAIS-A template; the upcoming notice is a CANB-A template.
 
-> ### `Any Title`
+> #### `Any Title`
 
 > This is a `Class Action Notice Box, Type A (CANB-A)`. Do not remove this Notice box, if you don’t have the required access level. ([Learn why.)](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/82E22F22-B1CA-4F7F-AFED-3C5B66B86947)
 
@@ -93,7 +93,7 @@ A maintenance notice serves to inform users that a specific area of the hub is c
 
 To communicate this information, it will be relayed through the maintenance notice or tag. The template for the notice is provided below, where the necessary details should be inserted, replacing the code blocks or monospaced font:
 
-> ### 🧑‍🔧 This `section` is under Maintenance!
+> #### 🧑‍🔧 This `section` is under Maintenance!
 
 > We’ve currently polishing up a few things, and tightening up a few bolts to ensure that this section provides the best quality info possible. However, until then, this part may feel janky or contain invalid information. It’s safe to ignore this part until `this notice is removed`. ([Learn why you’re seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/7F6E9BA4-DFDC-4B89-B4D0-50AB3C9BDDB9))
 
@@ -111,7 +111,7 @@ The integrity of information posted on the Knowledge Hub is of utmost importance
 
 The template for the notice is:-
 
-> #### Questionable Content
+> **Questionable Content**
 
 > The following section contains content of questionable accuracy from questionable sources. We expect you to take the given section with a pinch of salt… We will not be held responsible nor accountable for your interpretation of the given content. ([Learn why you’re seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/27FCFB5C-439F-4F8D-9705-4DDF42A5C42F))
 
@@ -127,7 +127,7 @@ In situations where content is identified as potentially harmful, sensitive, or 
 
 The template is:-
 
-> #### ⚠️ **Caution**: Outdated or Potentially Harmful Information
+> **⚠️ Caution: Outdated or Potentially Harmful Information**
 
 > This section may contain sensitive or harmful information related to ongoing events. Please note that the content may be outdated or superseded by new information. We advise you to exercise caution when referring to this section, as we are not liable for your interpretation or understanding of the content. ([Learn why you’re seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/B9CAB24C-0984-4032-925A-C2ABAA8FA1BF))
 
@@ -139,7 +139,7 @@ The Information Notice is a useful tool for effectively communicating important 
 
 The template for this notice is:
 
-> #### Infobox
+> **Infobox**
 
 > `Content`
 
@@ -153,7 +153,7 @@ Some sections contain a person or a group of people’s collective opinion on a 
 
 The template for this notice is:-
 
-> ### Opinions coming right up! 🎤
+> #### Opinions coming right up! 🎤
 
 > This section contains opinions of the author(s), who have written out this piece of content. Your views may differ, and it’s always ok to agree to disagree. Never expect this information to be factually accurate, and the Hub will not take any responsibility for the views enclosed within, nor your interpretation of it. ([Learn why you’re seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/81F208F8-3083-4414-AE26-B160EB498877))
 
@@ -163,7 +163,7 @@ The template for this notice is:-
 
 This notice is created when a particular section of the hub is regarded as a stub and requires elaboration.
 
-> ### Stub Notice
+> #### Stub Notice
 
 > This section of the hub needs a lot more information than just this, to prove helpful to the viewer. If you're a collaborator and if you have enough knowledge, then please do elaborate this section so that it will prove helpful. ([Learn why you're seeing this.](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/CF673FD1-29C5-45B6-9F8E-769D4E6A6AD9))
 
@@ -171,7 +171,7 @@ This notice is created when a particular section of the hub is regarded as a stu
 
 This section is placed at the bottom of page that has supposedly excellent content.
 
-> #### ::🥇 Created by a Trooper 🏆::
+> **::🥇 Created by a Trooper 🏆::**
 
 > The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images, and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
 
@@ -181,6 +181,6 @@ This section is placed at the bottom of page that has supposedly excellent conte
 
 Some boxes are also used for navigation purposes. An example is the one given below:-
 
-> #### [← Troopers Knowledge Hub](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/B6285B28-BFB4-48C4-A575-5503601541D5)
+> [**← Troopers Knowledge Hub**](https://desktop.craft.do:6776/editor/d/34ae8ebc-d508-7305-20e2-17e06364862c/bebb365f-d340-4b5a-8457-e20b221441b2/x/B6285B28-BFB4-48C4-A575-5503601541D5)
 
 > Wanna go back to the home page, but lost your way? Click above to return.

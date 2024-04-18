@@ -1,7 +1,7 @@
 # 🏠 A Quick How-to? …study
 
 {% hint style="info" %}
-### Opinions coming right up! 🎤
+#### Opinions coming right up! 🎤
 
 This section contains opinions of the author(s), who have written out this piece of content. Your views may differ, and it’s always ok to agree to disagree. Never expect this information to be factually accurate, and the Hub will not take any responsibility for the views enclosed within, nor your interpretation of it. (Learn why you’re seeing this.)
 {% endhint %}

@@ -1,6 +1,6 @@
 # Bio Infobox
 
-> ### This exam has been cancelled.
+> #### This exam has been cancelled.
 
 ## Experiments for exam
 

@@ -5,7 +5,7 @@ description: The policies that dictate the hub proceedings?
 # Life cycle Policies
 
 {% hint style="info" %}
-### 🧑‍🔧 This `section` is under Maintenance!
+#### 🧑‍🔧 This `section` is under Maintenance!
 
 We’ve currently polishing up a few things, and tightening up a few bolts to ensure that this section provides the best quality info possible. However, until then, this part may feel janky or contain invalid information. It’s safe to ignore this part until `this notice is removed`. ([Learn why you’re seeing this.](craftdocs://open?blockId=7F6E9BA4-DFDC-4B89-B4D0-50AB3C9BDDB9\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c))
 

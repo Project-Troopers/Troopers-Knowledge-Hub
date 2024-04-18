@@ -14,7 +14,7 @@ Let's go….
 
 For each phosphate that ATP loses, it results in release of 33.5 kJ/mol of energy (stored in the bonds between the phosphate atoms). ATP -> ADP -> AMP However, when AMP (which is like 'an ATP with only one phosphate') loses its last phosphate, it only results in release of 13.5 kJ/mol of energy.
 
-> ### Notice
+> #### Notice
 
 > The upcoming section includes copyrighted material from:-
 
@@ -97,12 +97,12 @@ Now under observation underneath the microscope, Gram-positive bacteria appear p
 
 #### Clinical Importance of Gram Staining
 
-It is the first and foremost important step within the classification of bacteria. The morphology and arrangements of bacteria are often observed well once stained because it helps within the screening of pathogens in clinical specimens.  While Gram staining is used to detect the differentiate bacteria there are many other microscopic organisms that can be found on the smear of a gram stain, which is subjected to the test.
+It is the first and foremost important step within the classification of bacteria. The morphology and arrangements of bacteria are often observed well once stained because it helps within the screening of pathogens in clinical specimens. While Gram staining is used to detect the differentiate bacteria there are many other microscopic organisms that can be found on the smear of a gram stain, which is subjected to the test.
 
 #### Disadvantages of Gram Staining
 
 * Misinterpretation: Organisms that are gram-negative would appear red once they retain counterstain, even after getting washed out of the complex made of crystal violet and iodine in the heat fixed cell, by alcohol or acetone. Meanwhile, the gram-positive organisms, on over-decolourization after the loss of complex even though they retain the complex after decolourization and remain purple.
-* Side Effects: It is noted that blood samples would lead to side effects such as bruising due to the blood draw,  even though some other types of samples would not entail certain side effects.
+* Side Effects: It is noted that blood samples would lead to side effects such as bruising due to the blood draw, even though some other types of samples would not entail certain side effects.
 * Limitations Under Environmental Microbiology: It is observed that in most medical conditions, this method is not solely recommended for bacterial identification since; it will not be able to identify bacteria to its specific level. Therefore, it is used in a combination of other molecular techniques in identifying bacteria.
 
 #### Mishaps during Gram Staining
@@ -111,7 +111,7 @@ Decolorization is one of the most prominent steps which is prone to be performed
 
 * Unbridled Heat During the Time of Fixation: It makes it easier to decolorize the cell once the cell morphology is altered once heat fixation is done in an excessive amount.
 * Overindulgent Washing between each step: CV stain is easily washable with water and it is recommended to not use more than 5 s water rinse during any stage of the procedure.
-* Prolonged Decolorization: It is recommended to decolorize no more than 15 seconds,  and if the specimen is left for a longer period of time,  the possibility of the positive cell losing Crystal Violet and turning red is higher.
+* Prolonged Decolorization: It is recommended to decolorize no more than 15 seconds, and if the specimen is left for a longer period of time, the possibility of the positive cell losing Crystal Violet and turning red is higher.
 * Excessive Counterstaining: With overexposure, It is possible to replace the CV Iodine in the gram-positive cells with counterstain instead
 * Misread Stains: where the negative strains were misread as positive and positive stains as negative.
 * Mixed Culture
