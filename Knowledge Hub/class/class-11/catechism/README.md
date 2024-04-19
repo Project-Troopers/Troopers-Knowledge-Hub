@@ -23,3 +23,7 @@
 ### Hail Holy Queen
 
 Hail, Holy Queen, Mother of Mercy, hail, our life, our sweetness and our hope. To you do we cry, poor banished children of Eve. To you do we send up our sighs, mourning and weeping in this valley of tears Turn then, most gracious advocate, your eyes of mercy toward us, and after this exile show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary. **Amen.**
+
+### **The order of the Mass**
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>The Order of the Mass</strong></td><td>by Universalis (excerpt)</td><td><a href="../../../.gitbook/assets/8902839.jpg">8902839.jpg</a></td><td><a href="the-order-of-the-mass-universalis.md">the-order-of-the-mass-universalis.md</a></td></tr></tbody></table>

@@ -6,6 +6,8 @@ Welcome to this section where you will find all the Physics materials neatly org
 
 [Annual Exam Revision - By Sir.pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/26F7FF6E-8B14-46A0-B04B-E90182F97BDE\_2/9hB0cYJRNjayWb3bzArDaXmL3ki1sywxdX9WpNH40Dkz/Revision%201.pdf)
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Lessons</strong></td><td>19 lessons</td><td><a href="../../../.gitbook/assets/Class 10 - Edu Banner.jpg">Class 10 - Edu Banner.jpg</a></td><td><a href="lessons/">lessons</a></td></tr><tr><td><strong>Practicals</strong></td><td>A few stuff</td><td><a href="../../../.gitbook/assets/science-experiment-with-plant.jpg">science-experiment-with-plant.jpg</a></td><td><a href="practicals/">practicals</a></td></tr></tbody></table>
+
 ### How to ideally study for a Physics exam?
 
 The first thing is to go through the syllabus and make a SWOT analysis. We’re human, so we’re bound to have a few weak points.
@@ -29,7 +31,7 @@ The first thing is to go through the syllabus and make a SWOT analysis. We’re 
 
 [Exp 5 to 8 - Record - Updated - Physics - Sugeeth Notes - 11 A - 30-51-23.pdf](https://drive.google.com/file/d/1WWGLP5uXm9HDRzMVFe5PllX0f0ThGG5M/view?usp=drivesdk)
 
-> #### Oldies (Do not use)
+> **Oldies (Do not use)**
 
 [Physics Record - Exp 5 and 6.pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/a0212139-b188-7cb0-ff9c-fe1c7b0f3eb5)
 

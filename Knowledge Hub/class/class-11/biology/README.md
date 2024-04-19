@@ -2,6 +2,8 @@
 
 Biology is the scientific study of living organisms and their interactions with the environment. From microscopic bacteria to complex ecosystems, biology encompasses a wide range of topics including genetics, physiology, ecology, and evolution. By understanding the principles and processes that drive life on our planet, biologists strive to uncover the mysteries of life and contribute to advancements in medicine, conservation, and agriculture. Here's our collection of notes for Biology, curated.
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Lessons</strong></td><td>19 lessons</td><td><a href="../../../.gitbook/assets/Class 10 - Edu Banner.jpg">Class 10 - Edu Banner.jpg</a></td><td><a href="lessons/">lessons</a></td></tr><tr><td><strong>Practicals</strong></td><td>A few stuff</td><td><a href="../../../.gitbook/assets/science-experiment-with-plant.jpg">science-experiment-with-plant.jpg</a></td><td><a href="practicals/">practicals</a></td></tr></tbody></table>
+
 ## Experiments (Final)
 
 [Biology Record - Exp 1 to 14 - Sugeeth - 09-11-2023.pdf](https://drive.google.com/file/d/17m2s1UCkNQ\_6ysyBoH2C0NoIpI4QpEe3/view?usp=drive\_link)
