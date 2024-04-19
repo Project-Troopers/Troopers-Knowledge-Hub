@@ -75,7 +75,7 @@ _CAIS-A notice placed by **\_\_\_\_\_\_\_\_\_\_**`(member)` , with automatic eff
 
 The above notice is a CAIS-A template; the upcoming notice is a CANB-A template.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 #### `Any Title`
 
 This is a `Class Action Notice Box, Type A (CANB-A)`. Do not remove this Notice box, if you don’t have the required access level. [(Learn why.)](editorial-code-of-conduct.md#class-action)
