@@ -24,14 +24,14 @@ layout:
 # 👋 Home Page
 
 {% hint style="success" %}
-**Version 4** (_Beta Version_) \
-Rolled out on 11_-04-2024 at 11:00 PM_ \
+**Version 4** (_Beta Version_)\
+Rolled out on 11\_-04-2024 at 11:00 PM\_\
 This is a digital documentation.
 {% endhint %}
 
 ### Classes
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Class 12</strong></td><td>By the Brigadiers</td><td><em>10 Subjects</em></td><td><a href="class-12/">class-12</a></td><td><a href=".gitbook/assets/The Troopers Board of Directors.jpg">The Troopers Board of Directors.jpg</a></td></tr><tr><td><strong>Class 11</strong></td><td>by the Troopers</td><td><em>10 Subjects</em></td><td><a href="class/class-11/">class-11</a></td><td><a href=".gitbook/assets/person-with-books-digital-art-style-education-day.jpg">person-with-books-digital-art-style-education-day.jpg</a></td></tr><tr><td><strong>Class 10</strong></td><td>by Jugzards</td><td><em>10 Subjects</em></td><td><a href="class/class-10.md">class-10.md</a></td><td><a href=".gitbook/assets/Class 10 - Edu Banner (1).jpg">Class 10 - Edu Banner (1).jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Class 12</strong></td><td>By the Brigadiers</td><td><em>10 Subjects</em></td><td><a href="class/class-12/">class-12</a></td><td><a href=".gitbook/assets/The Troopers Board of Directors.jpg">The Troopers Board of Directors.jpg</a></td></tr><tr><td><strong>Class 11</strong></td><td>by the Troopers</td><td><em>10 Subjects</em></td><td><a href="class/class-11/">class-11</a></td><td><a href=".gitbook/assets/person-with-books-digital-art-style-education-day.jpg">person-with-books-digital-art-style-education-day.jpg</a></td></tr><tr><td><strong>Class 10</strong></td><td>by Jugzards</td><td><em>10 Subjects</em></td><td><a href="class/class-10.md">class-10.md</a></td><td><a href=".gitbook/assets/Class 10 - Edu Banner (1).jpg">Class 10 - Edu Banner (1).jpg</a></td></tr></tbody></table>
 
 ### <mark style="color:orange;">Competitive Exams</mark>
 
@@ -55,6 +55,6 @@ This hub may include copyrighted materials and text for scientific and research 
 
 ***
 
-© Project Troopers (2024). Released under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our [Terms ](overview/governing-guidelines/)with exceptions).&#x20;
+© Project Troopers (2024). Released under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our [Terms ](overview/governing-guidelines/)with exceptions).
 
 You automatically abide by the governing guidelines when you visit our site.
