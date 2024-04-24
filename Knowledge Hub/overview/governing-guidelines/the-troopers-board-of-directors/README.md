@@ -27,4 +27,16 @@ However, we existed long before the legal stature and the governing guidelines w
 
 ## Election of a member to the Board
 
-The election of a member to the board will follow a standard procedure.
+The election of a member to the board will follow a standard procedure, as designated by the election committee.
+
+## Procedures of the Board
+
+This section will constitute the laws and decision that the board takes to improve its structure, as enshrined by the Legal Stature.
+
+### Laws of the Board
+
+1. The CIC will have administrator access to all the groups.
+
+### Subpages
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>History</strong></td><td>Board Decisions and extras</td><td><a href="board-history.md">board-history.md</a></td><td><a href="../../../.gitbook/assets/cork-background-with-blank-slate-easter-bunny.jpg">cork-background-with-blank-slate-easter-bunny.jpg</a></td></tr></tbody></table>
