@@ -10,8 +10,8 @@ _April 23, 2024._
 
 A resolution to grant a request made by the upcoming CIC "K.S. Harshavardhan". The resolution was to allow the CIC(s) to have administrator access to all regiments and groups of Project Troopers. It was passed, with the following results.
 
-**Vote results: 1-0-4-1**\
-_Vote results are in the for-against-abstained format._\
+**Vote results: 2-0-1-3-1**\
+_Vote results are in the for-against-neutral-abstained-reclused format._\
 _**Time Frame**: From 23-04-2024 05:21 PM to 24-04-2024 06:21 PM (25 hours -> new, extended from original timeframe due to low vote count)_
 
 **Approvers**: K.S. Harshavardhan, Deepan\
@@ -37,7 +37,7 @@ _**Time Frame**: From 22-04-2024 05:08 PM to the end of the same day_
 _A_**bstained:** _None_\
 **Reclused**: Sugeeth (since he was only a caretaker director)
 
-### Retirement of [Sugeeth Jayaraj S.A.](https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2 "mention") from the Board (Case ID: #0003)
+### Resignation of [Sugeeth Jayaraj S.A.](https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2 "mention") from the Board (Case ID: #0003)
 
 * **Resignation**: Sugeeth Jayaraj stepped down from his roles as a director and as CIC of Project Troopers, on April 19, 2024.
 * **Gratitude and Ongoing Membership**: Sugeeth thanked everyone for their teamwork and looked forward to staying on with Project Troopers.
@@ -53,32 +53,32 @@ Sugeeth's Resignation letter
 
 ### Consensus #0002: Proposal for Expanding Computer Corps Program Summary
 
-A student, recommended by a friend of Aakash, has expressed interest in joining our exclusive Computer Corps. The current structure limits participation to students from our school.&#x20;
+A student, recommended by a friend of Aakash, has expressed interest in joining the exclusive Computer Corps. The current structure limits participation to students from our school.&#x20;
 
 #### Considerations
 
-1. Inclusivity vs. Exclusivity: Balancing the program's exclusiveness with potential benefits of inclusivity.&#x20;
-2. Resource Allocation: Assessing if expansion could strain resources or diminish the quality of the program.&#x20;
-3. Precedent Setting: Deciding whether this case sets a precedent for future admissions from outside the current internal setup.
+1. **Inclusivity vs. Exclusivity**: Balancing the program's exclusiveness with potential benefits of inclusivity.&#x20;
+2. **Resource Allocation**: Assessing if expansion could strain resources or diminish the quality of the program.&#x20;
+3. **Precedent Setting**: Deciding whether this case sets a precedent for future admissions from outside the current internal setup.
 
 #### Recommendations
 
-1. Expand Internally: Allow the interested student to join the current Computer Corps, evaluating the impact a the group dynamics and resources.
-2. Create a New Group: Alternatively, establish a separate computer group for external participants, maintaining the exclusiveness of the original Corps but fostering outreach and inclusivity.
+1. **Expand Internally**: Allow the interested student to join the current Computer Corps, evaluating the impact on the group dynamics and resources.
+2. **Create a New Group**: Alternatively, establish a separate computer group for external participants, maintaining the exclusiveness of the original Corps but fostering outreach and inclusivity.
 
 #### Decision Requested
 
-The Board of Directors is kindly asked to deliberate on the mentioned recommendations and make a decision regarding the most suitable approach for the inclusion of the student and potential future external candidates.
+The Board of Directors was kindly asked to deliberate on the mentioned recommendations and make a decision regarding the most suitable approach for the inclusion of the student and potential future external candidates.
 
 #### Discussion
 
-1. **Eric**: Suggests remaining silent in the current group.&#x20;
-2. **Deepan**: Advocates for a separate group, highlighting:
+1. **Eric**: Suggested that the person may join the existing group and remaining silent.
+2. **Deepan**: Advocated for a separate group, highlighting:
    1. Irrelevance of class-related updates for some members
    2. The possibility of sharing targeted resources
    3. Easier access to study materials for all
    4. Enhanced privacy
-3. **Harshavardhan**: Supports creating a separate group to maintain privacy and relevance for school members.
+3. **Harshavardhan**: Supported the creation a separate group to maintain privacy and relevance for school members.
 
 **Formulated Consensus**: Allow them to participate in the computer science division as a new group.
 

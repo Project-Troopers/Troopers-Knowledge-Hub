@@ -194,6 +194,7 @@
   * [Life cycle Policies](overview/governing-guidelines/life-cycle-policies.md)
   * [The Troopers Board of Directors](overview/governing-guidelines/the-troopers-board-of-directors/README.md)
     * [Board History](overview/governing-guidelines/the-troopers-board-of-directors/board-history.md)
+  * [The Troopers Election Committee](overview/governing-guidelines/the-troopers-election-committee.md)
 * [🎉 Onboarding](overview/onboarding.md)
 * [🧑‍🔧 Members](overview/members.md)
 * [📃 Changelog](overview/changelog.md)
