@@ -4,6 +4,26 @@ description: The History of decisions taken by the board of directors, and relat
 
 # Board History
 
+### Proposal (#0006)&#x20;
+
+_April 28, 2024_
+
+_The proposal includes the following points._
+
+* To allow a member from the election committee to stay as a liaison between the board and election committee. This will invariably mean that they will have to be part of this group, but they won't be a director. They would somewhat close to an advisor, who can request or initiate proposal in the group, but can't vote on them.
+* To extend the timeframe to conduct the election for the next replacement director and put the responsibility of conducting the election on the election committee instead of Sugeeth, the caretaker CIC (as his caretaker period will end today night at 11:59 PM)
+* To give the election committee the power to appoint any member of Project Troopers to itself (and invariably make them as administrators).
+* To allow the election committee head to have admin access to all the groups and works of Project Troopers.
+* To give each director a responsibility to maintain over a particular section of the Project Trooper operations on decisions that does not need Board approval, pertaining to that particular section. (Eg: Class 12 operations, Hub educational operations, Legal operations etc)
+* To define the option of 'recluse' as (I) automatic, when the involvement of a director in voting is controversial or is about a case which is about them or if they are an outgoing director (II) manual, as decided by the board
+* To initiate an internal consensus (discussion) about the feasibility of giving the directors a particular tenure to serve in, and to put forth laws that would allow only 1/3rd of the board members' tenure to expire at any given point in time, with reasonable exceptions.
+
+**Original Timeframe**: By April 28, 2024 at 6:00 PM, as one of the points in this proposal need immediate attention.
+
+Sugeeth will automatically recluse from this vote as he is only a caretaker CIC/director.
+
+Vote results are yet to be released.
+
 ### Resolution #0005: Grant of Adminship and full access to all groups for the CICs
 
 _April 23, 2024._
