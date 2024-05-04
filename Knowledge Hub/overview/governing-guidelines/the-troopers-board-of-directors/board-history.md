@@ -4,11 +4,35 @@ description: The History of decisions taken by the board of directors, and relat
 
 # Board History
 
-### Proposal (#0006)&#x20;
+### Consensus Discussion #0008&#x20;
+
+_May 04, 2024_
+
+**Objective**: To discuss about the feasibility and the structural changes needed to assign people to take care of particular regiments and divisions of Project Troopers.
+
+_Raised by Co-CIC Deepan Sai._
+
+The results of the discussion have not been released yet.
+
+{% hint style="danger" %}
+### Proposal #0007
+
+_April 29, 2024_
+
+_This is a proposal that aims to change the basic essence of the Legal stature. It will follow the voting procedures enshrined in the legal stature (Version 1)._
+
+_Raised by Co-CIC Deepan Sai._
+
+Laws shall be reframed and simplified involving no legal actions or requirements- law shall only guide the members of the group.
+
+Voting results have not been released yet.
+{% endhint %}
+
+### Resolution #0006: Changes to the Election Committee and Board responsibilities
 
 _April 28, 2024_
 
-_The proposal includes the following points._
+A resolution was passed that includes the following points:
 
 * To allow a member from the election committee to stay as a liaison between the board and election committee. This will invariably mean that they will have to be part of this group, but they won't be a director. They would somewhat close to an advisor, who can request or initiate proposal in the group, but can't vote on them.
 * To extend the timeframe to conduct the election for the next replacement director and put the responsibility of conducting the election on the election committee instead of Sugeeth, the caretaker CIC (as his caretaker period will end today night at 11:59 PM)
@@ -18,11 +42,15 @@ _The proposal includes the following points._
 * To define the option of 'recluse' as (I) automatic, when the involvement of a director in voting is controversial or is about a case which is about them or if they are an outgoing director (II) manual, as decided by the board
 * To initiate an internal consensus (discussion) about the feasibility of giving the directors a particular tenure to serve in, and to put forth laws that would allow only 1/3rd of the board members' tenure to expire at any given point in time, with reasonable exceptions.
 
-**Original Timeframe**: By April 28, 2024 at 6:00 PM, as one of the points in this proposal need immediate attention.
+**Vote results: 3-1-0-1-1**\
+_Vote results are in the for-against-neutral-abstained-reclused format._\
+_**Timeframe**: By April 28, 2024 at 6:00 PM, as one of the points in this proposal need immediate attention... which was extended for one more day._
 
-Sugeeth will automatically recluse from this vote as he is only a caretaker CIC/director.
-
-Vote results are yet to be released.
+**Approvers**: K.S. Harshavardhan, Deepan, Faheema\
+**Detractors**: Eric\
+**Neutral:** _None_\
+**Abstained**: Nithin \
+**Reclused**: Sugeeth (since he was only a caretaker director)
 
 ### Resolution #0005: Grant of Adminship and full access to all groups for the CICs
 
@@ -37,7 +65,7 @@ _**Time Frame**: From 23-04-2024 05:21 PM to 24-04-2024 06:21 PM (25 hours -> ne
 **Approvers**: K.S. Harshavardhan, Deepan\
 **Detractors**: _None_\
 **Neutral:** Nithin\
-**Abstained**: Eric, Deepan, Faheema\
+**Abstained**: Eric, Faheema\
 **Reclused**: Sugeeth (since he was only a caretaker director)
 
 ### Resolution #0004: Selection of the new CIC
