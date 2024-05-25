@@ -14,6 +14,7 @@
         * [Ls 1 - The Third Level](class/class-12/english/lessons/vistas/ls-1-the-third-level.md)
     * [Activities](class/class-12/english/activities/README.md)
       * [Investigatory Project](class/class-12/english/activities/investigatory-project.md)
+      * [Model United Nations](class/class-12/english/activities/model-united-nations.md)
     * [Composition](class/class-12/english/composition/README.md)
       * [Invitation Writing](class/class-12/english/composition/invitation-writing.md)
       * [Notice Writing](class/class-12/english/composition/notice-writing.md)
