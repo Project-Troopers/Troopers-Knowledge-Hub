@@ -4,10 +4,6 @@ description: This is a year-long activity mandated by the CBSE. Viva will be hel
 
 # Investigatory Project
 
-{% hint style="success" %}
-**Assessment**: Final exam's internals.&#x20;
-{% endhint %}
-
 ## Objectives
 
 * For the student to research, understand, debate and substantiate their ideas about a lesson-related theme.
