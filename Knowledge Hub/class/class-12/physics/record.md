@@ -7,5 +7,5 @@
 
 {% hint style="success" %}
 ## File
-[The Record Sample - Sugeeth](https://drive.google.com/file/d/1fSh28_JbNH-6n2b5610zhJ297jNdrmb2)
+[The Record Sample for Dummies](https://drive.google.com/file/d/1fSh28_JbNH-6n2b5610zhJ297jNdrmb2)
 {% endhint %}
