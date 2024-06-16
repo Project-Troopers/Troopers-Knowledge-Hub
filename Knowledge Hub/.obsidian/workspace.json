@@ -11,8 +11,12 @@
             "id": "5af52b7036971739",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "class/class-11/biology/practicals/bio-infobox.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "class/class-11/biology/practicals/bio-infobox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "class/class-11/biology/practicals/bio-infobox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "class/class-11/biology/practicals/bio-infobox.md"
+              }
             }
           }
         ]
@@ -139,5 +147,21 @@
     }
   },
   "active": "5af52b7036971739",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "class/class-11/biology/README.md",
+    "class/class-11/biology/lessons/chapter-16-excretory-products-and-their-elimination.md",
+    "class/class-11/biology/lessons/chapter-14-breathing-and-exchange-of-gases.md",
+    "class/class-11/biology/lessons/cell-the-unit-of-life.md",
+    "class/class-11/biology/lessons/biomolecules.md",
+    "class/class-11/biology/lessons/animal-kingdom.md",
+    "class/class-11/biology/lessons/anatomy-of-flowering-plants.md",
+    "class-12/README.md",
+    "README.md",
+    "SUMMARY.md",
+    "class/class-12/english/README.md",
+    "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
+    "class/class-12/english/lessons/ls-1-the-last-lesson.md",
+    "class/class-12/english/Activities/model-united-nations.md",
+    "class/class-12/english/Activities/investigatory-project.md"
+  ]
 }
