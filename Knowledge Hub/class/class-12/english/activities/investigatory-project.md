@@ -3,6 +3,7 @@ description: This is a year-long activity mandated by the CBSE. Viva will be hel
 ---
 
 # Investigatory Project
+
 {% hint style="success" %}
 **Assessment**: Final exam's internals.&#x20;
 {% endhint %}
@@ -73,4 +74,3 @@ A sample portfolio has been attached below.
 
 * For the report: [Report.m4a](https://res.craft.do/user/full/b8b89018-aef2-86a2-127d-5e07bf8933bc/doc/4C711A56-DD85-4491-86B4-D7CBF5B4EC5B/93f96a2d-0631-baf3-670b-c905f42ae8f9/8nz13dYg7W8yLo3Uay3tL2g8qwHKE2qHUDi5EifRHS8z/Report.m4a)
 * For the essay: [Essay.m4a](https://res.craft.do/user/full/b8b89018-aef2-86a2-127d-5e07bf8933bc/doc/4C711A56-DD85-4491-86B4-D7CBF5B4EC5B/c8ea8920-83cf-66e2-109a-db7e537f7b70/WeSdPpGwzHYI9KdrX3cqkZSV7bJxFVhGCi1Ljr48qx0z/Essay.m4a)
-
