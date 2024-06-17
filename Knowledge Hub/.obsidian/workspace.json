@@ -11,12 +11,8 @@
             "id": "5af52b7036971739",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class/class-11/biology/practicals/bio-infobox.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-11/biology/practicals/bio-infobox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-11/biology/practicals/bio-infobox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "class/class-11/biology/practicals/bio-infobox.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,20 +140,38 @@
   },
   "active": "5af52b7036971739",
   "lastOpenFiles": [
+    "class-12/English/README.md",
+    "class-12/README.md",
+    "class-12/English/Tips/README.md",
+    "class-12/English/Activities/README.md",
+    "class-12/English/Activities/investigatory-project.md",
+    "class-12/English/Composition/invitation-writing.md",
+    "class-12/English/Composition/notice-writing.md",
+    "class-12/English/Composition/README.md",
+    "class-12/English/lessons/README.md",
+    "class-12/English/lessons/poem-1-my-mother-at-sixty-six.md",
+    "class-12/English/lessons/ls-1-the-last-lesson.md",
+    "class-12/English/main/Ls-1-The-Last-Lesson.md",
+    "class-12/English/main/Poem-1-My-Mother-at-66.md",
+    "class-12/English/Tips/how-did-some-idioms-and-words-came-into-existence.md",
+    "class-12/English/Tips/Idioms-and-History.md",
+    "class/class-11/README.md",
+    "class-12/English/Tips",
+    "class-12/English/main",
+    "class-12/English/lessons",
+    "class-12/English/Composition",
+    "class-12/English/Activities",
+    "class-12/English",
+    "class-12",
+    "class/class-11/chemistry/README.md",
+    "class/class-12/README.md",
+    "class/class-10.md",
+    "class/class-11/biology/practicals/bio-infobox.md",
     "class/class-11/biology/README.md",
     "class/class-11/biology/lessons/chapter-16-excretory-products-and-their-elimination.md",
     "class/class-11/biology/lessons/chapter-14-breathing-and-exchange-of-gases.md",
     "class/class-11/biology/lessons/cell-the-unit-of-life.md",
     "class/class-11/biology/lessons/biomolecules.md",
-    "class/class-11/biology/lessons/animal-kingdom.md",
-    "class/class-11/biology/lessons/anatomy-of-flowering-plants.md",
-    "class-12/README.md",
-    "README.md",
-    "SUMMARY.md",
-    "class/class-12/english/README.md",
-    "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
-    "class/class-12/english/lessons/ls-1-the-last-lesson.md",
-    "class/class-12/english/Activities/model-united-nations.md",
-    "class/class-12/english/Activities/investigatory-project.md"
+    "class/class-11/biology/lessons/animal-kingdom.md"
   ]
 }
