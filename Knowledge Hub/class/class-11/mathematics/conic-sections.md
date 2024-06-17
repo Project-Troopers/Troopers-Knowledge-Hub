@@ -1,2 +1,0 @@
-# Conic Sections
-

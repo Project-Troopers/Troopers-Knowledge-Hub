@@ -1,3 +1,0 @@
-# Straight Lines
-
-## Notes

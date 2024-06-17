@@ -1,3 +1,0 @@
-# Hydrocarbons
-
-## Reference Material
