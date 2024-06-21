@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
+                "file": "class/class-12/english/lessons/ls-2-lost-spring.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386c6cbc0c485ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -147,16 +161,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51a08921ce5d91c",
+  "active": "386c6cbc0c485ba4",
   "lastOpenFiles": [
+    "class/class-12/english/lessons/ls-2-lost-spring.md",
+    "SUMMARY.md",
+    "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+    "overview/governing-guidelines/technical-guideline-to-the-hub.md",
+    "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
     "overview/governing-guidelines/the-troopers-election-committee/approved-acts/README.md",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "overview/changelog.md",
     "class/class-12/chemistry/lessons/ls-1-solutions.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/february-2024.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/july-2023.md",
-    "class/class-12/english/lessons/ls-2-lost-spring.md",
     "class/class-12/english/lessons/ls-1-the-last-lesson.md",
     "class/class-12/english/lessons/README.md",
     "class/class-12/english/lessons/Untitled.canvas",
