@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class/class-12/chemistry/lessons/ls-1-solutions.md",
+                "file": "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-12/chemistry/lessons/ls-1-solutions.md",
+                "file": "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-12/chemistry/lessons/ls-1-solutions.md",
+                "file": "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/class-12/chemistry/lessons/ls-1-solutions.md"
+                "file": "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md"
               }
             }
           }
@@ -148,6 +149,18 @@
   },
   "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
+    "overview/governing-guidelines/the-troopers-election-committee/approved-acts/README.md",
+    "overview/governing-guidelines/the-troopers-election-committee/README.md",
+    "overview/changelog.md",
+    "class/class-12/chemistry/lessons/ls-1-solutions.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/february-2024.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/july-2023.md",
+    "class/class-12/english/lessons/ls-2-lost-spring.md",
+    "class/class-12/english/lessons/ls-1-the-last-lesson.md",
+    "class/class-12/english/lessons/README.md",
+    "class/class-12/english/lessons/Untitled.canvas",
+    "class/class-12/gst.md",
     "class/class-12/chemistry/lessons/README.md"
   ]
 }
