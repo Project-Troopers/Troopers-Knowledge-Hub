@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "class/class-12/english/lessons/ls-2-lost-spring.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -143,7 +143,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,6 +165,13 @@
   "lastOpenFiles": [
     "SUMMARY.md",
     "class/class-12/english/lessons/ls-2-lost-spring.md",
+    "Pasted image 20240622073509.png",
+    "class/class-12/english/composition/notice-writing.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/bulletin-board.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
+    "readme/a-quick-how-to-...study.md",
+    "class/class-12/english/lessons/ls-1-the-last-lesson.md",
     "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
@@ -174,7 +182,6 @@
     "class/class-12/chemistry/lessons/ls-1-solutions.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/february-2024.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/july-2023.md",
-    "class/class-12/english/lessons/ls-1-the-last-lesson.md",
     "class/class-12/english/lessons/README.md",
     "class/class-12/english/lessons/Untitled.canvas",
     "class/class-12/gst.md",
