@@ -224,6 +224,8 @@
       * [Latest Tests](divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md)
       * [Latest Reminders](divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md)
       * [June 2024](divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md)
+      * [April 2024](divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md)
+      * [March 2024](divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md)
       * [February 2024](divisions/brigadiers/the-first-brigadier-regiment/announcements/february-2024.md)
       * [January 2024](divisions/brigadiers/the-first-brigadier-regiment/announcements/january-2024.md)
       * [December 2023](divisions/brigadiers/the-first-brigadier-regiment/announcements/december-2023.md)

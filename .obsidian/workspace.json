@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0735e164552dd276",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md"
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md"
               }
             }
           }
@@ -163,13 +163,13 @@
   },
   "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
-    "readme/a-quick-how-to-...study.md",
+    "SUMMARY.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md",
     "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md",
+    "readme/a-quick-how-to-...study.md",
     "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-1.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
-    "SUMMARY.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/august-2023.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "class/class-12/english/lessons/ls-2-lost-spring.md",
