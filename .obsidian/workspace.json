@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 417.5
   },
   "right": {
     "id": "0735e164552dd276",
@@ -163,8 +163,10 @@
   },
   "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
-    "SUMMARY.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md",
+    "SUMMARY.md",
     "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md",
     "readme/a-quick-how-to-...study.md",
     "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-1.md",
@@ -189,7 +191,6 @@
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/february-2024.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/july-2023.md",
     "class/class-12/english/lessons/README.md",
-    "class/class-12/english/lessons/Untitled.canvas",
-    "class/class-12/gst.md"
+    "class/class-12/english/lessons/Untitled.canvas"
   ]
 }
