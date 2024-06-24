@@ -31,4 +31,6 @@
    * Modulus of Rigidity (eta)
 6. Poisson’s Ratio (sigma)
 7. Elastic Potential Energy (U)
-8. $$\frac{U}{Volume}$$ $$=$$ $$\frac{1}{2} (Stress)(Strain)$$
+8. $$\frac{U}{Volume} = \frac{1}{2} (Stress)(Strain)$$
+## Questions
+1. Two bodies of masses 2kg and 3kg are connected by a metal wire of cross section 0.04 $mm^2$. The whole system is placed flat on a horizontal surface. Breaking stress of metal wire is 2.5 GPa. Find the maximum force F that can be applied to 3kg block so that wire doe not break, and the acceleration of both the bodies.

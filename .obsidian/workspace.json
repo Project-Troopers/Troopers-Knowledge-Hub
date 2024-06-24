@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "9793b713affad2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "386c6cbc0c485ba4",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
+                "file": "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
+                "file": "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md"
+                "file": "class/class-11/physics/lessons/kinetic-theory-of-gases.md"
               }
             }
           }
@@ -161,8 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51a08921ce5d91c",
+  "active": "9793b713affad2f1",
   "lastOpenFiles": [
+    "class/class-11/physics/lessons/motion-in-a-line.md",
+    "class/class-11/physics/lessons/motion-in-a-plane.md",
+    "class/class-11/physics/lessons/oscillations.md",
+    "class/class-11/physics/lessons/mechanical-properties-of-solids.md",
+    "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
     "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
     "class/class-12/physics/lessons/ls-3-current-electricity.md",
     "readme/a-quick-how-to-...study.md",
@@ -187,11 +206,6 @@
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
     "overview/governing-guidelines/the-troopers-election-committee/approved-acts/README.md",
-    "overview/governing-guidelines/the-troopers-election-committee/README.md",
-    "overview/changelog.md",
-    "class/class-12/chemistry/lessons/ls-1-solutions.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/february-2024.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/july-2023.md",
     "class/class-12/english/lessons/Untitled.canvas"
   ]
 }
