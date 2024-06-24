@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme/a-quick-how-to-...study.md",
-                "mode": "preview",
+                "file": "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme/a-quick-how-to-...study.md",
+                "file": "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme/a-quick-how-to-...study.md",
+                "file": "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme/a-quick-how-to-...study.md"
+                "file": "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
-    "SUMMARY.md",
+    "class/class-12/physics/lessons/ls-3-current-electricity.md",
     "readme/a-quick-how-to-...study.md",
+    "SUMMARY.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md",

@@ -5,6 +5,13 @@
 1. [Electric Potential - Ls 2 - Physics -Rao Sir notes.pdf](https://drive.google.com/file/d/1Tn4DNhD98rr3Mw0urekx2Fz\_KbbT7F9Q/view?usp=drive\_link)
 2. [Chapter 02 Book - Rao Sir - Worked Out.pdf](https://drive.google.com/file/d/1TyJ30pi-AmrEuKONVO8EEHo8p1HfGyjo/view?usp=drive\_link)
 
+## Questions
+1. There is a uniform electrostatic field in a region. The potential at various points on a small sphere centred at P, in the region, is found to vary between in the limits 589.0 V to 589.8 V. What is the potential at a point on the sphere whose radius vector makes an angle of 60 deg with the direction of the field?
+   (A) 589.5 V
+   (B) 589.2 V
+   (C) 589.4 V
+   (D) 589.6 V
+
 ## Worksheet
 
 [Electric Potential - PYQs.pdf](https://drive.google.com/open?id=1Tz1-IzpYjlP3zAp6BCWe8lbtCpm0n8GE\&usp=drive\_fs)
