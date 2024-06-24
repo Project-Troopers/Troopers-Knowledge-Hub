@@ -6,7 +6,13 @@
 2. [Chapter 02 Book - Rao Sir - Worked Out.pdf](https://drive.google.com/file/d/1TyJ30pi-AmrEuKONVO8EEHo8p1HfGyjo/view?usp=drive\_link)
 
 ## Questions
-1. There is a uniform electrostatic field in a region. The potential at various points on a small sphere centred at P, in the region, is found to vary between in the limits 589.0 V to 589.8 V. What is the potential at a point on the sphere whose radius vector makes an angle of 60 deg with the direction of the field?
+1. A regular hexagon of side 10cm has a charge 5uC at each of its vertices . Calculate the potential at the centre of the hexagon.
+2. As in the figure, if a capacitor of capacitance 'C' is charged by connecting it with resistance 'R', then energy given by the battery will be 
+   a) 1/2CV^2 
+   b) less than 1/2CV^2 
+   c) CV^2 
+   d) more than CV^2
+3. There is a uniform electrostatic field in a region. The potential at various points on a small sphere centred at P, in the region, is found to vary between in the limits 589.0 V to 589.8 V. What is the potential at a point on the sphere whose radius vector makes an angle of 60 deg with the direction of the field?
    (A) 589.5 V
    (B) 589.2 V
    (C) 589.4 V

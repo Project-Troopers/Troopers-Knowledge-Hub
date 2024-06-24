@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
+                "file": "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
+                "file": "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
+                "file": "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/class-11/physics/lessons/kinetic-theory-of-gases.md"
+                "file": "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md"
               }
             }
           }
@@ -177,13 +177,15 @@
   },
   "active": "9793b713affad2f1",
   "lastOpenFiles": [
+    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
+    "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
+    "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
+    "class/class-12/physics/lessons/ls-3-current-electricity.md",
+    "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
     "class/class-11/physics/lessons/motion-in-a-line.md",
     "class/class-11/physics/lessons/motion-in-a-plane.md",
     "class/class-11/physics/lessons/oscillations.md",
     "class/class-11/physics/lessons/mechanical-properties-of-solids.md",
-    "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
-    "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
-    "class/class-12/physics/lessons/ls-3-current-electricity.md",
     "readme/a-quick-how-to-...study.md",
     "SUMMARY.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
@@ -204,8 +206,6 @@
     "class/class-12/english/lessons/ls-1-the-last-lesson.md",
     "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
-    "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
-    "overview/governing-guidelines/the-troopers-election-committee/approved-acts/README.md",
     "class/class-12/english/lessons/Untitled.canvas"
   ]
 }
