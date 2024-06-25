@@ -59,4 +59,6 @@ git clone https://github.com/Project-Troopers/Troopers-Knowledge-Hub.git --progr
 That's all. Sync has been set up! If you have access to edit the repository then you can automatically edit it from there itself. If you don't, just don't edit the text files, as it will force an commit update.
 
 ### For iOS
-1. You will need the Obsidian app. Download the latest version from the pl
+1. You will need the Obsidian app. Download the latest version from the App Store, but do not open it immediately.
+2. Download this zip file from Google Drive. It is a snapshot of the Knowledge Hub configured for Obsidian on mobile.
+3. Then
