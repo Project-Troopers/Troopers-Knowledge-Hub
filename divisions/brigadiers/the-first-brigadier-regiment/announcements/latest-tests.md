@@ -5,6 +5,8 @@ description: This is the page to track class tests.
 # Latest Tests
 ## Portions for Periodic Exam 1:
 ### Physics
+<figure><img src="../../../.gitbook/assets/Physics Portions for PE 1 - 12A - Draft.jpg" alt=""><figcaption></figcaption></figure>
+[](.gitbook\assets\Physics Portions for PE 1 - 12A - Draft.jpg)
 
 
 ## Archive
