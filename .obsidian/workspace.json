@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md",
+                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md",
+                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md"
+                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md"
               }
             }
           }
@@ -175,16 +175,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386c6cbc0c485ba4",
+  "active": "9793b713affad2f1",
   "lastOpenFiles": [
-    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
+    "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
+    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "SUMMARY.md",
     "README.md",
-    "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/tests-schedule.md",
     "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
     "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",

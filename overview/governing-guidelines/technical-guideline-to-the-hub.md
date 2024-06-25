@@ -17,7 +17,7 @@ The Documentation
 
 Since we can't add all the members of the project on GitBook due to technical limitations, we have used GitSync (by GitBook) to sync our documentation with GitHub. It is available at the link listed below. Only members with authorized access roles are allowed to commit to it.
 
-{% embed url="https://github.com/Project-Troopers/Troopers-Knowledge-Hub/tree/main/Knowledge%20Hub" %}
+{% embed url="https://github.com/Project-Troopers/Troopers-Knowledge-Hub/" %}
 Our Files on GitHub
 {% endembed %}
 
@@ -54,6 +54,6 @@ git clone https://github.com/Project-Troopers/Troopers-Knowledge-Hub.git --progr
 %USERPROFILE%\Documents\troopers-knowledge-hub\
 ```
 5. Then click on "Trust". After that, go to the settings icon near the name of the workspace, click on community plugins, enable the community plugins part.
-6. Enable the Git Plugin. 
+6. Enable the Git Plugin. Go to the Settings (Gear Icon) of the Git Plugin and set Hostname to any name to identify your device with.
 
-That's all. Sync has been set up!
+That's all. Sync has been set up! If you have access to edit the repository then you can automatically edit it from there itself. If you don't, just don't edit the text files, as it will force an commit update.
