@@ -64,3 +64,8 @@ _Footnotes: cd Documents will select the Documents folder on device (not on any 
 6. Enable the Git Plugin. Go to the Settings (Gear Icon) of the Git Plugin and set Hostname to any name to identify your device with.
 
 That's all. Sync has been set up! If you have access to edit the repository then you can automatically edit it from there itself. If you don't, just don't edit the text files, as it will force an commit update.
+
+### For iOS
+1. You will need the Obsidian app. Download the latest version from the App Store, but do not open it immediately.
+2. Download this zip file from Google Drive. It is a snapshot of the Knowledge Hub configured for Obsidian on mobile.
+3. Then
