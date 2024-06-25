@@ -25,7 +25,7 @@ PageSpeed Insights for the Old Hub
 PageSpeed Insights for the New Hub
 {% endembed %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Lighthouse Treemap for the New Hub</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Lighthouse Treemap for the New Hub</p></figcaption></figure>
 
 ## Version 3.1
 

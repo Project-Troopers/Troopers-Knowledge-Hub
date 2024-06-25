@@ -1,6 +1,6 @@
 ---
 description: of Project Troopers (Batch 2)
-cover: ../.gitbook/assets/Subedar.jpg
+cover: broken-reference
 coverY: 0
 ---
 
