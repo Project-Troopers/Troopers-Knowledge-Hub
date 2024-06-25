@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md"
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md"
               }
             }
           }
@@ -176,9 +176,10 @@
   },
   "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/tests-schedule.md",
     "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
     "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "overview/governing-guidelines/editorial-code-of-conduct.md",
@@ -204,7 +205,6 @@
     "Untitled 1.canvas",
     "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md",
     "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-1.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
     "Pasted image 20240622073509.png",
     "class/class-12/english/lessons/Untitled.canvas"
   ]
