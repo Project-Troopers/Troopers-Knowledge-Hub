@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
+                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
+                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md"
+                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md"
               }
             }
           }
@@ -175,11 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9793b713affad2f1",
+  "active": "386c6cbc0c485ba4",
   "lastOpenFiles": [
+    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
-    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
