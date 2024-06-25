@@ -17,7 +17,7 @@
 
 ### Formula Cheat sheet
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Electrostatic Potential - Ls 2 - Physics - 12 A - Formula CheatSheet.jpg" alt=""><figcaption></figcaption></figure>
 
 1. Electric potential: $$V = \frac{W}{q}$$
 2. W = $$q (V_A-V_B) \ where \ V_A > V_B$$

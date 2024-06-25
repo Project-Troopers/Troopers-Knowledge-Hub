@@ -10,7 +10,7 @@
    (4) 1.5×10^3 N , 2.4×10^−16 N
 3.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>The third question.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/WhatsApp Image 2024-04-13 at 13.01.13_5e4229f0.jpg" alt=""><figcaption><p>The third question.</p></figcaption></figure>
 
 4. Two charges -3q and q are placed fixed on the x-axis separated by distance ‘d’. Where should a third charge 2q be placed such that it will not experience any force?
 5. Two identical non conducting solid spheres of same mass and charges suspended in air from a common point by two non conducting massless strings of same length. at equilibrium at the angle between the strings is alpha the Spheres are now immersed in a dielectric liquid of density 800 kg metre cube and dielectric constant 21. If the angle between the strings remains the same after the immersion then......\
