@@ -1,7 +1,6 @@
 ---
 description: This is a short overview on the technical structure of the hub.
 ---
-
 # Technical Guideline to the Hub
 
 The Hub and the Project depends on a series of software technologies, handshakes and built-in models. This section is present under the purview of the Legal Stature of the hub.
@@ -27,3 +26,24 @@ Our Files on GitHub
 We used to, and still continue to, hold an archive of all the materials that we link in this documentation on Google Drive. We may not include URLs, however.
 
 The link to the back end is[ Jugzards - CBSE](https://drive.google.com/drive/folders/1H6GLo8tvjuDqWGfHuYQiZo\_WkKoVZmJX?usp=drive\_link).
+
+## Offline Access to the Hub
+The Hub can be completely accessed offline, using Git and Obsidian.
+
+{% hint style="info" %}
+#### **Recommended Specs to use the Hub offline**
+1. **Space**: 15 GB 
+2. **Network**: 50 Mbps speed
+{% endhint %}
+
+{% hint style="danger" %}
+#### **Minimum Specs to use the Hub offline**
+1. **Space**: 5 GB
+2. **Network**: 10 Mbps speed
+{% endhint %}
+### For Windows Users
+1. You'll need Git and Obsidian software. To download the required applications, use the following command.
+```
+winget install Git.Git Obsidian.Obsidian
+```
+2. Then, you'll need to clone the hub locally so that it'll work on device. To do that, type the following commands. 
