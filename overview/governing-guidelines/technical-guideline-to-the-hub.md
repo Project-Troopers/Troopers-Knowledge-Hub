@@ -36,12 +36,8 @@ The Hub can be completely accessed offline, using Git and Obsidian.
 2. **Network**: 50 Mbps speed recommended, 10 Mbps speed minimum
 {% endhint %}
 
-{% hint style="danger" %}
-#### **Minimum Specs to use the Hub offline**
-1. **Space**: 5 GB
-2. **Network**: 
-{% endhint %}
 ### For Windows Users
+
 1. You'll need Git and Obsidian software. To download the required applications, use the following command.
 ```
 winget install Git.Git Obsidian.Obsidian
@@ -57,4 +53,7 @@ git clone https://github.com/Project-Troopers/Troopers-Knowledge-Hub.git --progr
 ```
 %USERPROFILE%\Documents\troopers-knowledge-hub\
 ```
-5. 
+5. Then click on "Trust". After that, go to the settings icon near the name of the workspace, click on community plugins, enable the community plugins part.
+6. Enable the Git Plugin. 
+
+That's all. Sync has been set up!
