@@ -47,3 +47,10 @@ The Hub can be completely accessed offline, using Git and Obsidian.
 winget install Git.Git Obsidian.Obsidian
 ```
 2. Then, you'll need to clone the hub locally so that it'll work on device. To do that, type the following commands. 
+```
+cd Documents
+git clone https://github.com/Project-Troopers/Troopers-Knowledge-Hub.git --progress
+```
+Footnotes: cd Documents will select the Documents folder on device (not on any online service) locally, and you change it to any directory.
+3. After cloning it on device, open Obsidian. Then click on open a new vault. 
+4. In the address bar of File Explorer, paste this directory, and then click on "Open" (or "select folder".)
