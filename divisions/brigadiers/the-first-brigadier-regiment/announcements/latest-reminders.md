@@ -19,6 +19,19 @@ layout:
 ---
 
 # Latest Reminders
+## June 25, 2024 (Tuesday)
+
+> _Posted at 6:42 PM IST_
+
+1. **English** - Stick the "Letters to the Editor" sample.
+2. **Maths** - Do the homework sums and be prepped for a small test on those sums tmrw.
+3. **Physics and Maths** - Bring your record and submit by tomorrow.
+4. **Physics** - Submit your Investigatory Project Draft by the end of this week.
+5. **Biology** - Submit your Investigatory Project on July 2nd, 2024.
+6. **English** - Submit your essays tomorrow. Submit your signed answer sheets for Cycle Test 1 tomorrow.
+7. **Biology** - Test on "Principles of Variation and Inheritance" tomorrow. Also, get your Cycle Test 1 answer sheet signed and submit it tomorrow.
+8. **Chem** - Study Isomerism from Class 11 for Organic Compounds.
+9. **Maths** - Test on "Relations and Functions" on 27-06-2024.
 
 ## June 24, 2024 (Monday)
 1. **Chem** - Study Isomerism from Class 11 for Organic Compounds.

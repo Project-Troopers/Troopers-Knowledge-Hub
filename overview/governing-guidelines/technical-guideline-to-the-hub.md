@@ -32,14 +32,14 @@ The Hub can be completely accessed offline, using Git and Obsidian.
 
 {% hint style="info" %}
 #### **Recommended Specs to use the Hub offline**
-1. **Space**: 15 GB 
-2. **Network**: 50 Mbps speed
+1. **Space**: 15 GB Recommended, 5 GB Minimum
+2. **Network**: 50 Mbps speed recommended, 10 Mbps speed minimum
 {% endhint %}
 
 {% hint style="danger" %}
 #### **Minimum Specs to use the Hub offline**
 1. **Space**: 5 GB
-2. **Network**: 10 Mbps speed
+2. **Network**: 
 {% endhint %}
 ### For Windows Users
 1. You'll need Git and Obsidian software. To download the required applications, use the following command.
@@ -51,6 +51,10 @@ winget install Git.Git Obsidian.Obsidian
 cd Documents
 git clone https://github.com/Project-Troopers/Troopers-Knowledge-Hub.git --progress
 ```
-Footnotes: cd Documents will select the Documents folder on device (not on any online service) locally, and you change it to any directory.
+*Footnotes: cd Documents will select the Documents folder on device (not on any online service) locally, and you change it to any directory.*
 3. After cloning it on device, open Obsidian. Then click on open a new vault. 
 4. In the address bar of File Explorer, paste this directory, and then click on "Open" (or "select folder".)
+```
+%USERPROFILE%\Documents\troopers-knowledge-hub\
+```
+5. 
