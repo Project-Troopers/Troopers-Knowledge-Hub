@@ -18,8 +18,8 @@
    b) electric force between the Spears reduces\
    c) mass density of the spheres is 840 kg metre /cube\
    d) tension in the strings remains the same
-6. Three charges 4q, Q and q are in a straight line in the position of 0, l/2 and l respectively. The resultant force on q will be zero, if Q = \_ \_ \_ \_ \_ (a) -q (b) -2q (c) -q/2. (D) 4q
-
+6. Three charges 4q, Q and q are in a straight line in the position of 0, l/2 and l respectively. The resultant force on q will be zero, if Q = _ _ _ _ _
+   (a) -q  (b) -2q  (c) -q/2. (D) 4q
 ## The Good old notes…
 
 [Ls 1 - EC and Fields - Part 2 Full.pdf](https://drive.google.com/file/d/1ss3CBwiPT6uX2JuAaEJPNMbaiZB3RYSg/view?usp=drive\_link)

@@ -1,7 +1,6 @@
 ---
 description: This is a short overview on the technical structure of the hub.
 ---
-
 # Technical Guideline to the Hub
 
 The Hub and the Project depends on a series of software technologies, handshakes and built-in models. This section is present under the purview of the Legal Stature of the hub.
@@ -29,12 +28,10 @@ We used to, and still continue to, hold an archive of all the materials that we 
 The link to the back end is[ Jugzards - CBSE](https://drive.google.com/drive/folders/1H6GLo8tvjuDqWGfHuYQiZo\_WkKoVZmJX?usp=drive\_link).
 
 ## Offline Access to the Hub
-
 The Hub can be completely accessed offline, using Git and Obsidian.
 
 {% hint style="info" %}
-**Recommended Specs to use the Hub offline**
-
+#### **Recommended Specs to use the Hub offline**
 1. **Space**: 15 GB Recommended, 5 GB Minimum
 2. **Network**: 50 Mbps speed recommended, 10 Mbps speed minimum
 {% endhint %}
@@ -42,30 +39,21 @@ The Hub can be completely accessed offline, using Git and Obsidian.
 ### For Windows Users
 
 1. You'll need Git and Obsidian software. To download the required applications, use the following command.
-
 ```
 winget install Git.Git Obsidian.Obsidian
 ```
-
-2. Then, you'll need to clone the hub locally so that it'll work on device. To do that, type the following commands.
-
+2. Then, you'll need to clone the hub locally so that it'll work on device. To do that, type the following commands. 
 ```
 cd Documents
 git clone https://github.com/Project-Troopers/Troopers-Knowledge-Hub.git --progress
 ```
-
-_Footnotes: cd Documents will select the Documents folder on device (not on any online service) locally, and you change it to any directory._ 3. After cloning it on device, open Obsidian. Then click on open a new vault. 4. In the address bar of File Explorer, paste this directory, and then click on "Open" (or "select folder".)
-
+*Footnotes: cd Documents will select the Documents folder on device (not on any online service) locally, and you change it to any directory.*
+3. After cloning it on device, open Obsidian. Then click on open a new vault. 
+4. In the address bar of File Explorer, paste this directory, and then click on "Open" (or "select folder".)
 ```
 %USERPROFILE%\Documents\troopers-knowledge-hub\
 ```
-
 5. Then click on "Trust". After that, go to the settings icon near the name of the workspace, click on community plugins, enable the community plugins part.
 6. Enable the Git Plugin. Go to the Settings (Gear Icon) of the Git Plugin and set Hostname to any name to identify your device with.
 
 That's all. Sync has been set up! If you have access to edit the repository then you can automatically edit it from there itself. If you don't, just don't edit the text files, as it will force an commit update.
-
-### For iOS
-1. You will need the Obsidian app. Download the latest version from the App Store, but do not open it immediately.
-2. Download this zip file from Google Drive. It is a snapshot of the Knowledge Hub configured for Obsidian on mobile.
-3. Then
