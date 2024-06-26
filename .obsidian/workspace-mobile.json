@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overview/governing-guidelines.md",
-                "mode": "source",
+                "file": "overview/governing-guidelines/README.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "overview/governing-guidelines.md",
+            "file": "overview/governing-guidelines/README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "overview/governing-guidelines.md",
+            "file": "overview/governing-guidelines/README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "overview/governing-guidelines.md"
+            "file": "overview/governing-guidelines/README.md"
           }
         }
       },
@@ -140,9 +140,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f9f3d96917af047",
+  "active": "d3139e573ba8fdbc",
   "lastOpenFiles": [
     "README.md",
+    "overview/governing-guidelines/README.md",
     "overview/governing-guidelines.md",
     "class/class-10.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
@@ -166,7 +167,6 @@
     "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-3.md",
     "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-2.md",
     "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-1.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/README.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/README.md"
+    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/README.md"
   ]
 }

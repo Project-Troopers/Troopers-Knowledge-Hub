@@ -55,6 +55,6 @@ This hub may include copyrighted materials and text for scientific and research 
 
 ***
 
-© Project Troopers (2024). Released under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our [Terms ](overview/governing-guidelines/)with exceptions).
+© Project Troopers (2024). Released under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our [Terms ](overview/governing-guidelines/readme.md)with exceptions).
 
 You automatically abide by the governing guidelines when you visit our site.

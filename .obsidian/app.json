@@ -7,5 +7,6 @@
   },
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
-  "mobilePullAction": "obsidian-git:open-history-view"
+  "mobilePullAction": "obsidian-git:open-history-view",
+  "promptDelete": false
 }
