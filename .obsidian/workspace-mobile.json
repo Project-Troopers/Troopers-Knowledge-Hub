@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overview/governing-guidelines/README.md",
-                "mode": "preview",
+                "file": "class/class-11/biology/lessons/chapter-19-chemical-coordination-and-integration.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "overview/governing-guidelines/README.md",
+            "file": "class/class-11/biology/lessons/chapter-19-chemical-coordination-and-integration.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "overview/governing-guidelines/README.md",
+            "file": "class/class-11/biology/lessons/chapter-19-chemical-coordination-and-integration.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,12 +115,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "overview/governing-guidelines/README.md"
+            "file": "class/class-11/biology/lessons/chapter-19-chemical-coordination-and-integration.md"
           }
         }
       },
       {
-        "id": "bd328dddc8c3cffd",
+        "id": "0a7aef0882211e9b",
         "type": "leaf",
         "state": {
           "type": "git-history-view",
@@ -128,7 +128,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,10 +142,7 @@
   },
   "active": "d3139e573ba8fdbc",
   "lastOpenFiles": [
-    "README.md",
-    "overview/governing-guidelines/README.md",
-    "overview/governing-guidelines.md",
-    "class/class-10.md",
+    "class/class-11/biology/lessons/animal-kingdom.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "/overview/what-we-do.md",
     "/overview/onboarding.md",
@@ -167,6 +164,9 @@
     "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-3.md",
     "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-2.md",
     "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-1.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/README.md"
+    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/README.md",
+    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/README.md",
+    "/divisions/brigadiers/the-first-brigadier-regiment/announcements/september-2023.md",
+    "/divisions/brigadiers/the-first-brigadier-regiment/announcements/october-2023.md"
   ]
 }
