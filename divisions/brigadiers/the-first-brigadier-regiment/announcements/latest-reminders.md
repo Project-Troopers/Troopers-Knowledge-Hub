@@ -23,7 +23,7 @@ layout:
 
 > Submission of the all work and investigatory projects (timeline adherence) will be included in the Periodic Exam 1 internals. - *the homeroom teacher*
 
-1. **Maths** - Complete Ex 6.2 Sum 6. Submit the Record tomorrow without fail as ma'am will take them for correction.
+1. **Maths** - Complete Ex 6.2, Q6. Submit the Record tomorrow without fail as ma'am will take them for correction.
 2. **Bio** - Chapter 4 and Chapter 5 (till Pg 98 Para 1 - New Book) for Periodic Exam 1. Submit the signed answer sheets tomorrow. Reminder to meet the *Practical*s teacher tmrw for the Investigatory Project and Record.
 3. **General** - Fill in the Pink slips and the White Personal Record form in your diary, fill in your marks for Cycle Test 1 in the diary and submit it tomorrow, along with Pg 22 of your diary signed. Ma'am will have to cross-sign your diary across multiple pages.
 4. **English** - Submit the signed answer sheets tomorrow. Don't Forget the Essay.
