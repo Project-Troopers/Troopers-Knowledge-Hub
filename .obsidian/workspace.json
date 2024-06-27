@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "8e4d9ac31b7516c4",
+            "id": "9793b713affad2f1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -36,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 417.5
   },
   "right": {
     "id": "0735e164552dd276",
@@ -109,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md"
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md"
               }
             }
           }
@@ -171,35 +175,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51a08921ce5d91c",
+  "active": "386c6cbc0c485ba4",
   "lastOpenFiles": [
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
-    "conflict-files-obsidian-git.md",
-    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
-    "class/class-12/physics/lessons/ls-3-current-electricity.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md",
-    "SUMMARY.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md",
-    "readme/a-quick-how-to-...study.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-1.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/august-2023.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
-    "class/class-12/english/lessons/ls-2-lost-spring.md",
-    "Pasted image 20240622073509.png",
-    "class/class-12/english/composition/notice-writing.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/bulletin-board.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
-    "class/class-12/english/lessons/ls-1-the-last-lesson.md",
-    "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
-    "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
-    "overview/governing-guidelines/the-troopers-election-committee/approved-acts/README.md",
+    "overview/governing-guidelines.md",
+    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
-    "overview/changelog.md",
-    "class/class-12/chemistry/lessons/ls-1-solutions.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/february-2024.md",
+    "SUMMARY.md",
+    "README.md",
+    "divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/tests-schedule.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
+    "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
+    "overview/governing-guidelines/editorial-code-of-conduct.md",
+    "overview/governing-guidelines/our-legal-stature.md",
+    "overview/governing-guidelines/arbitration-committee-arbcom.md",
+    "overview/governing-guidelines/README.md",
+    "divisions/subedars.md",
+    "overview/software",
+    "overview/Untitled.md",
+    "class/class-12/physics/lessons/ls-3-current-electricity.md",
+    "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
+    "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
+    "class/class-11/physics/lessons/motion-in-a-line.md",
+    "class/class-11/physics/lessons/motion-in-a-plane.md",
+    "class/class-11/physics/lessons/oscillations.md",
+    "class/class-11/physics/lessons/mechanical-properties-of-solids.md",
+    "readme/a-quick-how-to-...study.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20240622073509.png",
     "class/class-12/english/lessons/Untitled.canvas"
   ]
 }
