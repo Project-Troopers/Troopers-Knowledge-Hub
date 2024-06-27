@@ -27,6 +27,8 @@
     * [Lessons](class/class-12/physics/lessons/README.md)
       * [Ls 1 - Electric Charges and Fields](class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md)
       * [Ls 2 - Electrostatic Potential and Capacitance](class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md)
+      * [Ls 3 - Current Electricity](class/class-12/physics/lessons/ls-3-current-electricity.md)
+      * [Ls 4 - Magnetic Effects of Electric Current](class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md)
     * [Practicals](class/class-12/physics/practicals.md)
     * [Record](class/class-12/physics/record.md)
   * [🧬 Biology](class/class-12/biology/README.md)

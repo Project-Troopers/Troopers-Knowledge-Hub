@@ -9,10 +9,8 @@
 ## Overview
 
 1.  Equipartition of Energy
-
-    $$E \; = E_x \; + \; E_y \; + \; E_z$$ $$+$$and so on…
-
-    $$E_x \; = \; E_y \; = \; E_z \; = \; …$$ …
+$$E \; = E_x \; + \; E_y \; + \; E_z \; + and \; so \; on…$$
+$$E_x \; = \; E_y \; = \; E_z \; = \; …$$
 2. Degree of Freedom
    * Monoatomic, Diatomic, Triatomic Non-linear (aka Triatomic Cyclic); Triatomic Linear
    * Types of Freedom - Translational and Rotational

@@ -25,3 +25,18 @@ This section contains opinions of the author(s), who have written out this piece
 4. **Study in slots.** Nothing can be easily achieved in one go. If you're working to improve your long-term studying skills and your retention capabilities, then study in slots. 1 hour or 2 hours or 3 hours, do what best suits you. Pomodoro techniques can also help.
 5. **Have an accountability buddy to help you.** The best way to get back into the groove to study is to have an accountability buddy. Someone whom you can trust to keep some sort of checks and balances on you. It's very hard to find one today, but trust me, if you find one, you're very lucky. Like extremely rarely lucky.
 6. **Build a network.** If your friends don't value the fact that you study well, you'll stop doing that in some time. Instead, find connections and meet with people who value you, your skill and knowledge. Share, learn and grow together.
+## A Kutty part of tips
+1. Cut distractions
+2. Define your things
+3. Silence
+4. Least distractions: High energy
+5. Study space
+## Small stuff
+1. Organize info (chunking)
+2. Deadlines - Parkinson's law (realistic)
+3. Focus sprints
+4. Ultradian sprints
+5. Interleaving / Interlinking effects
+6. Recollect. Don't Revise.
+7. Photographic memory
+8. Study within not enough time

@@ -19,8 +19,37 @@ layout:
 ---
 
 # Latest Reminders
+## June 25, 2024 (Tuesday)
 
+> _Posted at 6:42 PM IST_
 
+1. **English** - Stick the "Letters to the Editor" sample.
+2. **Maths** - Do the homework sums and be prepped for a small test on those sums tmrw.
+3. **Physics and Maths** - Bring your record and submit by tomorrow.
+4. **Physics** - Submit your Investigatory Project Draft by the end of this week.
+5. **Biology** - Submit your Investigatory Project on July 2nd, 2024.
+6. **English** - Submit your essays tomorrow. Submit your signed answer sheets for Cycle Test 1 tomorrow.
+7. **Biology** - Test on "Principles of Variation and Inheritance" tomorrow. Also, get your Cycle Test 1 answer sheet signed and submit it tomorrow.
+8. **Chem** - Study Isomerism from Class 11 for Organic Compounds.
+9. **Maths** - Test on "Relations and Functions" on 27-06-2024.
+
+## June 24, 2024 (Monday)
+1. **Chem** - Study Isomerism from Class 11 for Organic Compounds.
+2. **English** - Bring your composition notes tomorrow.
+3. Bring GST note, debate on current technology and past.
+4. **Maths** - Test on Ls 1 - Relations and Functions - Equivalence; Reflexive, Symmetric and Transitive relations.
+## June 19, 2024 (Wednesday)
+
+> _Posted at 7:44 PM IST_
+
+1. **Maths** - The Maths Record note submissions have started to close. You are requested to draw the Graph.
+2. **Biology** - The Biology Project work (Final Draft) submission closes on July 1, 2024. 
+3. **General** - Late submissions will be marked starting from June 20, 2024.
+4. **Physics** - Test on June 20. Topic: Magnetic Force and its Effects - from Lozentz force to the end of the chapter.
+5. **Chemistry** - Test on Coordination Compounds on June 24, 2024.
+6. **Biology** - Test on June 21, 2024 for "Principles of Variation and Inheritance"
+7. **Maths** - Complete the miscellaneous exercise H.W.
+8. **English** - Bring Composition note tmrw.
 
 {% hint style="info" %}
 If you’re wondering why I’m seeing only this and if there’s nothing else on this page, then there’s nothing new for this month as of now. Looking for already pending tasks? Check [The Bulletin Board.](../bulletin-board.md)

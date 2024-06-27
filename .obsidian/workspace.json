@@ -21,6 +21,29 @@
             }
           },
           {
+            "id": "6faf6b2594eb2de9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e4d9ac31b7516c4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "386c6cbc0c485ba4",
             "type": "leaf",
             "state": {
@@ -33,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -161,8 +185,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51a08921ce5d91c",
+  "active": "8e4d9ac31b7516c4",
   "lastOpenFiles": [
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+    "conflict-files-obsidian-git.md",
+    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
+    "class/class-12/physics/lessons/ls-3-current-electricity.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/april-2024.md",
     "SUMMARY.md",
     "divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/issue-2.md",
@@ -179,7 +207,6 @@
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
     "class/class-12/english/lessons/ls-1-the-last-lesson.md",
     "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md",
     "overview/governing-guidelines/the-troopers-election-committee/approved-acts/README.md",
@@ -187,9 +214,6 @@
     "overview/changelog.md",
     "class/class-12/chemistry/lessons/ls-1-solutions.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/february-2024.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/july-2023.md",
-    "class/class-12/english/lessons/README.md",
-    "class/class-12/english/lessons/Untitled.canvas",
-    "class/class-12/gst.md"
+    "class/class-12/english/lessons/Untitled.canvas"
   ]
 }
