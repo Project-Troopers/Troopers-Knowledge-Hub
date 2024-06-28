@@ -13,4 +13,4 @@
 8. https://drive.google.com/file/d/1gOHCouqXIN2Byf7nosOfR4kqGCqT3EOE/view?usp=drive_link
 9. https://drive.google.com/file/d/1lk8AQs32gWBKj969WmtEiL8sKt0Oo08u/view?usp=drive_link
 
-![WhatsApp Image 2023-07-31 at 18.30.13.jpg](.gitbook/assets/WhatsApp_Image_2023-07-31_at_18.30.13.jpg)
+![WhatsApp Image 2023-07-31 at 18.30.13.jpg](media/WhatsApp_Image_2023-07-31_at_18.30.13.jpg)
