@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+                "file": "class/class-11/biology/lessons/the-living-world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+                "file": "class/class-11/biology/lessons/the-living-world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md"
+                "file": "class/class-11/biology/lessons/the-living-world.md"
               }
             }
           },
@@ -206,18 +206,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5128b33bf427ba4e",
+  "active": "9793b713affad2f1",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+    "assets/d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
     "class/class-11/biology/lessons/the-living-world.md",
+    "assets",
+    "README.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+    "Untitled.canvas",
     "media/WhatsApp_Image_2023-07-31_at_18.30.13.jpg",
     "media",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
-    "README.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "Untitled",
     "Pasted image 20240628174907.png",
