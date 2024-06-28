@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-11/biology/lessons/the-living-world.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-11/biology/lessons/the-living-world.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/class-11/biology/lessons/the-living-world.md"
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md"
               }
             }
           },
@@ -209,16 +209,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9793b713affad2f1",
+  "active": "5128b33bf427ba4e",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+    "class/class-11/biology/lessons/the-living-world.md",
     "media/WhatsApp_Image_2023-07-31_at_18.30.13.jpg",
     "media",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "README.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "Untitled",
-    "class/class-11/biology/lessons/the-living-world.md",
     "Pasted image 20240628174907.png",
     "class/class-11/physics/lessons/thermal-properties-of-matter.md",
     "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
@@ -241,7 +242,6 @@
     "class/class-12/physics/lessons/ls-3-current-electricity.md",
     "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
     "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240622073509.png",
     "class/class-12/english/lessons/Untitled.canvas"
