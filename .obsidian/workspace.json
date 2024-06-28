@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 417.5,
+    "collapsed": true
   },
   "right": {
     "id": "0735e164552dd276",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md"
+                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md"
               }
             }
           },
@@ -183,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62a94b0c84a29044",
+  "active": "fa4515ece0c83200",
   "lastOpenFiles": [
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
