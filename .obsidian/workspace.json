@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "class/class-11/biology/lessons/the-living-world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "class/class-11/biology/lessons/the-living-world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "class/class-11/biology/lessons/the-living-world.md"
               }
             }
           },
@@ -204,13 +204,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "756639c4a0a46e99",
+  "active": "9793b713affad2f1",
   "lastOpenFiles": [
+    "Pasted image 20240628174907.png",
+    "class/class-11/biology/lessons/the-living-world.md",
     "README.md",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "class/class-11/physics/lessons/thermal-properties-of-matter.md",
-    "class/class-11/biology/lessons/the-living-world.md",
-    "Pasted image 20240628174907.png",
     "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
