@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class/class-11/english/activities/investigatory-project.md",
-                "mode": "source",
+                "file": "class/class-12/english/lessons/ls-1-the-last-lesson.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "class/class-11/english/activities/investigatory-project.md",
+            "file": "class/class-12/english/lessons/ls-1-the-last-lesson.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "class/class-11/english/activities/investigatory-project.md",
+            "file": "class/class-12/english/lessons/ls-1-the-last-lesson.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "class/class-11/english/activities/investigatory-project.md"
+            "file": "class/class-12/english/lessons/ls-1-the-last-lesson.md"
           }
         }
       },
@@ -142,8 +142,12 @@
   },
   "active": "d3139e573ba8fdbc",
   "lastOpenFiles": [
-    "overview/governing-guidelines/our-legal-stature.md",
+    "class/class-12/README.md",
+    "class/class-11/english/activities/investigatory-project.md",
+    "/divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
     "/divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+    "/divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
+    "overview/governing-guidelines/our-legal-stature.md",
     "class/class-11/biology/lessons/chapter-19-chemical-coordination-and-integration.md",
     "class/class-11/biology/lessons/animal-kingdom.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
@@ -163,10 +167,6 @@
     "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-7.md",
     "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-6.md",
     "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-5.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-4.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-3.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-2.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-1.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/README.md"
+    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-4.md"
   ]
 }
