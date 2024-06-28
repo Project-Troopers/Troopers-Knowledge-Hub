@@ -58,9 +58,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5128b33bf427ba4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overview/governing-guidelines/the-troopers-election-committee/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overview/governing-guidelines/the-troopers-election-committee/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overview/governing-guidelines/the-troopers-election-committee/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -196,10 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386c6cbc0c485ba4",
+  "active": "756639c4a0a46e99",
   "lastOpenFiles": [
-    "class/class-11/physics/lessons/thermal-properties-of-matter.md",
     "README.md",
+    "overview/governing-guidelines/the-troopers-election-committee/README.md",
+    "class/class-11/physics/lessons/thermal-properties-of-matter.md",
     "class/class-11/biology/lessons/the-living-world.md",
     "Pasted image 20240628174907.png",
     "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
@@ -210,7 +219,6 @@
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "overview/governing-guidelines.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
-    "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "SUMMARY.md",
     "divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/tests-schedule.md",
     "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
