@@ -4,7 +4,7 @@ Welcome to the upgraded Announcements (previously Homework List) section of the 
 
 ## **Latest**
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>The Reminders</strong></td><td><a href=".gitbook/assets/doctor-with-his-arms-crossed-white-background.jpg">doctor-with-his-arms-crossed-white-background.jpg</a></td><td><a href="divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md">reminders.md</a></td></tr><tr><td><strong>The Latest Tests</strong></td><td><a href=".gitbook/assets/Gears.jpg">Gears.jpg</a></td><td><a href="divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md">tests.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>The Reminders</strong></td><td><a href=".gitbook/assets/doctor-with-his-arms-crossed-white-background.jpg">doctor-with-his-arms-crossed-white-background.jpg</a></td><td><a href="latest-reminders.md">reminders.md</a></td></tr><tr><td><strong>The Latest Tests</strong></td><td><a href=".gitbook/assets/Gears.jpg">Gears.jpg</a></td><td><a href="latest-tests.md">tests.md</a></td></tr></tbody></table>
 ### Dossiers
 
 If you're looking for dossiers, then click on the menu button and the other archives are located under this page... Or use the navigation buttons in the footer to search.
