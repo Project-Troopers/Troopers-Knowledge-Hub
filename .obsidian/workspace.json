@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "756639c4a0a46e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5,
-    "collapsed": true
+    "width": 417.5
   },
   "right": {
     "id": "0735e164552dd276",
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
+                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
+                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md"
+                "file": "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md"
               }
             }
           },
@@ -184,18 +196,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa4515ece0c83200",
+  "active": "386c6cbc0c485ba4",
   "lastOpenFiles": [
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
+    "README.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "overview/governing-guidelines.md",
     "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "SUMMARY.md",
-    "README.md",
     "divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/tests-schedule.md",
     "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
     "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
@@ -212,7 +225,6 @@
     "class/class-11/physics/lessons/motion-in-a-line.md",
     "class/class-11/physics/lessons/motion-in-a-plane.md",
     "class/class-11/physics/lessons/oscillations.md",
-    "class/class-11/physics/lessons/mechanical-properties-of-solids.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240622073509.png",
