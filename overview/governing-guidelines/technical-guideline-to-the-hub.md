@@ -67,10 +67,10 @@ That's all. Sync has been set up!
 4. Now extract this zip file and place the extracted folder in the Obsidian app folder located on your device.
 	- **Android**: Internal Memory -> Obsidian (which is `/storage/emulated/0/Obsidian`)
 	- **iOS**: On my iPhone or On my iPad -> Obsidian folder (with the obsidian logo.)
-5. Now turn off wifi and mobile data, and open Obsidian.
+5. Now turn off Wi-Fi and mobile data, and open Obsidian.
 6. Switch to the vault with the name "Troopers-Knowledge-Hub".
 7. Open the Command palette (if you're on mobile, this will located in the 3-lines menu option with the icon of a terminal).
-8. Run the command 
+8. Run the command and click on **yes** when prompted.
 ```
 git: CAUTION: Discard all changes
 ```
