@@ -56,4 +56,22 @@ git clone https://github.com/Project-Troopers/Troopers-Knowledge-Hub.git --progr
 5. Then click on "Trust". After that, go to the settings icon near the name of the workspace, click on community plugins, enable the community plugins part.
 6. Enable the Git Plugin. Go to the Settings (Gear Icon) of the Git Plugin and set Hostname to any name to identify your device with.
 
-That's all. Sync has been set up! If you have access to edit the repository then you can automatically edit it from there itself. If you don't, just don't edit the text files, as it will force an commit update.
+That's all. Sync has been set up! 
+- If you have access to edit the repository then you can automatically edit it from there itself.
+- If you don't, just don't edit the text files, as it will force an commit update which you might not have permission to do so.
+
+## For Android/iOS/iPadOS users
+1. Download the Obsidian app from your respective app store.
+2. Create a dummy vault in the Obsidian app, to expose the Obsidian folder to the operating system. Close the app.
+3. Then download this snapshot of the hub that is stored on our drive. -> [Troopers-Knowledge-Hub.zip - Google Drive - Snapshot](https://drive.google.com/open?id=1ZHLTrpX3hhfaVD6O45d4IWghg5YfhdVD&usp=drive_fs)
+4. Now extract this zip file and place the extracted folder in the Obsidian app folder located on your device.
+	- **Android**: Internal Memory -> Obsidian (which is `/storage/emulated/0/Obsidian`)
+	- **iOS**: On my iPhone or On my iPad -> Obsidian folder (with the obsidian logo.)
+5. Now turn off wifi and mobile data, and open Obsidian.
+6. Switch to the vault with the name "Troopers-Knowledge-Hub".
+7. Open the Command palette (if you're on mobile, this will located in the 3-lines menu option with the icon of a terminal).
+8. Run the command 
+```
+git: CAUTION: Discard all changes
+```
+9. 
