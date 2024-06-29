@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class/class-12/english/lessons/ls-1-the-last-lesson.md",
+                "file": "overview/governing-guidelines/README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "class/class-12/english/lessons/ls-1-the-last-lesson.md",
+            "file": "overview/governing-guidelines/README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "class/class-12/english/lessons/ls-1-the-last-lesson.md",
+            "file": "overview/governing-guidelines/README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,12 +115,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "class/class-12/english/lessons/ls-1-the-last-lesson.md"
+            "file": "overview/governing-guidelines/README.md"
           }
         }
       },
       {
-        "id": "0a7aef0882211e9b",
+        "id": "bd328dddc8c3cffd",
         "type": "leaf",
         "state": {
           "type": "git-history-view",
@@ -128,7 +128,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,14 +142,29 @@
   },
   "active": "d3139e573ba8fdbc",
   "lastOpenFiles": [
-    "class/class-12/README.md",
-    "class/class-11/english/activities/investigatory-project.md",
+    "media/WhatsApp_Image_2023-07-31_at_18.30.13.jpg",
+    "assets/d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
+    "/class/class-11/english/activities/investigatory-project.md",
+    "/class/class-12/README.md",
+    "/class/class-11/physics/lessons/thermal-properties-of-matter.md",
+    "/class/class-11/biology/lessons/chapter-19-chemical-coordination-and-integration.md",
+    "/class/class-11/biology/lessons/animal-kingdom.md",
+    "/README.md",
+    "/overview/governing-guidelines/the-troopers-election-committee/README.md",
+    "/media/WhatsApp_Image_2023-07-31_at_18.30.13.jpg",
     "/divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
     "/divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
     "/divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
-    "overview/governing-guidelines/our-legal-stature.md",
-    "class/class-11/biology/lessons/chapter-19-chemical-coordination-and-integration.md",
-    "class/class-11/biology/lessons/animal-kingdom.md",
+    "/class/class-11/biology/lessons/the-living-world.md",
+    "/assets/d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
+    "assets",
+    "media",
+    "/media",
+    "/assets",
+    "README.md",
+    "overview/governing-guidelines/README.md",
+    "overview/governing-guidelines.md",
+    "class/class-10.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "/overview/what-we-do.md",
     "/overview/onboarding.md",
@@ -159,14 +174,6 @@
     "/overview/governing-guidelines/life-cycle-policies.md",
     "/divisions/brigadiers/the-second-brigadier-regiment/announcements/latest-reminders-sbr.md",
     "/divisions/brigadiers/the-second-brigadier-regiment/announcements/february-2024.md",
-    "/divisions/brigadiers/the-second-brigadier-regiment/announcements/README.md",
-    "/divisions/brigadiers/the-second-brigadier-regiment/README.md",
-    "/divisions/brigadiers/the-fourth-brigadier-regiment.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-2/README.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-8.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-7.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-6.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-5.md",
-    "/divisions/brigadiers/the-first-brigadier-regiment/the-corridor-initiative/series-1/issue-4.md"
+    "/divisions/brigadiers/the-second-brigadier-regiment/announcements/README.md"
   ]
 }
