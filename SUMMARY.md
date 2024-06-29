@@ -190,7 +190,7 @@
     * [Straight Lines](class/class-11/mathematics/straight-lines.md)
     * [Conic Sections](class/class-11/mathematics/conic-sections.md)
     * [Introduction to 3D Geometry](class/class-11/mathematics/introduction-to-3d-geometry.md)
-* [Class 10](class/class-10.md)
+* [Class 10](https://drive.google.com/open?id=1k9Wx1toa_0HlmsEBFikJd1EXDKoDa2V2&usp=drive_fs)
 
 ## Overview
 

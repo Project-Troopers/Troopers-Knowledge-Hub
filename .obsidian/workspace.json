@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md",
+                "file": "SUMMARY.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md"
+                "file": "SUMMARY.md"
               }
             }
           },
@@ -184,10 +184,11 @@
   },
   "active": "9793b713affad2f1",
   "lastOpenFiles": [
-    "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "README.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+    "class/class-10.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
+    "overview/governing-guidelines/the-troopers-election-committee/README.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "class/class-11/biology/lessons/the-living-world.md",
     "assets/d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
