@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +208,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9793b713affad2f1",
+  "active": "195281f27f1dadeb",
   "lastOpenFiles": [
     "class/class-11/biology/lessons/the-living-world.md",
     "assets/d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",

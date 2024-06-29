@@ -61,6 +61,7 @@ That's all. Sync has been set up!
 - If you don't, just don't edit the text files, as it will force an commit update which you might not have permission to do so.
 
 ## For Android/iOS/iPadOS users
+
 1. Download the Obsidian app from your respective app store.
 2. Create a dummy vault in the Obsidian app, to expose the Obsidian folder to the operating system. Close the app.
 3. Then download this snapshot of the hub that is stored on our drive. -> [Troopers-Knowledge-Hub.zip - Google Drive - Snapshot](https://drive.google.com/open?id=1ZHLTrpX3hhfaVD6O45d4IWghg5YfhdVD&usp=drive_fs)
@@ -69,10 +70,24 @@ That's all. Sync has been set up!
 	- **iOS**: On my iPhone or On my iPad -> Obsidian folder (with the obsidian logo.)
 5. Now turn off Wi-Fi and mobile data, and open Obsidian.
 6. Switch to the vault with the name "Troopers-Knowledge-Hub".
-7. Open the Command palette (if you're on mobile, this will located in the 3-lines menu option with the icon of a terminal).
+7. Open the Command palette (if you're on mobile, this will located in the 3-lines menu option in the bottom bar. The icon of the "Command palette" in the sub-menu will be a command prompt/terminal).
 8. Run the command and click on **yes** when prompted.
 ```
 git: CAUTION: Discard all changes
 ```
 9. For the next steps alone, you will need to create a GitHub account with a "Classic Personal Access Token". First, create a GitHub account.
-10. Then go to this link: [Personal Access Tokens (Classic) · GitHub](https://github.com/settings/tokens) and create a Personal Access Token with access to
+10. Then go to this link: [Personal Access Tokens (Classic) · GitHub](https://github.com/settings/tokens) and create a Personal Access Token with the "repo" option ticked (it will automatically tick all the sub-options under it).
+11. Open Obsidian, click on the Gear icon in the menu that is on the left (if on mobile, pull from the left side to view it).
+12. Go to Community Plugins -> Git Settings (click on the gear icon next to the git plugin)
+13. Scroll down to the author information section and fill out the Username (GitHub) and Personal Access Token box.
+14. Close the dialog box and repeat steps 11 and 12. Now scroll down to author information again and fill out the author name and email with your details.
+15. Turn back Wi-Fi/Mobile Data On, and open the Command palette (if you're on mobile, this will located in the 3-lines menu option in the bottom bar. The icon of the "Command palette" in the sub-menu will be a command prompt/terminal).
+16. Type in the command.
+```
+git: pull
+```
+17. Wait for the app to show a pop-up notification near the bottom that states "Finished pull".
+
+Now, your vault is ready! You can view the hub offline whenever you want. Few pointers:
+- If you have access to edit the repository then you can automatically edit it from there itself.
+- If you don't, just don't edit the text files, as it will force an commit update which you might not have permission to do so. In order to prevent accidental edits from happening, you can turn on the "Reading View" by clicking on the book icon near top-right corner of the app.
