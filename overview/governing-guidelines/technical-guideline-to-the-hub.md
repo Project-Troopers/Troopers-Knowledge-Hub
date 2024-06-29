@@ -74,4 +74,4 @@ That's all. Sync has been set up!
 ```
 git: CAUTION: Discard all changes
 ```
-9. 
+9. For the next steps alone, 
