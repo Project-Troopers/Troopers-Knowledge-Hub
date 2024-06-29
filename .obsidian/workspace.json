@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "overview/governing-guidelines/technical-guideline-to-the-hub.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -40,33 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "overview/governing-guidelines/the-troopers-election-committee/README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "756639c4a0a46e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5128b33bf427ba4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -210,24 +184,24 @@
   },
   "active": "9793b713affad2f1",
   "lastOpenFiles": [
+    "overview/governing-guidelines/the-troopers-election-committee/README.md",
+    "README.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
+    "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "class/class-11/biology/lessons/the-living-world.md",
     "assets/d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
     "d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
     "assets",
-    "README.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
     "Untitled.canvas",
     "media/WhatsApp_Image_2023-07-31_at_18.30.13.jpg",
     "media",
-    "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "Untitled",
     "Pasted image 20240628174907.png",
     "class/class-11/physics/lessons/thermal-properties-of-matter.md",
     "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
-    "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "overview/governing-guidelines.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
     "SUMMARY.md",
