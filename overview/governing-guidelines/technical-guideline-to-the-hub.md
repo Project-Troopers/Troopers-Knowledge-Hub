@@ -74,4 +74,5 @@ That's all. Sync has been set up!
 ```
 git: CAUTION: Discard all changes
 ```
-9. For the next steps alone, 
+9. For the next steps alone, you will need to create a GitHub account with a "Classic Personal Access Token". First, create a GitHub account.
+10. Then go to this link: [Personal Access Tokens (Classic) · GitHub](https://github.com/settings/tokens) and create a Personal Access Token with access to
