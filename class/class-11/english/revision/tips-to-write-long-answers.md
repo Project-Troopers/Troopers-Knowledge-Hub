@@ -1,11 +1,12 @@
 # Tips to write Long Answers
 
-> **Before we start…**
+{% hint style="warning" %}
+**Before we start…**\
+It important to understand the logic to write short answers. It can give you enough experience to write long answers well.
 
-> It important to understand the logic to write short answers. It can give you enough experience to write long answers well.
-
-* > 2 or 3 marks → 3 Value Points in 4 lines (like just around half the side of a horizontally long answer sheet.)
-* > Follow the CPT strategy → Be **Concise**, **Precise** and **To** the Point
+* 2 or 3 marks → 3 Value Points in 4 lines (like just around half the side of a horizontally long answer sheet.)
+* Follow the CPT strategy → Be **Concise**, **Precise** and **To** the Point
+{% endhint %}
 
 ## General Tips
 
@@ -38,15 +39,17 @@ I personally call this part as "creating a unified singular main linking road".
 * Integrity of your own ideas
 * Pertinent use of linking words such as "Firstly", "However", "Therefore", "Subsequently", "Consequently"
 
-> The questions you should be asking yourself are:-
+{% hint style="success" %}
+The questions you should be asking yourself are:-
 
-1. > Is it in order?
-2. > Does it make sense?
-3. > Does it have that creative spark and remarkable expression?
-4. > Is it concise?
-5. > Is it neat?
-6. > Is it written in at least 3-4 paragraphs?
-7. > Does it exceed 1.25 vertically long pages (or 2 horizontally long pages)?
+1. Is it in order?
+2. Does it make sense?
+3. Does it have that creative spark and remarkable expression?
+4. Is it concise?
+5. Is it neat?
+6. Is it written in at least 3-4 paragraphs?
+7. Does it exceed 1.25 vertically long pages (or 2 horizontally long pages)?
+{% endhint %}
 
 ### Expression
 
@@ -185,12 +188,10 @@ In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise 
 
     > **Plan: DIY**
 
-> **::🥇 Created by a Trooper 🏆::**
+{% hint style="info" %}
+**🥇 Created by a Trooper 🏆**
 
-> The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
+The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
 
-> claim by [Sugeeth Jayaraj Samala Augustine](craftdocs://users?id=b8b89018-aef2-86a2-127d-5e07bf8933bc) on February 28, 2024.
-
-> **← Troopers Knowledge Hub**
-
-> Wanna go back to the home page, but lost your way? Click above to return.
+_claim by_ [_Sugeeth Jayaraj Samala Augustine_](https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2) _on February 28, 2024._
+{% endhint %}
