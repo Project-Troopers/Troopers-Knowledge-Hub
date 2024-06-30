@@ -1,20 +1,12 @@
+---
+description: Classes -> Class 12 -> English
+---
+
 # English
 
 Welcome to the English section of the Troopers Knowledge Hub! This section is designed to provide you with a comprehensive understanding of the English language and its various aspects. Whether you are a native English speaker looking to improve your grammar and vocabulary or a non-native English speaker seeking to enhance your language skills, you have come to the right place.
 
-## Notes
-
-## Hornbill
-
-### Lessons
-
-### Poems
-
-## Moments
-
-## Grammar
-
-## Composition
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Hornbill</strong></td><td>The Main Book</td><td><a href="hornbill/">hornbill</a></td></tr><tr><td><strong>Moments</strong></td><td>Supplementary Reader</td><td><a href="moments/">moments</a></td></tr><tr><td><strong>Grammar</strong></td><td>The last you'll ever learn this</td><td><a href="grammar/">grammar</a></td></tr><tr><td><strong>Composition</strong></td><td>Some cool things...</td><td><a href="composition/">composition</a></td></tr><tr><td><strong>Activities</strong></td><td>for internal assessment...</td><td><a href="activities/">activities</a></td></tr><tr><td><strong>Revision</strong></td><td>so that you'll never forget...</td><td><a href="revision/">revision</a></td></tr></tbody></table>
 
 ## Reading Comprehension
 
@@ -23,8 +15,6 @@ Welcome to the English section of the Troopers Knowledge Hub! This section is de
 [Class X Comprehension (Factual & Discursive).pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/7cb3aa99-1d4a-1138-0c05-f2fd9925324d)
 
 [Reading Comprehension Key Concepts](http://laflemm.com/reso/KeyConcepts.html)
-
-## Activities and Work
 
 ## Revision
 

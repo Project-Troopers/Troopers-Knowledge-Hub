@@ -19,16 +19,18 @@ layout:
 ---
 
 # Latest Reminders
+
 ## June 27, 2024
 
-> Submission of the all work and investigatory projects (timeline adherence) will be included in the Periodic Exam 1 internals. - *the homeroom teacher*
+> Submission of the all work and investigatory projects (timeline adherence) will be included in the Periodic Exam 1 internals. - _the homeroom teacher_
 
 1. **Maths** - Complete Ex 6.2, Q6. Submit the Record tomorrow without fail as ma'am will take them for correction.
-2. **Bio** - Chapter 4 and Chapter 5 (till Pg 98 Para 1 - New Book) for Periodic Exam 1. Submit the signed answer sheets tomorrow. Reminder to meet the *Practical*s teacher tmrw for the Investigatory Project and Record.
+2. **Bio** - Chapter 4 and Chapter 5 (till Pg 98 Para 1 - New Book) for Periodic Exam 1. Submit the signed answer sheets tomorrow. Reminder to meet the _Practical_s teacher tmrw for the Investigatory Project and Record.
 3. **General** - Fill in the Pink slips and the White Personal Record form in your diary, fill in your marks for Cycle Test 1 in the diary and submit it tomorrow, along with Pg 22 of your diary signed. Ma'am will have to cross-sign your diary across multiple pages.
 4. **English** - Submit the signed answer sheets tomorrow. Don't Forget the Essay.
 5. **Physics** - Submit the signed answer sheets tomorrow. Last day for submission of Records is tomorrow. Ma'am will take them for correction. On Monday, during the GST session, do not forget to bring your Lab Manual, as we will have a practical session during that time.
 6. **Chem** - Complete the homework sums and bring the note tomorrow.
+
 ## June 25, 2024 (Tuesday)
 
 > _Posted at 6:42 PM IST_
@@ -44,16 +46,18 @@ layout:
 9. **Maths** - Test on "Relations and Functions" on 27-06-2024.
 
 ## June 24, 2024 (Monday)
+
 1. **Chem** - Study Isomerism from Class 11 for Organic Compounds.
 2. **English** - Bring your composition notes tomorrow.
 3. Bring GST note, debate on current technology and past.
 4. **Maths** - Test on Ls 1 - Relations and Functions - Equivalence; Reflexive, Symmetric and Transitive relations.
+
 ## June 19, 2024 (Wednesday)
 
 > _Posted at 7:44 PM IST_
 
 1. **Maths** - The Maths Record note submissions have started to close. You are requested to draw the Graph.
-2. **Biology** - The Biology Project work (Final Draft) submission closes on July 1, 2024. 
+2. **Biology** - The Biology Project work (Final Draft) submission closes on July 1, 2024.
 3. **General** - Late submissions will be marked starting from June 20, 2024.
 4. **Physics** - Test on June 20. Topic: Magnetic Force and its Effects - from Lozentz force to the end of the chapter.
 5. **Chemistry** - Test on Coordination Compounds on June 24, 2024.
