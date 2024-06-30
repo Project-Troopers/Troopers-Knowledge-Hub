@@ -4,7 +4,7 @@ description: 'Author: Alphonse Daudet'
 
 # Ls 1 - The Last Lesson
 
-Vocabulary
+### Vocabulary
 
 1. **primer** _(here)_ - a textbook that is used for teaching children to read.
 2. **thunderclap** _(here)_ - a huge shock
@@ -14,49 +14,23 @@ Vocabulary
 
 #### What do you think and mean when some utters the word, "Chauvinism"?
 
-<div>
+![](https://th.bing.com/th/id/OIG1.nF8bzcvM0oC8Yl\_jMY8y?pid=ImgGn)
 
-<figure><img src="../../../../.gitbook/assets/Billy Jean King.jpg" alt=""><figcaption></figcaption></figure>
+![](https://th.bing.com/th/id/OIG1.irPx4CrSnA6OMfboWAem?pid=ImgGn)
 
- 
-
-<figure><img src="../../../../.gitbook/assets/Battle of Sexes.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<details>
-
-<summary>AI Generated Images (Set 1)</summary>
-
-_**AI Generated images.**_ _**Prompt**: Digital Art: Billy Jean King, a woman, defeated Bobby Riggs (US tennis champion, and the self-proclaimed "male chauvinist pig") in a tennis match called "The Battle of Sexes", which helped to popularise feminism in the 1970s._
-
-</details>
+**AI Generated images.** **Prompt**: Digital Art: Billy Jean King, a woman, defeated Bobby Riggs (US tennis champion, and the self-proclaimed "male chauvinist pig") in a tennis match called "The Battle of Sexes", which helped to popularise feminism in the 1970s.
 
 Well, Chauvinism refers to "excessive or prejudiced support for one's own cause or group". It can also be viewed as a form of "oppression" to the target group The most popular form of Chauvinism is male chauvinism, where a lot of males believed that they were superior. Billy Jean King, a woman, defeated Bobby Riggs (US tennis champion, and the self-proclaimed "male chauvinist pig") in a tennis match called "The Battle of Sexes", which helped to popularise feminism in the 1970s.
 
-{% embed url="https://en.wikipedia.org/wiki/Battle_of_the_Sexes_(tennis)" %}
-Wikipedia - Battle of the Sexes (tennis)
-{% endembed %}
+[Battle of the Sexes (tennis) - Wikipedia](https://en.wikipedia.org/wiki/Battle\_of\_the\_Sexes\_\(tennis\))
 
 But, have you ever pondered about the concept of Chauvinism based on language? Yes, it does exist, and it’s called **Linguistic Chauvinism**. It is a silent force that perpetuates oppression and discrimination based on language. When individuals are deliberately denied the opportunity to learn a specific language, it is a stark reminder of the insidious nature of Linguistic Chauvinism, casting a dark shadow over a community or society.
 
-<div align="center" data-full-width="false">
+![Image.jpeg](https://th.bing.com/th/id/OIG1.mF2fRX6Bdrc6i.l596Ur?w=1024\&h=1024\&rs=1\&pid=ImgDetMain)
 
-<figure><img src="../../../../.gitbook/assets/fytdmwqy.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/b89x5je7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<details>
-
-<summary>AI Generated Imagery (Set 2)</summary>
+![](https://th.bing.com/th/id/OIG1.NH7v8BgNUy9ZF\_5ft1HN?pid=ImgGn)
 
 **AI Generated images.** **Prompt**: **Linguistic Chauvinism**. It is a silent force that perpetuates oppression and discrimination based on language. When individuals are deliberately denied the opportunity to learn a specific language, it is a stark reminder of the insidious nature of Linguistic Chauvinism, casting a dark shadow over a community or society.
-
-</details>
 
 Now, whenever we say that a war has occurred, we talk about its ravages, the destruction that occurred, the loss of lives, and the loss of territory. But, the history books rarely talk about the loss of the way of life for the people who live in the conquered territories. We fail to talk about the effect of war on culture and society as such.
 
@@ -74,15 +48,9 @@ In a similar way, World War 1 was also fought between the Axis and Allied powers
 
 Now, let us focus on the Franco-Prussian War. It was fought between France and Germany, resulting in France’s ultimate defeat. This lead to an armistice between the two nations, where under the new terms, France was forced to give away two territories, Alsace and Lorraine, over to the newly formed German Empire (whose prime minister was Otto Von Bismarck).
 
-<div>
+![Image.jpeg](https://th.bing.com/th/id/OIG1.P5O8M3A2wesJ9zMUQJIO?w=1024\&h=1024\&rs=1\&pid=ImgDetMain)
 
-<figure><img src="../../../../.gitbook/assets/00lqc87a.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/jz9tbi4o.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+![](https://th.bing.com/th/id/OIG1.eBBi80Nu3LjGErk8j3B0?pid=ImgGn)
 
 **AI Generated images.** **Prompt:** Digital Art: Create images related to the Franco-Prussian War, which are safe for use.
 
@@ -92,25 +60,13 @@ The loss of the Mother tongue is a very devastating issue. It would result in th
 
 However, in today’s world, we don’t emphasise on our own languages and culture. We want to mimic, adopt and practice Western traditions and culture. We wish to westernise India. While doing this, we ignore the good ol’ combing styles, the “old rice”, rangoli and other rich traditions that have been secured and passed down from generation to generation.
 
-In this process, there is a loss of uniqueness, a loss of freedom, and a loss of a treasure trove of information that have been concealed in our old traditions and languages. Pretty soon, our language will die out, along with our identity.&#x20;
+In this process, there is a loss of uniqueness, a loss of freedom, and a loss of a treasure trove of information that have been concealed in our old traditions and languages. Pretty soon, our language will die out, along with our identity.
 
-<div>
+![Image.jpeg](https://th.bing.com/th/id/OIG2.cl\_1CWFDlLLOLpfgYJ0z?w=1024\&h=1024\&rs=1\&pid=ImgDetMain)
 
-<figure><img src="../../../../.gitbook/assets/Rich India vs West Culture.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/Rich India vs West Culture - Img 2.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<details>
-
-<summary>AI Generated Imagery (Set 4)</summary>
+![](https://th.bing.com/th/id/OIG2.07D3tY54H6A5K3Yw2AOK?pid=ImgGn)
 
 **AI Generated images.** **Prompt**: Digital Art: Create images of rich Indian culture vs Western culture
-
-</details>
 
 If the people abroad, who travel here to see what makes India unique, find that we are simply copying their traditions and culture, what would they think of us? Wouldn’t they look down on us as pathetic? After all, they have preserved their culture well, and remain unique.
 
