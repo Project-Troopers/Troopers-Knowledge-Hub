@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overview/governing-guidelines/the-troopers-election-committee/README.md",
+                "file": "SUMMARY.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -150,9 +150,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "1933188249f790f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -168,20 +176,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51a08921ce5d91c",
+  "active": "62a94b0c84a29044",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "overview/governing-guidelines/the-troopers-election-committee/README.md",
+    "class/class-12/physics/tests.md",
     "class/class-12/physics/lessons/ls-3-current-electricity.md",
     "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
     "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
-    "class/class-12/physics/tests.md",
-    "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "competitive-exams/jee-vit-bitsat/the-db-prep-test-series/class-12-dbpts-j.md",
     "class/class-12/physics/Untitled",
     "README.md",
     "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "class/class-12/english/lessons/ls-1-the-last-lesson.md",
-    "SUMMARY.md",
     "class/class-10.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",

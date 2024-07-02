@@ -30,6 +30,7 @@
       * [Ls 3 - Current Electricity](class/class-12/physics/lessons/ls-3-current-electricity.md)
       * [Ls 4 - Magnetic Effects of Electric Current](class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md)
     * [Practicals](class/class-12/physics/practicals.md)
+    * [Tests](class/class-12/physics/tests.md)
     * [Record](class/class-12/physics/record.md)
   * [🧬 Biology](class/class-12/biology/README.md)
     * [Lessons](class/class-12/biology/lessons/README.md)
