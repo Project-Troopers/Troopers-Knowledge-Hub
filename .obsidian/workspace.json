@@ -151,12 +151,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,12 +170,14 @@
   },
   "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
-    "overview/governing-guidelines/the-troopers-election-committee/README.md",
+    "class/class-12/physics/lessons/ls-3-current-electricity.md",
+    "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
+    "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
     "class/class-12/physics/tests.md",
+    "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "competitive-exams/jee-vit-bitsat/the-db-prep-test-series/class-12-dbpts-j.md",
     "class/class-12/physics/Untitled",
     "README.md",
-    "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
     "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "class/class-12/english/lessons/ls-1-the-last-lesson.md",
@@ -203,9 +205,7 @@
     "overview/governing-guidelines/our-legal-stature.md",
     "overview/governing-guidelines/arbitration-committee-arbcom.md",
     "overview/governing-guidelines/README.md",
-    "divisions/subedars.md",
     "overview/software",
-    "overview/Untitled.md",
     "Untitled 1.canvas",
     "Pasted image 20240622073509.png",
     "class/class-12/english/lessons/Untitled.canvas"

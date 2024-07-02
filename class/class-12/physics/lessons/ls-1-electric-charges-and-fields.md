@@ -22,7 +22,6 @@
    (a) -q  (b) -2q  (c) -q/2. (D) 4q
 ## The Good old notes…
 
-
 [Ls 1 - EC and Fields - Part 2 Full.pdf](https://drive.google.com/file/d/1ss3CBwiPT6uX2JuAaEJPNMbaiZB3RYSg/view?usp=drive\_link)
 
 [Ls 1 - Physics - Sugeeth Notes - 12 A - 28-03-2024.pdf](https://drive.google.com/file/d/1axnjm0uXjWIAzSdiZ1jJMelLyVaKCd8A/view?usp=drivesdk)

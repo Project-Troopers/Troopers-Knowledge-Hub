@@ -22,6 +22,8 @@
 
 [Electric Potential - PYQs.pdf](https://drive.google.com/open?id=1Tz1-IzpYjlP3zAp6BCWe8lbtCpm0n8GE\&usp=drive\_fs)
 
+### Notes
+1. [Ls 2 - Physics - Sugeeth Notes - 12 A - 01-07-2024.pdf - Google Drive](https://drive.google.com/file/d/1s9kYnjM-NvlqF-_vdA1LV8qhCpN0_Pu5/view?usp=drive_link)
 ### Formula Cheat sheet
 
 <figure><img src="../../../../.gitbook/assets/Electrostatic Potential - Ls 2 - Physics - 12 A - Formula CheatSheet.jpg" alt=""><figcaption></figcaption></figure>
