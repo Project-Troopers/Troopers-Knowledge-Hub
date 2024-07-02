@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
+                "file": "class/class-12/physics/tests.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9793b713affad2f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "class/class-12/physics/tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "class/class-12/physics/tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "class/class-12/physics/tests.md"
               }
             }
           },
@@ -182,14 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9793b713affad2f1",
+  "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
+    "overview/governing-guidelines/the-troopers-election-committee/README.md",
+    "class/class-12/physics/tests.md",
+    "competitive-exams/jee-vit-bitsat/the-db-prep-test-series/class-12-dbpts-j.md",
+    "class/class-12/physics/Untitled",
     "README.md",
+    "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
+    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
+    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
+    "class/class-12/english/lessons/ls-1-the-last-lesson.md",
+    "SUMMARY.md",
     "class/class-10.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
-    "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
     "class/class-11/biology/lessons/the-living-world.md",
     "assets/d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
     "d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
@@ -200,15 +193,12 @@
     "Untitled",
     "Pasted image 20240628174907.png",
     "class/class-11/physics/lessons/thermal-properties-of-matter.md",
-    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
     "overview/governing-guidelines.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
-    "SUMMARY.md",
     "divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/tests-schedule.md",
     "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
-    "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
     "overview/governing-guidelines/editorial-code-of-conduct.md",
     "overview/governing-guidelines/our-legal-stature.md",
     "overview/governing-guidelines/arbitration-committee-arbcom.md",
@@ -216,9 +206,6 @@
     "divisions/subedars.md",
     "overview/software",
     "overview/Untitled.md",
-    "class/class-12/physics/lessons/ls-3-current-electricity.md",
-    "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
-    "class/class-11/physics/lessons/kinetic-theory-of-gases.md",
     "Untitled 1.canvas",
     "Pasted image 20240622073509.png",
     "class/class-12/english/lessons/Untitled.canvas"
