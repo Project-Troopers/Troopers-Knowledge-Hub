@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class/class-12/physics/tests.md",
+                "file": "class/class-12/mathematics/ls-3-matrices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-12/physics/tests.md",
+                "file": "class/class-12/mathematics/ls-3-matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-12/physics/tests.md",
+                "file": "class/class-12/mathematics/ls-3-matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/class-12/physics/tests.md"
+                "file": "class/class-12/mathematics/ls-3-matrices.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,11 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62a94b0c84a29044",
+  "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
+    "class/class-11/chemistry/lessons/structure-of-an-atom.md",
+    "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
+    "class/class-12/physics/tests.md",
     "SUMMARY.md",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
-    "class/class-12/physics/tests.md",
     "class/class-12/physics/lessons/ls-3-current-electricity.md",
     "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
     "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
@@ -211,8 +213,6 @@
     "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
     "overview/governing-guidelines/editorial-code-of-conduct.md",
     "overview/governing-guidelines/our-legal-stature.md",
-    "overview/governing-guidelines/arbitration-committee-arbcom.md",
-    "overview/governing-guidelines/README.md",
     "overview/software",
     "Untitled 1.canvas",
     "Pasted image 20240622073509.png",
