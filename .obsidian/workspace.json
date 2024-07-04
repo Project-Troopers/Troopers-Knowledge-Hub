@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class/class-12/mathematics/ls-3-matrices.md",
+                "file": "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-12/mathematics/ls-3-matrices.md",
+                "file": "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-12/mathematics/ls-3-matrices.md",
+                "file": "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/class-12/mathematics/ls-3-matrices.md"
+                "file": "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,9 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51a08921ce5d91c",
+  "active": "1933188249f790f4",
   "lastOpenFiles": [
+    "class/class-11/chemistry/lessons/thermodynamics.md",
     "class/class-11/chemistry/lessons/structure-of-an-atom.md",
+    "class/class-12/mathematics/ls-3-matrices.md",
     "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
     "class/class-12/physics/tests.md",
     "SUMMARY.md",
@@ -211,8 +213,6 @@
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
     "divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/tests-schedule.md",
     "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
-    "overview/governing-guidelines/editorial-code-of-conduct.md",
-    "overview/governing-guidelines/our-legal-stature.md",
     "overview/software",
     "Untitled 1.canvas",
     "Pasted image 20240622073509.png",
