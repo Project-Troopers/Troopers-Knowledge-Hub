@@ -13,6 +13,7 @@
       * [Ls 2 - The Lost Spring](class/class-12/english/lessons/ls-2-lost-spring.md)
       * [Vistas](class/class-12/english/lessons/vistas/README.md)
         * [Ls 1 - The Third Level](class/class-12/english/lessons/vistas/ls-1-the-third-level.md)
+        * [Ls 2 - The Tiger King](class/class-12/english/lessons/vistas/ls-2-the-tiger-king.md)
     * [Activities](class/class-12/english/activities/README.md)
       * [Investigatory Project](class/class-12/english/activities/investigatory-project.md)
       * [Model United Nations](class/class-12/english/activities/model-united-nations.md)

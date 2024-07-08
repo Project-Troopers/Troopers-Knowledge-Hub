@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-12/english/lessons/ls-2-lost-spring.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-12/english/lessons/ls-2-lost-spring.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/class-12/english/lessons/ls-2-lost-spring.md"
+                "file": "SUMMARY.md"
               }
             }
           },
@@ -176,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51a08921ce5d91c",
+  "active": "386c6cbc0c485ba4",
   "lastOpenFiles": [
+    "class/class-12/english/lessons/ls-2-lost-spring.md",
     "class/class-12/english/lessons/vistas/ls-2-the-tiger-king.md",
     "SUMMARY.md",
     "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
@@ -212,7 +214,6 @@
     "class/class-11/physics/lessons/thermal-properties-of-matter.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
-    "overview/governing-guidelines.md",
     "overview/software",
     "Untitled 1.canvas",
     "Pasted image 20240622073509.png",
