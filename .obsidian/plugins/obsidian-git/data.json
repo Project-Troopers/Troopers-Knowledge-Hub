@@ -1,7 +1,7 @@
 {
   "commitMessage": "TKH Update: {{date}}\nNumber of files changed: {{numFiles}}\n{{hostname}} made this commit via the Obsidian-Git (Global) Integration.",
   "commitDateFormat": "DD/MM/YYYY, hh:mm A",
-  "autoSaveInterval": 1,
+  "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 1,
   "autoPullOnBoot": true,

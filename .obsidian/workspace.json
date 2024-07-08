@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
+                "file": "class/class-12/english/lessons/ls-2-lost-spring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 315.5
   },
   "right": {
     "id": "0735e164552dd276",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
+                "file": "class/class-12/english/lessons/ls-2-lost-spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
+                "file": "class/class-12/english/lessons/ls-2-lost-spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md"
+                "file": "class/class-12/english/lessons/ls-2-lost-spring.md"
               }
             }
           },
@@ -159,12 +159,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1933188249f790f4",
+  "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
+    "class/class-12/english/lessons/vistas/ls-2-the-tiger-king.md",
+    "SUMMARY.md",
+    "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
+    "class/class-12/english/lessons/vistas/ls-1-the-third-level.md",
+    "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
     "class/class-11/chemistry/lessons/thermodynamics.md",
     "class/class-11/chemistry/lessons/structure-of-an-atom.md",
     "class/class-12/mathematics/ls-3-matrices.md",
-    "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
     "class/class-12/physics/tests.md",
-    "SUMMARY.md",
     "overview/governing-guidelines/the-troopers-election-committee/README.md",
     "class/class-12/physics/lessons/ls-3-current-electricity.md",
     "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
@@ -210,9 +213,6 @@
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
     "divisions/brigadiers/the-first-brigadier-regiment/announcements/june-2024.md",
     "overview/governing-guidelines.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/march-2024.md",
-    "divisions/brigadiers/the-brigadier-common-division/brigadier-common-archives/tests-schedule.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/Untitled.md",
     "overview/software",
     "Untitled 1.canvas",
     "Pasted image 20240622073509.png",
