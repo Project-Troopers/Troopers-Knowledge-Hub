@@ -166,8 +166,8 @@ Since the village school also served as a home for the teacher (and rarely his f
 * M. Hamel was usually a strict taskmaster (taught in the village for 40 years), a patriot to the core. (even wore his best Sunday clothes and took lessons till the very end) and does not consider himself to be perfect.
 * The teacher spoke about the beauty of the language and even gave a lesson abt, procrastination (when Franz failed to recite the participles).
 * Franz was able to listen and comprehend the lessons clearly, he was unwilling to allow his leave his books. They did some the Angeles. copywriting; some history and prayed
-* A swell of emotions occupied M. Hamsel as he wrote "Vive la France" on the board.
-* Thus, the last lesson ended
+* A swell of emotions occupied M. Hamel as he wrote "Vive la France" on the board.
+* Thus, the last lesson ended.
 
 ## Assignments
 

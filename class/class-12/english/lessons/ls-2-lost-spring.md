@@ -46,30 +46,26 @@ In today's world, **GREED** forces others into poverty. We kill childhood due to
    (b) Power of violence
    **(c) Power of silence and thought**
    (d) Power of disputes
-
+   
 2. State whether the given statement is TRUE or FALSE, with reference to the extract.
    The poet wants to have no association with death as death is the end of life.
    **False**
+   
 3. Complete the sentence appropriately.
-   The poet asks to _____ in the whole extract of the poem.
+   The poet asks to __be calm__ in the whole extract of the poem.
+   
+4. The literary device used in the line, “what I want should not be confused with total inactivity” is __Metaphor__.
 
-iv.                The literary device used in the line, “what I want should not be confused with total inactivity” is _____.
+5. Based on the poem rhyme scheme, evident in lines 3 to 7, of the given extract, which word would rhyme with line 2?
+   **(a) Captivity**
+   (b) Haste
+   (c) Naste
 
-v.                  Based on the poem rhyme scheme, evident in lines 3 to 7, of the given extract, which word would rhyme with line 2?
-
-|   |   |   |
-|---|---|---|
-|CAPTIVITY|HATE|NASTE|
-
-vi.                Select the option that is NOT true about the punctuation mark used in the line 3 of the given extract.
-
-(a) Creates a sense of anticipation and expectation for the reader.
-
-(b) Encourages the reader to continue reading seamlessly without any pause.
-
-(c) Creates a sense of continuity and flow that connects the line with the second one.
-
-(d) Encourages a revisit to the ideas in the preceding line.
+6. Select the option that is NOT true about the punctuation mark used in the line 3 of the given extract.
+   (a) Creates a sense of anticipation and expectation for the reader.
+   (b) Encourages the reader to continue reading seamlessly without any pause.
+   (c) Creates a sense of continuity and flow that connects the line with the second one.
+   **(d) Encourages a revisit to the ideas in the preceding line.**
 
 2.     “Fishermen in the cold sea
 
