@@ -35,7 +35,7 @@ In today's world, **GREED** forces others into poverty. We kill childhood due to
 > Life is what it is about;
 > I want no truck with death.
 > If we were not so single-minded
-> about keeping our lives moving,
+> about keeping our lives moving, 
 > and for once could do nothing,
 > Perhaps a huge silence might interrupt this sadness
 > Of never understanding ourselves
@@ -67,103 +67,81 @@ In today's world, **GREED** forces others into poverty. We kill childhood due to
    (c) Creates a sense of continuity and flow that connects the line with the second one.
    **(d) Encourages a revisit to the ideas in the preceding line.**
 
-2.     “Fishermen in the cold sea
+#### Question 2
 
-would not harm whales
+> “Fishermen in the cold sea
+> would not harm whales
+> and the man gathering salt
+> would look at his hurt hands.”
 
-and the man gathering salt
+1. What do the given lines tell us about mankind?
+   (a) Selfish nature
+   (b) Greed
+   (c) Materialism
+   **(d) All of these**
 
-would look at his hurt hands.”
+2. What does the poet expect of the fisherman?
 
-i.                    What do the given lines tell us about mankind?
+3. What figure of speech has been used in the first line of the stanza or in words ‘Cold Sea’?
+   (a) Personification
+   **(b) Metaphor**
+   (c) Transferred epithet
+   (d) Simile
 
-(a) Selfish nature
+4. State whether the given statement is TRUE and FALSE.
+   The selfish nature of man is leading to environmental degradation. 
+   **True.**
 
-(b) Greed
+5. How is ‘keeping quiet’ going to help the man who works as ‘salt gatherer’?
+   By keeping quiet, the manual labourers would be able to rethink and retrospect, and decide to come up in life.
 
-(c) Materialism
+6. Complete the sentence appropriately.
+   The tone of the poet in the given lines is __suggestive and advisory in nature__.
 
-(d) All of these
+#### Question 3
 
-ii.                  What does the poet expect of the fisherman?
+> Now we will count to twelve
+> And we will all keep still.
+> For once on the face of the Earth
+> Let’s not speak in any language
+> Let’s stop for one second
+> And not move our arms so much.
 
-iii.                What figure of speech has been used in the first line of the stanza or in words ‘Cold Sea’?
+1. Why is the poet asking the people not to speak?
+   (a) It creates noise.
+   (b) The poet doesn’t like talkative people.
+   **(c) It gives the people time to introspect their actions.**
+   (d) There are less chances of infection.
 
-(a) Personification
+2. State whether the given statement is TRUE or FALSE.
+   The poet wants us to do nothing and remain inactive for one second.
+   **True**
 
-(b) Metaphor
+3. Complete the sentence appropriately.
+   “Not move our arms” in the given extract refers to _____.
 
-(c) Transferred epithet
+4. During counting to twelve, the poet wants us to remain _____.
 
-(d) Simile
+5. In the given extract, the poet has used \_\_\_\_\_\_.
+   **(a) metaphor**
+   (b) blank verse
+   (c) heroic couplet
 
-iv.                State whether the given statement is TRUE and FALSE.
+6. Select the option that is NOT true.
+   (a) During this moment, we will forget our differences and experience a strength of togetherness.
+   (b) When we stop for a second, we get an opportunity to introspect our follies.
+   (c) We will realize the harm we are causing to the world with our words and actions. 
+   **(d) We should always remain lazy.**
 
-The selfish nature of man is leading to environmental degradation.
+### ANSWER IN BRIEF IN ABOUT 40-50 WORDS:
 
-v.                  How is ‘keeping quiet’ going to help the man who works as ‘salt gatherer’?
-
-vi.                Complete the sentence appropriately.
-
-The tone of the poet in the given lines is _____.
-
-3.     Now we will count to twelve
-
-And we will all keep still.
-
-For once on the face of the Earth
-
-Let’s not speak in any language
-
-Let’s stop for one second
-
-And not move our arms so much.
-
-i.                    Why is the poet asking the people not to speak?
-
-(a) It creates noise.
-
-(b) The poet doesn’t like talkative people.
-
-(c) It gives the people time to introspect their actions.
-
-(d) There are less chances of infection.
-
-ii.                  State whether the given statement is TRUE or FALSE.
-
-The poet wants us to do nothing and remain inactive for one second.
-
-iii.                Complete the sentence appropriately.
-
-“Not move our arms” in the given extract refers to _____.
-
-iv.                During counting to twelve, the poet wants us to remain _____.
-
-v.                  In the given extract, the poet has used _____.
-
-(a) metaphor
-
-(b) blank verse
-
-(c) heroic couplet
-
-vi.                Select the option that is NOT true.
-
-(a) During this moment, we will forget our differences and experience a strength of togetherness.
-
-(b) When we stop for a second, we get an opportunity to introspect our follies.
-
-(c) We will realize the harm we are causing to the world with our words and actions. (d) We should always remain lazy.
-
-**ANSWER IN BRIEF IN ABOUT 40-50 WORDS:**
-
-1. How can suspension of activities help?
-2. What, according to Pablo Neruda, would be the ultimate end of man if the present scenario of wars continued?
+1. **How can suspension of activities help?**
+2. **What, according to Pablo Neruda, would be the ultimate end of man if the present scenario of wars continued?**
    **VER 1:** Pablo Neruda believed that man would end up digging his own grave if the present state of affairs continued. He believed so due to the rising concerns of handling of ammunition across the world, and mounting tensions which could lead to the next world war. His beliefs were also based on the fact that people were becoming ignoramus of others needs and were subjugating others by not allowing them to come up in life.
    **VER 2:** Pablo Neruda believed that if the present scenario of wars continued, humanity would end up digging its own grave. He expressed concerns about the reckless handling of ammunition and mounting global tensions, which could lead to another world war. Additionally, he pointed out that people were becoming increasingly ignorant of others' needs and were subjugating others, preventing them from progressing in life.
-3. How does the poet bring out the images of disharmony between man and nature in ‘Keeping Quiet’ and how can it be resolved?
-   The poet's use of imagery to drill down on the impact of wars is phenomenal in nature. He ensures it by describing the different kind of wars that we 
+3. **How does the poet bring out the images of disharmony between man and nature in ‘Keeping Quiet’ and how can it be resolved?**
+	The poet's use of imagery to drill down on the negative impact of wars is phenomenal in nature. He ensures it by describing the different kind of wars that we humans wage by wielding different elements of Mother Earth that provides us with life. He metaphorically connects the fisherman and the whales as the oppressors and the oppressed, and also literally asks us to preserve Mother Nature as it is. He vividly illustrates his point to see the effect that manual labourers and basic natural things had on society by alluding them to the salt labourers and asking them to look at themselves for once, to realise their importance to the society which has disregarded and subjugated them. It also promotes the idea of universal brotherhood by drawing parallels with the people who would walk among others normally, whereas if the world was not silent, they would have been part of the war effort. Man, who wishes to destroy others for the sake of personal gain, is at odds with nature which wishes to provide life to all and recovers easily from the attacks that man may propagate on it.
 
-**ANSWER IN DETAIN IN ABOUT 120-150 WORDS:**
+#### **ANSWER IN DETAIN IN ABOUT 120-150 WORDS:**
 
-1.     The world has become a global village, and people across boundaries, nationalities and communities are now connected to one another. With the advancement of technology, and the advent of social media, do you think that the task of keeping quiet, as envisaged by Neruda, has become easier or more complicated? Justify your stance.
+1. The world has become a global village, and people across boundaries, nationalities and communities are now connected to one another. With the advancement of technology, and the advent of social media, do you think that the task of keeping quiet, as envisaged by Neruda, has become easier or more complicated? Justify your stance.
