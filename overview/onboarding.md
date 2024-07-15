@@ -9,19 +9,21 @@ description: >-
 
 ### What is Project Troopers?
 
-Well, in the simplest form, Project Troopers is an educational initiative started by me, to help all students who are a part of it to solve their doubts, access learning materials easily and allow them to share their understanding (i.e create their own materials) with everyone.
+Well, in the simplest form, Project Troopers is an educational initiative started by me, Sugeeth, to help all students who are a part of it to solve their doubts, access learning materials easily and allow them to share their understanding (i.e create their own materials) with everyone.
 
-This is our second year of operations, which was sanctioned and approved by the majority of all troopers who were in group.
+This is our second year of operations, which was sanctioned and approved by the majority of all troopers who were part of this project.
 
-This Project was quite small towards the start, with only including my classmates. Pretty soon, we inducted Jugzards and expanded our outreach to the entire senior secondary part of my school. We're on the process of onboarding others too.
+This Project was quite small towards the start, with only including my classmates. Pretty soon, we inducted Jugzards and expanded our outreach to the entire senior secondary part of my school. We're on the process of onboarding others too, across India and maybe other places too! The current outreach operation is aimed at connecting students everywhere.&#x20;
 
-The current outreach operation is aimed at connecting students everywhere. You guys, are now part of our pan-India outreach programme (which is still very small)… but we aim to expand soon.
+&#x20;We are a non-profit non-governmental organisation, a student body for the students, by the students and of the students. We are not linked with any school, any institution. And our structure is pretty military-themed, so don't mind if we use a lot of military related terms.
 
-We are a non-profit non-governmental organisation, a student body for the students, by the students and of the students. We are not linked with any school, any institution. And our structure is pretty military-themed, so don't mind if we use a lot of military related terms.
+We are governed by our governing guidelines.&#x20;
 
-We are governed by our governing guidelines.
+<div data-full-width="false">
 
-![A beautiful image](https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxNDIyNzR8MHwxfHNlYXJjaHw1fHxlZHVjYXRpb258ZW58MHx8fHwxNzEyNDc2NTg5fDA\&ixlib=rb-4.0.3\&q=85)
+<img src="https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxNDIyNzR8MHwxfHNlYXJjaHw1fHxlZHVjYXRpb258ZW58MHx8fHwxNzEyNDc2NTg5fDA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="A beautiful image" width="188">
+
+</div>
 
 ### Our Initiatives and Structure
 
@@ -45,7 +47,11 @@ Since the whole hub is just transitioning into this structure, I, the CIC will d
 
 3. **The Troopers Knowledge Hub**
 
-It is our repository of information, here we share our files and knowledge. It is available at trooopers.craft.me and is run by a group of volunteers, called collaborators. If you wish to contribute to the hub, let us know.
+It is our repository of information, here we share our files and knowledge. It is available on this same website and is run by a group of volunteers, called collaborators. If you wish to contribute to the hub, let us know. To access the home page, click below!
+
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
 
 The Hub does contain some materials that the contributors create and some materials from other sources. We release the material that we created under the Creative Commons 4.0 Share-Alike License.
 
@@ -55,6 +61,15 @@ It is the place where we archive our materials that we have on the hub. It is al
 
 ### Governing Guidelines
 
-We are self-governed by a set of guidelines, applicable to all viewers and contributors alike. You can read them up over [here](governing-guidelines/).
+We are self-governed by a set of guidelines, applicable to all viewers and contributors alike. You can read them up over [here](governing-guidelines/), or click on the box below.
+
+{% content-ref url="governing-guidelines/" %}
+[governing-guidelines](governing-guidelines/)
+{% endcontent-ref %}
 
 If you have any doubts, please ask us, and we will help you. Thank you for joining Project Troopers!
+
+***
+
+_Page crafted by Sugeeth Jayaraj S.A._\
+_Founder of Project Troopers._
