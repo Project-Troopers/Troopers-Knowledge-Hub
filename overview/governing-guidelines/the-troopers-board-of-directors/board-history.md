@@ -4,6 +4,84 @@ description: The History of decisions taken by the board of directors, and relat
 
 # Board History
 
+### End of Tenure of the First Board Session
+
+_July 06, 2024_
+
+The board has been declared as dissolved, except for the purposes of [#proposal-0010](board-history.md#proposal-0010 "mention") and urgent matters regarding immediate supervision; by the Election Committee in light of the next election to the Board.
+
+When the board has dissolved, it means that the directors and CIC(s) also subsequently automatically turn into caretakers as it indicates their end of tenure. The caretaker directors do not have power to enact or propose any new legislation unless it is decided to be absolutely necessary and detrimental to the operations of the project. The caretaker directors can participate in elections, as they are no longer officially directors. The caretaker directors and CICs, however, will lose all of their powers at the moment when the new board swears into office.
+
+### Proposal #0010
+
+_This proposal is a huge proposal, introduced part-by-part over the course of a week by Sugeeth Jayaraj S.A. (liaison to the Board from the Election Committee). It was subsequently ignored and then reintroduced as a combined proposal._
+
+_**This proposal can also be referred to as "the Combined Bills of Passage" proposal.**_
+
+**Objective:** To complete the initial framework of Project Troopers by introducing legislation on aspects that were not addressed by the Legal Stature.&#x20;
+
+**Bills drafted and introduced (in shorthand form):** The DOPA, The IOFA, The TACRR, and its amendments during the May 31, 2024 to June 7, 2024. Later, the bills were re-introduced as "the Combined Bills of Passage" package. Documents have been attached below.
+
+{% file src="../../../.gitbook/assets/The Combined Bills of Passage.pdf" %}
+The Final Version of the package, with ammendments.
+{% endfile %}
+
+The other draft proposals have been attached below:-
+
+{% file src="../../../.gitbook/assets/The Distribution of Powers Bill, 2024.pdf" %}
+
+{% file src="../../../.gitbook/assets/The Incorporation of Assets Bill, 2024.pdf" %}
+
+{% file src="../../../.gitbook/assets/The Arbitration Committee Rules and Regulations Bill, 2024.pdf" %}
+
+**Timeframe:** From May 31, 2024 to present.
+
+#### The Summary of the proposal has been given below:-
+
+1. **Arbitration Committee Rules and Regulations, 2024 (TACRR 2024)**
+
+* Purpose: Establishes the Project Troopers Arbitration Committee (PTAC) to resolve disputes and enforce policies3
+* Composition: Consists of 5 to 9 members with specific eligibility and appointment criteria.
+* Procedures: Outlines the process for case submission, review, hearings, and decisions.
+
+2. **Distribution of Powers Bill, 2024 (DOPA 2024)**
+
+* Power Distribution: Details the separation of powers within Project Troopers.
+* CIC Role: Defines the Collaborator In-Charge’s responsibilities and limitations.
+* JPR Bodies: Describes the autonomy and accountability of the JPR bodies (ArbCom, Election Committee, Board). Creation of the Office of IT, Office of Legal Consult
+* Unified Impeachment Protocol: To impeach a person in power if they violate their posts and duties.
+* Protection of Acts: Introduces a general scheme for protecting all acts under different classifications.
+* Crisis Protocol: If any of the most important bodies of the project are not functioning, due procedures to follow.
+* Small other rules have also been mentioned, read the document for the full details.
+
+3. **Incorporation of Foreign Assets Bill, 2024 (IoFA 2024)**
+
+* Asset Incorporation: Governs the acquisition of foreign assets by Project Troopers.
+* Dealing Protocol: Establishes procedures for negotiating and finalizing asset deals.
+* Naturalization Protocol: Details the process for integrating new assets into Project Troopers.
+
+Voting results have not yet been declared for this proposal.
+
+**Note Points:-**
+
+* The TACRR was introduced as a part of this proposal as the body has not become functional as of that date. The Board is using its provisional powers to enact binding legislation on the Arbitration Committee until it is able to conduct an official internal vote on the matter.
+
+### Consensus Discussion #0009
+
+_May 30, 2024_
+
+**Objective**: To discuss about the TECRR legislation put forward by the Election Committee due to moral limitations. The TECCR was put up in the board forum for consensus review as the election committee was down to one member, and thus felt that it was unable to make proper unbiased decisions.
+
+> _"This was performed as a friendly gesture and should not be taken as the precedent for future actions."_ - Sugeeth Jayaraj S.A., the first head of the Election Committee
+
+_Requested by the head of the election committee Sugeeth Jayaraj. The exact request has been posted below:_
+
+> _"Hello board, I'm initiating a new consensus for your consideration, as the Election Committee is down to one member and thus it would not be democratic if I approve my own bill. Hope you guys would be kind enough to review this bill."_
+
+**Consensus formulated:** The consensus was that there were no objections brought against the bill.
+
+**Consequence: The TECRR** was brought into effect by the Head of the Election Committee Sugeeth Jayaraj S.A.
+
 ### Consensus Discussion #0008
 
 _May 04, 2024_
@@ -12,7 +90,14 @@ _May 04, 2024_
 
 _Raised by Co-CIC Deepan Sai._
 
-The results of the discussion have not been released yet.
+**Consensus formulated (as put forth by Deepan Sai, abridged here for better understanding):-**
+
+1. There will be a head of each regiment elected by the directors.
+2. People in the regiment will take turns each week to send homework and test details.&#x20;
+3. Everyone can express their opinion to the head of the regiment if they feel a need for change.&#x20;
+4. Groups other than the First Brigadier Regiment will be under heavy supervision or will be removed from the hub.
+
+_There were no objections to the above concensus._
 
 {% hint style="danger" %}
 #### Proposal #0007
@@ -25,7 +110,17 @@ _Raised by Co-CIC Deepan Sai._
 
 Laws shall be reframed and simplified involving no legal actions or requirements- law shall only guide the members of the group.
 
-Voting results have not been released yet.
+This vote was not able to continue due to it being ignored by the Board. Some votes were cast, but they were not enough to exceed the required threshold. This proposal has been archived.
+
+**Vote results: 2-nil-nil-3-nil**\
+_Vote results are in the for-against-neutral-abstained-reclused format._\
+_**Timeframe**: No Timeframe was agreed upon or put forth by the co-CICs._
+
+**Approvers**: K.S. Harshavardhan, Deepan, \
+**Detractors**: _None_\
+**Neutral:** _None_\
+**Abstained**: Nithin, Faheema, Eric\
+**Reclused**: _None_
 {% endhint %}
 
 ### Resolution #0006: Changes to the Election Committee and Board responsibilities

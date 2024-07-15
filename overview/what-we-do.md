@@ -5,7 +5,7 @@ description: Our most detailed mission statement
 # 💡 What we do
 
 {% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
+This is our mission statement, our shining beacon and the cornerstone principle on which we are based upon.
 {% endhint %}
 
 Project Troopers is an extension of the mission carried out by Jugzards and the DGA (legacy archived projects), to make knowledge easier to access.
@@ -16,7 +16,7 @@ Be prepared to become a true trooper, armed with the power of knowledge. From ta
 
 Remember, Project Troopers is not just a mission; it's a legacy. As you immerse yourself in the depths of our knowledge hub, embrace the spirit of camaraderie and collaboration, for together, we can achieve the extraordinary.
 
-Welcome once again, and let the Troopers' knowledge ignite your passion for excellence.
+Welcome once again, and let the Troopers' knowledge Hub ignite your passion for excellence.
 
 **Location of our archives:**\
 [https://drive.google.com/drive/u/2/folders/1H6GLo8tvjuDqWGfHuYQiZo\_WkKoVZmJX](https://drive.google.com/drive/u/2/folders/1H6GLo8tvjuDqWGfHuYQiZo\_WkKoVZmJX)
