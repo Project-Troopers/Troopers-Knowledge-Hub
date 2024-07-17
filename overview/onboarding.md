@@ -41,9 +41,7 @@ Now, each group has its own set of admins. And each division will provide us wit
 
 2. **The Board of Directors**
 
-This project was originally run by a core group. Since we expanded, we needed only a few trust-worthy people to take decisions, on behalf of the people on the Project. So, we have a Board of Directors, the highest administrative authority of the project that is allowed to take decisions. The board is headed by the Collaborator In-Charge (that's me), who will be appointed by the Board. Each decision taken by the board goes through a vote.
-
-Since the whole hub is just transitioning into this structure, I, the CIC will do some heavy-lifting and will take care of some administrative decision on my own… After some time, when the board has decided to implement the governing guidelines and related structures, I will have very limited power…
+This project was originally run by a core group. Since we expanded, we needed only a few trust-worthy people to take decisions, on behalf of the people on the Project. So, we have a Board of Directors, the highest administrative authority of the project that is allowed to take decisions. The board is headed by the Collaborator In-Charge (that's K.S. Harshavardhan and Deepan Sai for now), who will be appointed by the Board. Each decision taken by the board goes through a vote.
 
 3. **The Troopers Knowledge Hub**
 
