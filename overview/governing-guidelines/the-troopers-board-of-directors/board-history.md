@@ -1,10 +1,33 @@
 ---
 description: The History of decisions taken by the board of directors, and related events.
+coverY: 0
+layout:
+  cover:
+    visible: false
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Board History
 
-### End of Tenure of the First Board Session
+### First Board Session
+
+_From 23-02-2024 to July 06, 2024_
+
+
+
+<details>
+
+<summary>End of Tenure of the First Board Session</summary>
 
 _July 06, 2024_
 
@@ -12,7 +35,11 @@ The board has been declared as dissolved, except for the purposes of [#proposal-
 
 When the board has dissolved, it means that the directors and CIC(s) also subsequently automatically turn into caretakers as it indicates their end of tenure. The caretaker directors do not have power to enact or propose any new legislation unless it is decided to be absolutely necessary and detrimental to the operations of the project. The caretaker directors can participate in elections, as they are no longer officially directors. The caretaker directors and CICs, however, will lose all of their powers at the moment when the new board swears into office.
 
-### Proposal #0010
+</details>
+
+<details>
+
+<summary>Proposal #0010</summary>
 
 _This proposal is a huge proposal, introduced part-by-part over the course of a week by Sugeeth Jayaraj S.A. (liaison to the Board from the Election Committee). It was subsequently ignored and then reintroduced as a combined proposal._
 
@@ -22,17 +49,7 @@ _**This proposal can also be referred to as "the Combined Bills of Passage" prop
 
 **Bills drafted and introduced (in shorthand form):** The DOPA, The IOFA, The TACRR, and its amendments during the May 31, 2024 to June 7, 2024. Later, the bills were re-introduced as "the Combined Bills of Passage" package. Documents have been attached below.
 
-{% file src="../../../.gitbook/assets/The Combined Bills of Passage.pdf" %}
-The Final Version of the package, with ammendments.
-{% endfile %}
-
-The other draft proposals have been attached below:-
-
-{% file src="../../../.gitbook/assets/The Distribution of Powers Bill, 2024.pdf" %}
-
-{% file src="../../../.gitbook/assets/The Incorporation of Assets Bill, 2024.pdf" %}
-
-{% file src="../../../.gitbook/assets/The Arbitration Committee Rules and Regulations Bill, 2024.pdf" %}
+**The Final Version of the package, with amendments and t**he other draft proposals have been attached below:-
 
 **Timeframe:** From May 31, 2024 to present.
 
@@ -66,23 +83,39 @@ Voting results have not yet been declared for this proposal.
 
 * The TACRR was introduced as a part of this proposal as the body has not become functional as of that date. The Board is using its provisional powers to enact binding legislation on the Arbitration Committee until it is able to conduct an official internal vote on the matter.
 
-### Consensus Discussion #0009
+</details>
+
+{% file src="../../../.gitbook/assets/The Combined Bills of Passage - Final.pdf" %}
+
+{% file src="../../../.gitbook/assets/The Arbitration Committee Rules and Regulations Bill, 2024.pdf" %}
+
+{% file src="../../../.gitbook/assets/The Incorporation of Assets Bill, 2024.pdf" %}
+
+{% file src="../../../.gitbook/assets/The Distribution of Powers Bill, 2024.pdf" %}
+
+<details>
+
+<summary>Consensus Discussion #0009</summary>
 
 _May 30, 2024_
 
 **Objective**: To discuss about the TECRR legislation put forward by the Election Committee due to moral limitations. The TECCR was put up in the board forum for consensus review as the election committee was down to one member, and thus felt that it was unable to make proper unbiased decisions.
 
-> _"This was performed as a friendly gesture and should not be taken as the precedent for future actions."_ - Sugeeth Jayaraj S.A., the first head of the Election Committee
+_"This was performed as a friendly gesture and should not be taken as the precedent for future actions."_ - Sugeeth Jayaraj S.A., the first head of the Election Committee
 
 _Requested by the head of the election committee Sugeeth Jayaraj. The exact request has been posted below:_
 
-> _"Hello board, I'm initiating a new consensus for your consideration, as the Election Committee is down to one member and thus it would not be democratic if I approve my own bill. Hope you guys would be kind enough to review this bill."_
+_"Hello board, I'm initiating a new consensus for your consideration, as the Election Committee is down to one member and thus it would not be democratic if I approve my own bill. Hope you guys would be kind enough to review this bill."_
 
 **Consensus formulated:** The consensus was that there were no objections brought against the bill.
 
 **Consequence: The TECRR** was brought into effect by the Head of the Election Committee Sugeeth Jayaraj S.A.
 
-### Consensus Discussion #0008
+</details>
+
+<details>
+
+<summary>Consensus Discussion #0008</summary>
 
 _May 04, 2024_
 
@@ -99,8 +132,11 @@ _Raised by Co-CIC Deepan Sai._
 
 _There were no objections to the above concensus._
 
-{% hint style="danger" %}
-#### Proposal #0007
+</details>
+
+<details>
+
+<summary><mark style="color:orange;">Proposal #0007 (Dangerous and Archived)</mark></summary>
 
 _April 29, 2024_
 
@@ -121,9 +157,12 @@ _**Timeframe**: No Timeframe was agreed upon or put forth by the co-CICs._
 **Neutral:** _None_\
 **Abstained**: Nithin, Faheema, Eric\
 **Reclused**: _None_
-{% endhint %}
 
-### Resolution #0006: Changes to the Election Committee and Board responsibilities
+</details>
+
+<details>
+
+<summary>Resolution #0006: Changes to the Election Committee and Board responsibilities</summary>
 
 _April 28, 2024_
 
@@ -147,7 +186,11 @@ _**Timeframe**: By April 28, 2024 at 6:00 PM, as one of the points in this propo
 **Abstained**: Nithin\
 **Reclused**: Sugeeth (since he was only a caretaker director)
 
-### Resolution #0005: Grant of Adminship and full access to all groups for the CICs
+</details>
+
+<details>
+
+<summary>Resolution #0005: Grant of Adminship and full access to all groups for the CICs</summary>
 
 _April 23, 2024._
 
@@ -163,7 +206,11 @@ _**Time Frame**: From 23-04-2024 05:21 PM to 24-04-2024 06:21 PM (25 hours -> ne
 **Abstained**: Eric, Faheema\
 **Reclused**: Sugeeth (since he was only a caretaker director)
 
-### Resolution #0004: Selection of the new CIC
+</details>
+
+<details>
+
+<summary>Resolution #0004: Selection of the new CIC</summary>
 
 _April 22, 2024._
 
@@ -180,7 +227,11 @@ _**Time Frame**: From 22-04-2024 05:08 PM to the end of the same day_
 _A_**bstained:** _None_\
 **Reclused**: Sugeeth (since he was only a caretaker director)
 
-### Resignation of [Sugeeth Jayaraj S.A.](https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2 "mention") from the Board (Case ID: #0003)
+</details>
+
+<details>
+
+<summary>Resignation of <a data-mention href="https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2">Sugeeth Jayaraj S.A.</a> from the Board (Case ID: #0003)</summary>
 
 * **Resignation**: Sugeeth Jayaraj stepped down from his roles as a director and as CIC of Project Troopers, on April 19, 2024.
 * **Gratitude and Ongoing Membership**: Sugeeth thanked everyone for their teamwork and looked forward to staying on with Project Troopers.
@@ -190,11 +241,15 @@ _A_**bstained:** _None_\
 
 Attached the resignation file below.
 
-{% file src="../../../.gitbook/assets/Resignation Letter - Project Troopers - CIC SJSA" %}
-Sugeeth's Resignation letter
-{% endfile %}
+/
 
-### Consensus #0002: Proposal for Expanding Computer Corps Program Summary
+</details>
+
+{% file src="../../../.gitbook/assets/Resignation Letter - Project Troopers - CIC SJSA" %}
+
+<details>
+
+<summary>Consensus #0002: Proposal for Expanding Computer Corps Program Summary</summary>
 
 A student, recommended by a friend of Aakash, has expressed interest in joining the exclusive Computer Corps. The current structure limits participation to students from our school.
 
@@ -225,7 +280,11 @@ The Board of Directors was kindly asked to deliberate on the mentioned recommend
 
 **Formulated Consensus**: Allow them to participate in the computer science division as a new group.
 
-### Resolution #0001: Legalisation of Governing Guidelines
+</details>
+
+<details>
+
+<summary>Resolution #0001: Legalisation of Governing Guidelines</summary>
 
 A resolution to bring the original governing guidelines along with the Legal Stature into force was passed by the board.
 
@@ -237,10 +296,22 @@ _**Time Frame**: From 08-04-2024 06:15 PM to 09-04-2024 06:15 PM (24 hours)_
 **Detractors**: K.S. Harshavardhan\
 **Abstained**: Eric, Deepan, Faheema
 
-### Appointment of Arbitrary Directors
+</details>
 
-The first set of directors were appointed to the board over the course of 2 months.
+<details>
 
-### Creation of the Board
+<summary>Appointment of Arbitrary Directors</summary>
+
+The first set of directors were appointed to the board over the course of 2 months. The appointed directors were Sugeeth Jayaraj S.A. (virtue as creator and then-head of the Project), Nithin, K.S. Harshavardhan, Eric, Deepan, Faheema.
+
+</details>
+
+<details>
+
+<summary>Creation of the Board</summary>
 
 The board was created by a general vote held among the members of Project Troopers. It came into existence on 23-02-2024.
+
+</details>
+
+This page is a legacy of Project Troopers and its operations within its top-most control body, The Troopers Board of Directors.

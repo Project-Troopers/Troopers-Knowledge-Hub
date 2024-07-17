@@ -24,8 +24,8 @@ layout:
 # 👋 Home Page
 
 {% hint style="success" %}
-**Version 4** (_Beta Version_)\
-Rolled out on 11\_-04-2024 at 11:00 PM\_\
+**Version 5** (_Stable_)\
+Rolled out on [_17-07-2024 at 08:02 AM_](#user-content-fn-1)[^1]\
 This is a digital documentation.
 {% endhint %}
 
@@ -55,6 +55,13 @@ This hub may include copyrighted materials and text for scientific and research 
 
 ***
 
-© Project Troopers (2024). Released under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our [Terms ](overview/governing-guidelines/)with exceptions).
+_© Project Troopers (2024)._ \
+_Released under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our_ [_Terms_ ](overview/governing-guidelines/)_with exceptions)._
 
-You automatically abide by the governing guidelines when you visit our site.
+{% content-ref url="overview/governing-guidelines/" %}
+[governing-guidelines](overview/governing-guidelines/)
+{% endcontent-ref %}
+
+You automatically abide by the governing guidelines when you visit our site. Click the above block to view the governing guidelines.
+
+[^1]: This is the time at which the current version of the document was deemed stable after a slew of improvements.
