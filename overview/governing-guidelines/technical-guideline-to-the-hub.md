@@ -18,9 +18,7 @@ The Documentation
 
 Since we can't add all the members of the project on GitBook due to technical limitations, we have used GitSync (by GitBook) to sync our documentation with GitHub. It is available at the link listed below. Only members with authorized access roles are allowed to commit to it.
 
-{% embed url="https://github.com/Project-Troopers/Troopers-Knowledge-Hub/" %}
-Our Files on GitHub
-{% endembed %}
+{% @github-files/github-code-block url="https://github.com/Project-Troopers/Troopers-Knowledge-Hub/" %}
 
 ### Google Drive
 
@@ -54,7 +52,10 @@ cd Documents
 git clone https://github.com/Project-Troopers/Troopers-Knowledge-Hub.git --progress
 ```
 
-_Footnotes: cd Documents will select the Documents folder on device (not on any online service) locally, and you change it to any directory._ 3. After cloning it on device, open Obsidian. Then click on open a new vault. 4. In the address bar of File Explorer, paste this directory, and then click on "Open" (or "select folder".)
+_Footnotes: cd Documents will select the Documents folder on device (not on any online service) locally, and you can change it to any directory._&#x20;
+
+3. After cloning it on device, open Obsidian. Then click on open a new vault.&#x20;
+4. In the address bar of File Explorer, paste this directory, and then click on "Open" (or "select folder".)
 
 ```
 %USERPROFILE%\Documents\troopers-knowledge-hub\
@@ -71,7 +72,7 @@ That's all. Sync has been set up!
 ## For Android/iOS/iPadOS users
 
 {% hint style="info" %}
-#### Prerequisite Steps
+**Prerequisite Steps**
 
 1. Download the Obsidian app from your respective app store.
 2. Create a dummy vault in the Obsidian app, to expose the Obsidian folder to the operating system. Close the app.

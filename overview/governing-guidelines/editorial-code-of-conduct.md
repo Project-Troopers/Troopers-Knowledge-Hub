@@ -82,7 +82,7 @@ This is a `Class Action Notice Box, Type A (CANB-A)`. Do not remove this Notice 
 
 `Add your message here in the "Body" style.`
 
-by _\*\*\*_\_\_\_\_\_\_\_\_(\*\*\*`member)` , with automatic effect after \_\_\_\_(`date);` unless otherwise cancelled.
+by _\*\*\*_\_\_\_\_\_\_\_\_\*\*\*`(member)` , with automatic effect after \_\_\_\_`(date);` unless otherwise cancelled.
 {% endhint %}
 
 * Type B (of CA) - has not been ratified yet.
@@ -127,7 +127,7 @@ by \_\_\_\_\_\_\_\_\_\_`(member)` , with automatic effect after \_\_\_\_`(date).
 
 ### Sensitive Content
 
-> <mark style="color:green;">“It is important to be sensible about sensitive information.”</mark>\ <mark style="color:green;">- Carmel Jeru Joachim</mark>
+> <mark style="color:green;">“It is important to be sensible about sensitive information.”</mark> <mark style="color:green;">- Carmel Jeru Joachim</mark>
 
 In situations where content is identified as potentially harmful, sensitive, or related to ongoing events, it is important to acknowledge that the information provided on the Hub may be outdated or unreliable; and that we might not know everything. To ensure user awareness, we will display a notice above such content. However, it is crucial to note that the interpretation and understanding of the content remains solely the responsibility of the user, and the Hub cannot be held accountable for any user interpretations.
 
