@@ -39,19 +39,15 @@ When the board has dissolved, it means that the directors and CIC(s) also subseq
 
 <details>
 
-<summary>Proposal #0010</summary>
+<summary>Resolution #0010: Approval of the Combined Bills of Passage Legislation</summary>
 
-_This proposal is a huge proposal, introduced part-by-part over the course of a week by Sugeeth Jayaraj S.A. (liaison to the Board from the Election Committee). It was subsequently ignored and then reintroduced as a combined proposal._
+_This resolution is a huge proposal, introduced part-by-part over the course of a week by Sugeeth Jayaraj S.A. (liaison to the Board from the Election Committee). It was subsequently ignored and then reintroduced as a combined proposal._
 
-_**This proposal can also be referred to as "the Combined Bills of Passage" proposal.**_
+_**This resolution can also be referred to as "the Combined Bills of Passage" resolution.**_
 
 **Objective:** To complete the initial framework of Project Troopers by introducing legislation on aspects that were not addressed by the Legal Stature.&#x20;
 
 **Bills drafted and introduced (in shorthand form):** The DOPA, The IOFA, The TACRR, and its amendments during the May 31, 2024 to June 7, 2024. Later, the bills were re-introduced as "the Combined Bills of Passage" package. Documents have been attached below.
-
-**The Final Version of the package, with amendments and t**he other draft proposals have been attached below:-
-
-**Timeframe:** From May 31, 2024 to present.
 
 #### The Summary of the proposal has been given below:-
 
@@ -77,11 +73,19 @@ _**This proposal can also be referred to as "the Combined Bills of Passage" prop
 * Dealing Protocol: Establishes procedures for negotiating and finalizing asset deals.
 * Naturalization Protocol: Details the process for integrating new assets into Project Troopers.
 
-Voting results have not yet been declared for this proposal.
+**Vote results: 1-nil-3-1-nil**\
+_Vote results are in the for-against-neutral-abstained-reclused format._\
+_**Timeframe**:_ From May 31, 2024 to 19/07/2024 at 2:00 PM.
 
-**Note Points:-**
+**Approvers**: Nithin\
+**Detractors**: _None_\
+**Neutral:** K.S. Harshavardhan, Deepan, Faheema\
+**Abstained**: Eric\
+**Reclused**: _None_
 
-* The TACRR was introduced as a part of this proposal as the body has not become functional as of that date. The Board is using its provisional powers to enact binding legislation on the Arbitration Committee until it is able to conduct an official internal vote on the matter.
+**Note:** The TACRR was introduced as a part of this proposal as the body has not become functional as of that date. The Board is using its provisional powers to enact binding legislation on the Arbitration Committee until it is able to conduct an official internal vote on the matter.
+
+**The Final Version of the package, with amendments and t**he other draft proposals have been attached below:-
 
 </details>
 

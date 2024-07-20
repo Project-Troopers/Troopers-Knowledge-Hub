@@ -56,11 +56,11 @@
     * [Practicals](class/class-12/chemistry/practicals/README.md)
       * [Overview](class/class-12/chemistry/practicals/overview.md)
       * [Systematic Analysis](class/class-12/chemistry/practicals/systematic-analysis.md)
-  * [Psychology](class/class-12/psychology.md)
-  * [Computer Science](class/class-12/computer-science.md)
-  * [Art](class/class-12/art.md)
-  * [GST](class/class-12/gst.md)
-  * [Cat / M.Sc](class/class-12/cat-m.sc.md)
+  * [🧠 Psychology](class/class-12/psychology.md)
+  * [🖥️ Computer Science](class/class-12/computer-science.md)
+  * [🎨 Art](class/class-12/art.md)
+  * [🌏 GST](class/class-12/gst.md)
+  * [🙏 Cat / M.Sc](class/class-12/cat-m.sc.md)
 * [Class 11](class/class-11/README.md)
   * [Art](class/class-11/art.md)
   * [Biology](class/class-11/biology/README.md)
@@ -192,7 +192,7 @@
     * [Straight Lines](class/class-11/mathematics/straight-lines.md)
     * [Conic Sections](class/class-11/mathematics/conic-sections.md)
     * [Introduction to 3D Geometry](class/class-11/mathematics/introduction-to-3d-geometry.md)
-* [Class 10](https://drive.google.com/open?id=1k9Wx1toa_0HlmsEBFikJd1EXDKoDa2V2&usp=drive_fs)
+* [Class 10](https://drive.google.com/open?id=1k9Wx1toa\_0HlmsEBFikJd1EXDKoDa2V2\&usp=drive\_fs)
 
 ## Overview
 
@@ -204,6 +204,7 @@
   * [Editorial Code of Conduct](overview/governing-guidelines/editorial-code-of-conduct.md)
   * [Life cycle Policies](overview/governing-guidelines/life-cycle-policies.md)
   * [The Troopers Board of Directors](overview/governing-guidelines/the-troopers-board-of-directors/README.md)
+    * [🏛️ Legislation](overview/governing-guidelines/the-troopers-board-of-directors/legislation.md)
     * [Board History](overview/governing-guidelines/the-troopers-board-of-directors/board-history.md)
   * [The Troopers Election Committee](overview/governing-guidelines/the-troopers-election-committee/README.md)
     * [Approved Acts](overview/governing-guidelines/the-troopers-election-committee/approved-acts/README.md)
