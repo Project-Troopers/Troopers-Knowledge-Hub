@@ -1,2 +1,2 @@
-# Psychology
+# 🧠 Psychology
 

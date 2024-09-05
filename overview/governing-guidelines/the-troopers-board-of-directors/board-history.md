@@ -1,5 +1,6 @@
 ---
 description: The History of decisions taken by the board of directors, and related events.
+icon: list-timeline
 coverY: 0
 layout:
   cover:
@@ -17,13 +18,53 @@ layout:
     visible: true
 ---
 
-# Board History
+# Governing History
+
+### Second Board Session
+
+_From September 02, 2024 till March 01, 2024 (proposed)_\
+_This Board session is officially in session._
+
+<details>
+
+<summary>Start of the 2nd Board Session</summary>
+
+_From September 02, 2024 @ 12:00 AM_
+
+The election results were released in stages; and was finalised on September 01, 2024. New directors were given access to the internal Board of Directors discussion channel and were reminded of their responsibilities.
+
+The new directors have been mentioned below.
+
+* **K.S. Harshavardhan** \
+  _representative of the First Brigadier Regiment_
+* **Deepan Sai** \
+  _representative of the core group that started Project Troopers_
+* **B Hari Karthik** (aka **TOPPER**)\
+  _representative of the Second Brigadier Regiment_
+* **Abdul Hafeez Ali**\
+  _representative of the Third and Fourth Brigadier Regiment_
+* **Nithin Antonio Dominic**\
+  _representative of the Subedars Common Division (Class 11 operations)_
+* **Joanna**\
+  _representative of the Subedars Common Division (Class 11 operations)_
+
+The liaison from the Election Committee has not changed from the previous session.
+
+</details>
+
+### First Interim Period
+
+_From July 07, 2024 to September 01, 2024 (57 days)_
+
+_During this period, the day-to-day operations of the board was carried out by Sugeeth Jayaraj S.A., head of election Committee as defined under Crisis Protocol of the Distribution of Powers Act, 2024. A caretaker Board did exist, consisting of final members of the First Board Session, to decide on crucial matters as and when required._
+
+During this time, the elections were conducted in stages. Since there weren't many participants in the elections, it ran for a prolonged period of 50 days.
 
 ### First Board Session
 
 _From 23-02-2024 to July 06, 2024_
 
-
+This Board Session has officially closed.
 
 <details>
 
@@ -319,3 +360,52 @@ The board was created by a general vote held among the members of Project Troope
 </details>
 
 This page is a legacy of Project Troopers and its operations within its top-most control body, The Troopers Board of Directors.
+
+### Before the Board of Directors
+
+The decisions were taken with general consensus of all members in Project Troopers.
+
+<details>
+
+<summary>January 15, 2024</summary>
+
+* The Troopers Project is expanding to include others friends too. Accordingly, a restructuring has been initiated.
+* Each section or class will constitute or be allegorised as a “Regiment”.
+* ⁠If there are separate groups for a subject, it will be called or allegorised as a “Corps” (an army entity that is supposed to provide services).
+* ⁠There will be a main “Front/Division” (a group of regiments) group where all members will be allowed to discuss.
+* ⁠All groups which have only our friends of one group will be fitted with the moniker “First”.
+* ⁠All groups which have only our friends in the second group will be fitted with the moniker “Second”.
+
+</details>
+
+<details>
+
+<summary>November 22, 2023</summary>
+
+The speaker is discontinuing (sunsetting) the current "Psychology" group of the Troopers Project because there is already another Psychology group consisting of all Psychology students in Class 11. The speaker wants to respect the independence of this alternate group. However, if the alternate Psychology group wants to join the Troopers project, they are welcome to do so.
+
+Once again, an invitation is being extended to all individuals who possess materials or have an interest in contributing to the Troopers Hub. It is requested that volunteers actively maintain various sections such as "Psychology", "Computer Science", "Announcements", and "Homework", among others. Contributions ranging from graphic designing, physical drawings, materials, videos, and software-related skills (like API versioning, endpoints, etc) will be highly appreciated. A poll was posted to gauge interest and availability.
+
+![](../../../.gitbook/assets/image.png)
+
+</details>
+
+<details>
+
+<summary>August 5, 2023</summary>
+
+[WhatsApp Audio 2023-08-05 at 21.05.10.waptt](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/d9694c23-3074-ac37-6909-6e0e7d5f74d6)
+
+After a small problem involving an non-participating party, the description of the Troopers Group was changed to provide more clarity on the function of the group as a whole. The verdict of an admin has been attached above (may contain personal info).
+
+This is the old description of the WhatsApp Doubt Group.
+
+<img src="../../../.gitbook/assets/image (1).png" alt="" data-size="original">
+
+The new description has been given below.
+
+<img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+
+
+
+</details>

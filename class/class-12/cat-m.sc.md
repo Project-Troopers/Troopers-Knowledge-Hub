@@ -1,2 +1,2 @@
-# Cat / M.Sc
+# 🙏 Cat / M.Sc
 
