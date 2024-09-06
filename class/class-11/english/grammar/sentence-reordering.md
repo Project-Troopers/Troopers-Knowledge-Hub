@@ -14,23 +14,19 @@ Remember, when practicing rearranging sentences, you may come across various typ
 
 ## Reference Material
 
-> **Notice**
+{% hint style="info" %}
+**Notice**
 
-> The below materials contain copyrighted content from:-
+The below materials contain copyrighted content from:-
 
-[Just a moment...](https://brainly.in/question/5769310)
-
-[Rearrange Jumbled Sentences for Class 11 CBSE with Answers - CBSE Sample Papers](https://www.cbsesamplepapers.info/cbse/jumbled-sentences-for-class-11)
-
-[Rearrange Words To Make Meaningful Sentences | Class 11 Grammar Worksheet – Perfectyourenglish.com](https://perfectyourenglish.com/blog/rearrange-words-to-make-meaningful-sentences-class-11-grammar-worksheet/)
-
-[EDUMANTRA » Best CBSE Knowledgebase](https://www.edumantra.net/)
-
-[Rearrange Jumbled Sentences for Class 11 CBSE With Answers](https://www.learncram.com/english-grammar/jumbled-sentences-for-class-11/)
-
-[Reordering of Sentences](https://unacademy.com/content/cbse-class-11/study-material/english/reordering-of-sentences/)
-
-[Rearrange the Jumbled Words into a Meaningful Sentence for Class 11](https://www.learninsta.com/rearrange-the-jumbled-words-into-a-meaningful-sentence-for-class-11/)
+* [Just a moment...](https://brainly.in/question/5769310)
+* [Rearrange Jumbled Sentences for Class 11 CBSE with Answers - CBSE Sample Papers](https://www.cbsesamplepapers.info/cbse/jumbled-sentences-for-class-11)
+* [Rearrange Words To Make Meaningful Sentences | Class 11 Grammar Worksheet – Perfectyourenglish.com](https://perfectyourenglish.com/blog/rearrange-words-to-make-meaningful-sentences-class-11-grammar-worksheet/)
+* [EDUMANTRA » Best CBSE Knowledgebase](https://www.edumantra.net/)
+* [Rearrange Jumbled Sentences for Class 11 CBSE With Answers](https://www.learncram.com/english-grammar/jumbled-sentences-for-class-11/)
+* [Reordering of Sentences](https://unacademy.com/content/cbse-class-11/study-material/english/reordering-of-sentences/)
+* [earrange the Jumbled Words into a Meaningful Sentence for Class 11](https://www.learninsta.com/rearrange-the-jumbled-words-into-a-meaningful-sentence-for-class-11/)
+{% endhint %}
 
 ## Part 1
 
@@ -199,117 +195,62 @@ Remember, when practicing rearranging sentences, you may come across various typ
 9.  **things/ is/ this/ why/ are/ constantly/ shifting**
 
     This is why things are constantly shifting.
-10. **change/ law/ in/ is/ a natural/ fact**
-
-Change is, in fact, a natural law.
-
-11. **during/ forests/ forces/ provide cover for/ battles/ our**
-
-During battles, forests provide cover for our forces.
-
-12. **age/ to/ the/ under/ of/ Children/ are not permitted/ eighteen/ drive**
-
-Children under the age of eighteen are not permitted to drive.
-
-13. **the/ their room/ are/ boys/ lesson/ reviewing/ the/ In**
-
-In their room, the boys are reviewing the lesson.
-
-14. **last/ was/ the railway/ Sunday/ particularly/ platform/ busy**
-
-Last Sunday, the railway platform was particularly busy.
-
-15. **on the platform/ vendors with/ were/ wares/ their/ selling/ flowers/ sweet-smelling/ the**
-
-The vendors with sweet-smelling flowers were selling their wares on the platform.
-
-16. **board/ were unsure how they/ the/ We/ would/ train**
-
-We were unsure how they would board the train.
-
-17. **boarded/ they/ caution/ the train with/ However**
-
-However, they boarded the train with caution.
-
-18. **few/ had/ only been a/ rain/ minutes/ he/ since/ had walked/ It/ outside/ it began to/ when**
-
-It had only been a few minutes since he had walked outside when it began to rain.
-
-19. **die/ would rather/ up/ She/ give/ than/ her freedom**
-
-She would rather die than give up her freedom.
-
-20. **by/ lesson/ taught/ was/ to you/ This/ your teacher**
-
-This lesson was taught to you by your teacher.
-
-21. **I’m/ he’s/ sure what/ saying/ Not**
-
-I’m not sure what he’s saying.
-
-22. **this letter/ granddad the author of/you’re/ is**
-
-Is your granddad the author of this letter?
-
-23. **until/ no/ I/ him/ I had/ had/ idea/ he/ told/ won a medal**
-
-Until I told him, he had no idea I had won a medal.
-
-24. **to/ used/ I/ ride/ to/ bicycle/ my/ school**
-
-I used to ride my bicycle to school.
-
-25. **each boy the/ the/ before/ received a/ class/ punishment/ day/ in/ yesterday**
-
-Each boy in the class received a punishment the day before yesterday.
-
-26. **please/ the/ us/ how/ know/ let/ interview went**
-
-Please let us know how the interview went.
-
-27. **must/ the/ leave/ You/ classroom immediately**
-
-You must leave the classroom immediately.
-
-28. **work/ how much/ experience/ do you have**
-
-How much work experience do you have?
-
-29. **from/ apple market/ I/ the/ brought/ some/ juice**
-
-From the market, I brought some apple juice.
-
-30. **can’t/ is/ hear anything because/ He/ he/ entirely deaf**
-
-He can’t hear anything because he is entirely deaf.
-
-31. **it is open/ holiday./ because/ is a public/ Nothing**
-
-Nothing is open because it is a public holiday.
-
-32. **I’d already/ of/ all/ my/ spent/ rupees**
-
-I’d already spent all of my rupees.
-
-33. **Is/ bottle/ any/ there/ left/ ink/ the/ in**
-
-Is there any ink left in the bottle?
-
-34. **earth/ years/ For/ man has been exploiting/ the/ many**
-
-For many years, man has been exploiting the earth.
-
-35. **to/ Taplow/ being encouraged by/ against/ Frank/ speak out/ was/ Crocker**
-
-Taplow was being encouraged by Frank to speak out against Crocker.
-
-36. **Poet began/ her/ an/ miss/ viewing/ after/ mother/ to/ image/ of her**
-
-Poet began to miss her mother after viewing an image of her.
-
-37. **been/ Ambassador/ has/ Tendulkar/ named as the Rio Olympics’ Brand/ Sachin**
-
-Sachin Tendulkar has been named as the Rio Olympics’ Brand Ambassador.
+10. **change/ law/ in/ is/ a natural/ fact**\
+    Change is, in fact, a natural law.
+11. **during/ forests/ forces/ provide cover for/ battles/ our**\
+    During battles, forests provide cover for our forces.
+12. **age/ to/ the/ under/ of/ Children/ are not permitted/ eighteen/ drive**\
+    Children under the age of eighteen are not permitted to drive.
+13. **the/ their room/ are/ boys/ lesson/ reviewing/ the/ In**\
+    In their room, the boys are reviewing the lesson.
+14. **last/ was/ the railway/ Sunday/ particularly/ platform/ busy**\
+    Last Sunday, the railway platform was particularly busy.
+15. **on the platform/ vendors with/ were/ wares/ their/ selling/ flowers/ sweet-smelling/ the**\
+    The vendors with sweet-smelling flowers were selling their wares on the platform.
+16. **board/ were unsure how they/ the/ We/ would/ train**\
+    We were unsure how they would board the train.
+17. **boarded/ they/ caution/ the train with/ However**\
+    However, they boarded the train with caution.
+18. **few/ had/ only been a/ rain/ minutes/ he/ since/ had walked/ It/ outside/ it began to/ when**\
+    It had only been a few minutes since he had walked outside when it began to rain.
+19. **die/ would rather/ up/ She/ give/ than/ her freedom**\
+    She would rather die than give up her freedom.
+20. **by/ lesson/ taught/ was/ to you/ This/ your teacher**\
+    This lesson was taught to you by your teacher.
+21. **I’m/ he’s/ sure what/ saying/ Not**\
+    I’m not sure what he’s saying.
+22. **this letter/ granddad the author of/you’re/ is**\
+    Is your granddad the author of this letter?
+23. **until/ no/ I/ him/ I had/ had/ idea/ he/ told/ won a medal**\
+    Until I told him, he had no idea I had won a medal.
+24. **to/ used/ I/ ride/ to/ bicycle/ my/ school**\
+    I used to ride my bicycle to school.
+25. **each boy the/ the/ before/ received a/ class/ punishment/ day/ in/ yesterday**\
+    Each boy in the class received a punishment the day before yesterday.
+26. **please/ the/ us/ how/ know/ let/ interview went**\
+    Please let us know how the interview went.
+27. **must/ the/ leave/ You/ classroom immediately**\
+    You must leave the classroom immediately.
+28. **work/ how much/ experience/ do you have**\
+    How much work experience do you have?
+29. **from/ apple market/ I/ the/ brought/ some/ juice**\
+    From the market, I brought some apple juice.
+30. **can’t/ is/ hear anything because/ He/ he/ entirely deaf**\
+    He can’t hear anything because he is entirely deaf.
+31. **it is open/ holiday./ because/ is a public/ Nothing**\
+    Nothing is open because it is a public holiday.
+32. **I’d already/ of/ all/ my/ spent/ rupees**\
+    I’d already spent all of my rupees.
+33. **Is/ bottle/ any/ there/ left/ ink/ the/ in**\
+    Is there any ink left in the bottle?
+34. **earth/ years/ For/ man has been exploiting/ the/ many**\
+    For many years, man has been exploiting the earth.
+35. **to/ Taplow/ being encouraged by/ against/ Frank/ speak out/ was/ Crocker**\
+    Taplow was being encouraged by Frank to speak out against Crocker.
+36. **Poet began/ her/ an/ miss/ viewing/ after/ mother/ to/ image/ of her**\
+    Poet began to miss her mother after viewing an image of her.
+37. **been/ Ambassador/ has/ Tendulkar/ named as the Rio Olympics’ Brand/ Sachin**\
+    Sachin Tendulkar has been named as the Rio Olympics’ Brand Ambassador.
 
 ## Part 3
 

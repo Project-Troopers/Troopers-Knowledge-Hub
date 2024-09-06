@@ -1,6 +1,10 @@
-# Investigatory Project
+---
+description: >-
+  Assessment: Final exam's internals. This is a year-long activity mandated by
+  the CBSE. Viva will be held.
+---
 
-> **Assessment**: Final exam's internals. This is a year-long activity mandated by the CBSE. Viva will be held.
+# Investigatory Project
 
 ## Objectives
 
@@ -14,17 +18,14 @@
 2. **Research:** This part will span throughout the entire duration of the activity, gathering ideas, presenting newspaper clippings, views etc.
 3.  **Interview/Questionnaire:** You are supposed to hold an interview or hand out a questionnaire to at least 5 people to gather their opinions on topics. The max no of responses allowed is 9. Before you perform this, you have to hand over a draft list of questions to the teacher on or before 11/10/2023 by 8:00 PM to get her approval to proceed with your work.
 
-    > > "Be sensible about sensitive issues."
+    > "Be sensible about sensitive issues." \~ Ms. Carmel Jeru Joachim (or Carmel Mani)
 
-*   Ms. Carmel Jeru Joachim (or Carmel Mani)
+\
+Do not be direct with questions that ask a person about their personal details or violate their privacy. Try to be as gentle as possible. E.g. Financial - How much do you earn per month? (Instead of asking them to fill in the exact salary, give them a scale on which they can select their income range.)
 
-    Do not be direct with questions that ask a person about their personal details or violate their privacy. Try to be as gentle as possible. E.g. Financial - How much do you earn per month? (Instead of asking them to fill in the exact salary, give them a scale on which they can select their income range.)
+The interview can be held in any language, but it must be transcribed to English before attaching it as a part of the report. Record your interviews for evidence, if possible.
 
-    The interview can be held in any language, but it must be transcribed to English before attaching it as a part of the report. Record your interviews for evidence, if possible.
-
-    Your aim will be to substantiate your claims in the essay with this exercise; along with research evidence.
-
-    E.g. of an online questionnaire:-
+Your aim will be to substantiate your claims in the essay with this exercise; along with research evidence.
 
 5.  **Report** - Consolidate a report of your findings in a single page. It can be printed out and use pie charts or bar graphs from the results of the survey. You’re supposed to take relevant data (effectively filtering out the personally identifiable data such as name etc and some basic data), type or write it out in one full side/page (both the minimum and maximum no of pages you’re allowed to use - i.e your report should cover one full side completely). Add pie charts and bar graphs from your survey results in the report.
 
@@ -53,14 +54,10 @@ This activity will contribute 5 marks to 10 marks to your final exam's internals
 
 A sample portfolio has been attached below.
 
-[Sample Cover - V2.pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/907a8f3c-56be-460d-bb74-a92686bcd04f)
+{% file src="../../../../.gitbook/assets/Sample Investigatory Project - Sugeeth Jayaraj S.A..pdf" %}
 
 ## Guide (in Voice)
 
-* For the report:
+{% file src="../../../../.gitbook/assets/Report - Audio Instructions.m4a" %}
 
-[Report.m4a](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/B50715C5-FD11-4206-8917-B247857DA667\_2/8nz13dYg7W8yLo3Uay3tL2g8qwHKE2qHUDi5EifRHS8z/Report.m4a)
-
-* For the essay:
-
-[Essay.m4a](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/781E7135-BD3D-4600-97F8-47AC08EDAFD6\_2/WeSdPpGwzHYI9KdrX3cqkZSV7bJxFVhGCi1Ljr48qx0z/Essay.m4a)
+{% file src="../../../../.gitbook/assets/Essay - Audio Insstructions.m4a" %}

@@ -1,15 +1,14 @@
-# Blueprint and Quick Plan
+# Blueprint
 
-## Blueprint
-
-| **Section A**            | **Marks**  |
+| Sections/Info            | Marks      |
 | ------------------------ | ---------- |
+| **Section A**            |            |
 | 1. Descriptive Passage   | 10         |
 | 2. Factual Passages      | 8          |
 | 3. a) Notemaking         | 5          |
 | b) Summarising           | 3          |
 | **Section B**            |            |
-| 4. Grammar               | 7/8        |
+| 4. Grammar:              | 7/8        |
 | a) Gap filling           | 4          |
 | B) Sent. Transformation  | 2          |
 | c) Sent. Rearrangement   | 2          |
@@ -26,9 +25,3 @@
 | 14. Long Answer Qs - HB  | 6          |
 | 15. Long Answer Qs - SS  | 6          |
 | **Total**                | **80 mks** |
-
-## Plan
-
-$$
-This-is-a-sample-space. \\ Ignore-me. \\ .\\ .\\ \textbf{Start} \\ \big\downarrow \\ Input: Read data \rightarrow Process 1: Analyze data \\ Decision: \\ Yes: Data is valid \\ - No: Data is invalid \\ Output: Display results \\ \textbf{Stop}
-$$

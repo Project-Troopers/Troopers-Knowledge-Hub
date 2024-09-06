@@ -1,8 +1,10 @@
+---
+description: Listening Activity 1 is considered for the Periodic Exam 2 internals
+---
+
 # Listening Activity 1
 
 [Listening | LearnEnglish Teens](https://learnenglishteens.britishcouncil.org/skills/listening)
-
-> Listening Activity 1 Considered for the Periodic Exam 2 internals
 
 ## Objective
 

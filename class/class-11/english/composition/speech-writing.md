@@ -8,4 +8,4 @@ The act of speaking serves as a tool for sharing messages with the world. It all
 
 ## Reference Material
 
-[How to Write a Speech: A Guide to Enhance Your Writing Skills](https://byjus.com/english/how-to-write-a-speech/)
+{% embed url="https://byjus.com/english/how-to-write-a-speech/" %}

@@ -1,6 +1,10 @@
+---
+description: Class 11 -> English -> Moments (Supplementary) -> The Tale of Melon City
+---
+
 # The tale of Melon City
 
-> **Author**: Vikram Seth **Date of Completion**: 12/01/2024 Supplementary Reader
+**Author**: Vikram Seth
 
 ## Poetic Devices
 
@@ -25,4 +29,4 @@ The tale of Melon City is a satirical poem with a serious underlying message. It
 * No one should ever be too placid. There’s a season to hustle, a season to rest and a season to guard what we have left.
 * POPULARITY STUNT: Times will come and go.... and a time will come when we will have to choose between doing the right thing or the easy thing (which might be popular)
 * Laissez faire: Democracy is much better than one person. having control of it all. It might be slow and can't bring speedy reforms, but provides much more stability than alternatives.
-* JUSTICE: "Right, even if everyone is against it, and wrong is wrong, even if everyone is for it"WILLIAM PENN!
+* JUSTICE: "Right, even if everyone is against it, and wrong is wrong, even if everyone is for it"- WILLIAM PENN!

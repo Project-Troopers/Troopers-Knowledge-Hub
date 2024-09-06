@@ -9,5 +9,3 @@
 ## Videos
 
 [CBSE Class 11 - Examples of Debate Writing Concepts Explained on Unacademy](https://unacademy.com/class/examples-of-debate-writing/DV9XZ2RA)
-
-## Notes

@@ -1,6 +1,11 @@
+---
+description: This is general work, with very little effect on a person's internals.
+---
+
 # Essay
 
-This is general work, with very little effect on a person's internals. Submission: July Topic: Write an essay on your views about Honesty.
+**Submission**: July \
+**Topic**: Write an essay on your views about Honesty.
 
 ## Objective
 

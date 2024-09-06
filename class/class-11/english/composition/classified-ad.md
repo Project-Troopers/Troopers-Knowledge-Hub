@@ -25,7 +25,7 @@ Ads are generally used to reach out to people, in hopes of increased social enga
 
     > **Accommodation Wanted**
 
-    > Need Accommodation near Juhu Beach. 3BHK with car parking spot, electrical back-up generator, good ventilation, water supply and free Wi-Fi. Payment by cash, card or UPI; cost payable is negotiable. Family of 5. For details, contact 90XXXXXX￼XX
+    > Need Accommodation near Juhu Beach. 3BHK with car parking spot, electrical back-up generator, good ventilation, water supply and free Wi-Fi. Payment by cash, card or UPI; cost payable is negotiable. Family of 5. For details, contact 90XXXXXXXX
 2.  **A multinational company requires a suitable candidate for the post of Store Supervisor for their newly opened showroom at Gurugram. Draft a suitable advertisement in 50 words for the classified column ‘Situation Vacant’ giving details of the requirements.**
 
     > **Situation Vacant**

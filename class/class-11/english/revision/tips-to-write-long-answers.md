@@ -1,3 +1,10 @@
+---
+description: >-
+  These tips have been compiled together from experiences and input of teachers.
+  I would personally thank Ms. Carmel Jeru Joachim for her tips, which have been
+  included here.
+---
+
 # Tips to write Long Answers
 
 {% hint style="warning" %}
@@ -82,7 +89,7 @@ In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise 
     * Conclusion and Contribution
     * Is the character the "protagonist" or "antagonist"?
 
-    > **Learning points** → What you learn from the character
+    **Learning points** → What you learn from the character
 2.  **Value-based Questions**
 
     * Development of the Character from the start to the end of the story
@@ -91,7 +98,7 @@ In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise 
     * **Connect it to the story:** Give evidence that plot/character followed this value.
     * Connect to today's society
 
-    > **Spotlight:** The tale of Melon City (Hornbill - Class 11)
+    **Spotlight:** The tale of Melon City (Hornbill - Class 11)
 3.  **Multiple characters/lessons/values**
 
     Now if a question asks us (directly or indirectly) to compare between characters or lessons or values , we must give:-
@@ -101,71 +108,79 @@ In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise 
     * link it to the present day
     * conclude (with solution if needed)
 
-    > **Spotlight:** Suppose a question asks us to explain about parenthood by drawing comparisons between the 'Father' from "Father to Son", Joe Morgan from "Birth", the 'bird' from "The Laburnum Top" and George Pearson from "Mother's Day"; we can:
+    **Spotlight:** Suppose a question asks us to explain about parenthood by drawing comparisons between the 'Father' from "Father to Son", Joe Morgan from "Birth", the 'bird' from "The Laburnum Top" and George Pearson from "Mother's Day"; we can:
 
-    * > portray the differences in parenting "styles" (for e.g. The bird vs George Pearson… The bird tends to be extremely caring while George sets an example of 'what could go wrong' if the parents do not place checks and balances on the life of kids)
-    * > discuss the concept of an "ideal parent".
-    * > shed light on the emotions experienced by parents (using examples like Joe Morgan's anticipation and anxiety before his child's birth.)
-    * > Use quotes or thought-provoking ideas (Eg: "Parents have to go beyond the call of duty to meet their children's needs.")
+    * portray the differences in parenting "styles" (for e.g. The bird vs George Pearson… The bird tends to be extremely caring while George sets an example of 'what could go wrong' if the parents do not place checks and balances on the life of kids)
+    * discuss the concept of an "ideal parent".
+    * shed light on the emotions experienced by parents (using examples like Joe Morgan's anticipation and anxiety before his child's birth.)
+    * Use quotes or thought-provoking ideas (Eg: "Parents have to go beyond the call of duty to meet their children's needs.")
 4.  **Title Justification:-**
 
     Here's a general outline:
 
-    **1st Para:** Introduction and Include the Literal Meaning **2nd Para:** Contextual Meaning **3rd Para:** Refer to context (by pulling out references) **4th Para:** Conclusion (2 to 3 lines)
+    **1st Para:** Introduction and Include the Literal Meaning \
+    **2nd Para:** Contextual Meaning \
+    **3rd Para:** Refer to context (by pulling out references) \
+    **4th Para:** Conclusion (2 to 3 lines)
 
 ### Questions
 
-1.  With the advancement of time, the education system has developed and changed so much. Do you think that the old generation feels helpless realizing it? What kind of difficulties do they face?
+<details>
 
-    > **Thinking Process:-**
+<summary>With the advancement of time, the education system has developed and changed so much. Do you think that the old generation feels helpless realizing it? What kind of difficulties do they face?</summary>
 
-    > The question includes three parts:-
+**Thinking Process:-**
 
-    1. > How has the education system changed?
-    2. > Old vs New - differences
-    3. > Difficulties faced by the elder generation in understanding the current education system.
+The question includes three parts:-
 
-    > **Plan:-**
+1. How has the education system changed?
+2. Old vs New - differences
+3. Difficulties faced by the elder generation in understanding the current education system.
 
-    1. > Use quotes. Justify that the education system has changed. NEP 2020. NCF 2023. Rote learning vs. Skill-based education.
-       * > Streams in Class 8
-       * > Improve expertise and apply
-       * > Eliminating redundant data
-       * > Soft skills… etc. Holistic development
-    2. > Old vs New Education System & People
-    3. > How will the older generation relate to this new education system? The difficulties? Take instances from “The Portrait of a Lady by Khushwant Singh”. (An average of 3 lines) Rote learning and Mug-it-up vs Skills. Eg: Khushwant Singh… and how it ends up affecting interpersonal relationships.
-    4. > Conclusion: Eg - The New Edu System has done nothing to improve the connections between the old and the new.
+**Plan:-**
 
-    > **The Detailed Plan:-**
+1. Use quotes. Justify that the education system has changed. NEP 2020. NCF 2023. Rote learning vs. Skill-based education.
+   * Streams in Class 8
+   * Improve expertise and apply
+   * Eliminating redundant data
+   * Soft skills… etc. Holistic development
+2. Old vs New Education System & People
+3. How will the older generation relate to this new education system? The difficulties? Take instances from “The Portrait of a Lady by Khushwant Singh”. (An average of 3 lines) Rote learning and Mug-it-up vs Skills. Eg: Khushwant Singh… and how it ends up affecting interpersonal relationships.
+4. Conclusion: Eg - The New Edu System has done nothing to improve the connections between the old and the new.
 
-    * > Introduction:
-      * > Start with a brief introduction about the education system and its importance in the development of individuals.
-      * > Provide a historical context highlighting the traditional methods of rote learning and its limitations.
-      * > Mention the introduction of new policies like the National Education Policy (NEP) 2020 and the National Curriculum Framework (NCF) 2023 as steps towards revamping the education system.
-    * > Changes in Education System:
-      * > Discuss the key changes brought about by NEP 2020 and NCF 2023, such as the shift towards skill-based education, promoting experiential learning, and encouraging critical thinking.
-      * > Include relevant quotes from education experts or policymakers supporting these changes.
-      * > Provide examples of how these changes have impacted different streams and subjects, emphasizing the shift from memorizing facts to understanding and applying knowledge.
-    * > Eliminating Redundant Data and Fostering Expertise:
-      * > Explain the importance of eliminating redundant data from the curriculum to focus on essential knowledge and skills.
-      * > Discuss the benefits of streamlining subjects and empowering students to develop expertise in their chosen fields.
-      * > Include examples of successful individuals who have excelled in their respective fields due to skill-based education.
-    * > Importance of Soft Skills and Holistic Development:
-      * > Highlight the significance of soft skills in the modern world and how the new education system focuses on their development.
-      * > Discuss the inclusion of activities like sports, arts, and community service for holistic development.
-      * > Provide examples of how these skills contribute to personal growth and success in various life situations.
-    * > Challenges Faced by the Older Generation:
-      * > Examine the difficulties faced by the older generation in adapting to the new education system.
-      * > Draw examples from "The Portrait of a Lady" by Khushwant Singh to illustrate the generation gap and the impact of rote learning on interpersonal relationships.
-      * > Discuss the need for bridging the gap between generations and finding common ground in education.
-    * > Conclusion:
-      * > Summarize the changes brought about by the new education system and their potential impact on society.
-      * > Acknowledge the challenges in connecting the old and the new education system.
-      * > Conclude by emphasizing the importance of continuous dialogue and understanding between different generations to facilitate a smooth transition towards a more effective and inclusive education system.
+**The Detailed Plan:-**
 
-    > **Example:-**
+* Introduction:
+  * Start with a brief introduction about the education system and its importance in the development of individuals.
+  * Provide a historical context highlighting the traditional methods of rote learning and its limitations.
+  * Mention the introduction of new policies like the National Education Policy (NEP) 2020 and the National Curriculum Framework (NCF) 2023 as steps towards revamping the education system.
+* Changes in Education System:
+  * Discuss the key changes brought about by NEP 2020 and NCF 2023, such as the shift towards skill-based education, promoting experiential learning, and encouraging critical thinking.
+  * Include relevant quotes from education experts or policymakers supporting these changes.
+  * Provide examples of how these changes have impacted different streams and subjects, emphasizing the shift from memorizing facts to understanding and applying knowledge.
+* Eliminating Redundant Data and Fostering Expertise:
+  * Explain the importance of eliminating redundant data from the curriculum to focus on essential knowledge and skills.
+  * Discuss the benefits of streamlining subjects and empowering students to develop expertise in their chosen fields.
+  * Include examples of successful individuals who have excelled in their respective fields due to skill-based education.
+* Importance of Soft Skills and Holistic Development:
+  * Highlight the significance of soft skills in the modern world and how the new education system focuses on their development.
+  * Discuss the inclusion of activities like sports, arts, and community service for holistic development.
+  * Provide examples of how these skills contribute to personal growth and success in various life situations.
+* Challenges Faced by the Older Generation:
+  1. Examine the difficulties faced by the older generation in adapting to the new education system.
+  2. Draw examples from "The Portrait of a Lady" by Khushwant Singh to illustrate the generation gap and the impact of rote learning on interpersonal relationships.
+  3. > Discuss the need for bridging the gap between generations and finding common ground in education.
+*   Conclusion:
 
-    > _The following example is AI generated. Use this only as a starting point for your answers. This example is missing a few points that would make it perfect._
+    * Summarize the changes brought about by the new education system and their potential impact on society.
+    * Acknowledge the challenges in connecting the old and the new education system.
+    * Conclude by emphasizing the importance of continuous dialogue and understanding between different generations to facilitate a smooth transition towards a more effective and inclusive education system.
+
+
+
+    ### Example
+
+    _The following example is AI generated. Use this only as a starting point for your answers. This example is missing a few points that would make it perfect._
 
     > "The education system has undergone significant changes with the implementation of the National Education Policy (NEP) 2020 and the proposed National Curriculum Framework (NCF) 2023. These reforms aim to shift the focus from rote learning to skill-based education, promoting holistic development among students.
 
@@ -178,15 +193,22 @@ In the Board exams, if you cross 75/80; then around 30 teachers will scrutinise 
     > In the story, 'The Portrait of a Lady,' we witness the consequences of a rigid education system on interpersonal relationships. The character of Khushwant Singh’s grandmother, for instance, illustrates how the reliance on rote learning can hinder the acceptance of a newer education system that can offer surprisingly better advantages. This divide between the old and the new education system reflects the challenges faced by the older generation in relating to the changing dynamics.
 
     > In conclusion, while the new education system aims to bring about positive transformations, it has yet to effectively bridge the gap between the old and the new. The difficulties faced by the older generation in adapting to the skill-based approach, as illustrated in 'The Portrait of a Lady,' highlight the need for a more inclusive and supportive transition process. It is crucial to ensure that the benefits of the new education system are experienced by all, fostering a harmonious connection between generations."
-2.  Rain gets life from and gives life back to the Earth. Human Beings should learn from nature and follow in its footsteps. Comment upon this statement with reference to the poem “The Voice of the Rain”.
 
-    > **What does the examiner expect you to talk about?**
+</details>
 
-    * > The G20 summit, the COP23 submit.
-    * > Global warming
-    * > The delicate balance between Humans, Nature and the Rain
+<details>
 
-    > **Plan: DIY**
+<summary>Rain gets life from and gives life back to the Earth. Human Beings should learn from nature and follow in its footsteps. Comment upon this statement with reference to the poem “The Voice of the Rain”.</summary>
+
+_**What does the examiner expect you to talk about?**_
+
+* The G20 summit, the COP23 submit.
+* Global warming
+* The delicate balance between Humans, Nature and the Rain
+
+**Plan: DIY**
+
+</details>
 
 {% hint style="info" %}
 **🥇 Created by a Trooper 🏆**

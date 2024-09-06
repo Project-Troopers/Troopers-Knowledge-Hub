@@ -1,6 +1,12 @@
+---
+description: >-
+  Speaking Activity 1 (Periodic Exam 2). This activity has been considered as
+  part of the Periodic Exam 2's internals, for 5 marks.
+---
+
 # Partnered Conversation
 
-> Speaking Activity 1 (Periodic Exam 2) This activity has been considered as part of the Periodic Exam 2's internals, for 5 marks. **Topic:** Importance of familial bond and friends
+**Example Topic:** Importance of familial bond and friends
 
 ## Objectives
 
@@ -20,14 +26,16 @@
 
 ## Judgement Criteria
 
-> In short…
+{% hint style="info" %}
+**In short…**
 
-1. > Interactive Competence: Imitation, amplification, turn taking, relevance (asking appropriate questions), flow of content, display of emotions
-2. > Fluency: Cohesion, coherence, speed of delivery (Don't rush or be slow.)
-3. > Pronunciation of words
-4. > Language: Grammar and Vocabulary (Choice of words, not sub-standard words)
+1. Interactive Competence: Imitation, amplification, turn taking, relevance (asking appropriate questions), flow of content, display of emotions
+2. Fluency: Cohesion, coherence, speed of delivery (Don't rush or be slow.)
+3. Pronunciation of words
+4. Language: Grammar and Vocabulary (Choice of words, not sub-standard words)
 
-> Use this as a chance to improve your vocabulary in general.
+Use this as a chance to improve your vocabulary in general.
+{% endhint %}
 
 1. **Interactive Competence:** The ability to effectively engage in a conversation with a partner, including imitation, amplification, turn taking, relevance (asking appropriate questions), flow of content, and display of emotions. Students should actively participate and contribute to the conversation.
 2. **Fluency**: The ability to speak with cohesion and coherence, maintaining a steady and appropriate pace of delivery. Students should avoid rushing or speaking too slowly, ensuring that their speech is easily understood and flows smoothly.

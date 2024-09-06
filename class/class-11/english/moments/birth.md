@@ -21,5 +21,5 @@
 
 ## Quotes to note
 
-1. > "You will never understand or truly comprehend about the sacrifices that your parents underwent to give birth to you."
-2. > "Mundane problems become insignificant in light of bigger problems which prove to be a turning point in your life."
+1. "You will never understand or truly comprehend about the sacrifices that your parents underwent to give birth to you."
+2. "Mundane problems become insignificant in light of bigger problems which prove to be a turning point in your life."

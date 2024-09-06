@@ -68,9 +68,9 @@ Answers:-
 5. (a) of (b) is (c) their (d) and (e) the (f) while
 6. (a) go (b) around (c) find (d) up (e) turned (f) were
 
-> **Notice**
+**Notice**
 
-> The materials presented above contain copyrighted content from:-
+The materials presented above contain copyrighted content from:-
 
 [LEARN ENGLISH Archives » EDUMANTRA](https://edumantra.net/learn-english)
 

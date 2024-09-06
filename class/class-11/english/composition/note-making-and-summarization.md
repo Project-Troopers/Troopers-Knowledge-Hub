@@ -32,37 +32,37 @@ Taking notes is a method of organizing and summarizing data from multiple source
 * **SUMMARISE:** Write a brief paragraph or two summarizing the main ideas and information from the notes. This is a great way to quickly review and recall the most crucial points.
 * **REVIEW:** Regularly reviewing your notes is an excellent way to ensure that you retain the most crucial information from the passage.
 
-> **Note Format example**
+{% hint style="info" %}
 
-> (Title)
+{% endhint %}
 
-> 1.1 (sub-points)
+**Note Format example**
 
-> 1.2
+(Title)
 
-> 1.3
+1.1 (sub-points)
 
-> 2.1
+1.2
 
-> 2.2
+1.3
 
-> 2.3
+2.1
 
-> 3.1
+2.2
 
-> 3.2
+2.3
 
-```
-  > 3.2.1 (sub-sub points)
+3.1
 
-  > 3.2.2
-```
+3.2\
+&#x20; 3.2.1 (sub-sub points)\
+&#x20; 3.2.2
 
-> 4.1
+4.1
 
-> 4.2
+4.2
 
-> Key to Abbreviations
+_Key to Abbreviations:_
 
 | S.No | Abbreviations | Key |
 | ---- | ------------- | --- |
@@ -72,17 +72,17 @@ Taking notes is a method of organizing and summarizing data from multiple source
 | 4    |               |     |
 | 5    |               |     |
 
-> **Summary**
+**Summary**
 
-> (Heading)
+(Heading)
 
-> –Body–
+–Body–
 
 ***
 
 ## Tips for Effective Note-Making
 
-> “It’s the quality, and not the quantity, that matters.”
+“It’s the quality, and not the quantity, that matters.”
 
 Before you begin note-making, it is essential to follow a few key steps in order to create organised and comprehensive notes. By implementing these strategies, you can ensure that your notes are elaborate, polished, and professional.
 
@@ -96,29 +96,29 @@ Before you begin note-making, it is essential to follow a few key steps in order
 
 By following these tips for effective note-making, you can ensure that your content feels more elaborate, polished, and professional in the examination. Remember to approach the process with focus and attention to detail, resulting in comprehensive and visually appealing notes.
 
-> **Example:-**
+**Example:-**
 
-> B**reakfast**
+_**Breakfast**_
 
-1.  > Introduction
+1.  Introduction
 
-    > 1.1. First meal of the day
+    1.1. First meal of the day
 
-    > 1.2. Breaks the fast of the night
-2.  > Different ways in which people break the fast
+    1.2. Breaks the fast of the night
+2.  Different ways in which people break the fast
 
-    > 2.1. North India
+    2.1. North India
 
-    > 2.2. South India
+    2.2. South India
 
-    > 2.3. Americas
-3.  > Need for a good breakfast
+    2.3. Americas
+3.  Need for a good breakfast
 
-    > 3.1. Sets the pattern for the day
+    3.1. Sets the pattern for the day
 
-    > 3.2. Gives energy
+    3.2. Gives energy
 
-    > 3.3. Rejuvenates the body
+    3.3. Rejuvenates the body
 
 In short;
 
@@ -203,7 +203,3 @@ _(**Source**: India Today - Empathy, Key to Quick Healing)_
 ### Summary
 
 Commonplace AI has found it's ways into the medical system. It helps surgeons to streamline tasks, improve operation efficiencies and simplify complex procedures. However, there are new challenges posed by AI. They are the ever-growing threats of privacy, medial and ethical errors. So, the need of the hour is to shift our understanding as using AI as helpers, not as the ones in-charge. Human-AI interface, knowledge-handler and communicators can help alleviate some of these concerns, since AI works logically while humans rely on emotions and observe behavioural patterns. Its faster processing comes with the cost of reduced accuracy, safety and stunted creativity, qualities which are needed on the operating table to save human lives. Due to this, people do not trust AI with their life. It is imperative to note that AI can detect minor overlooked errors in operations, but mechanical and human errors are still possible, potentially costing a lot of lives. Thus, humans must be in the driver's seat when it comes to taking decisions in medical scenarios.
-
-> **← Troopers Knowledge Hub**
-
-> Wanna go back to the home page, but lost your way? Click above to return.

@@ -1,6 +1,10 @@
-# Debate
+---
+description: >-
+  English PE 3 Internals. This is a group activity, where you will be
+  individually analyzed and assessed.
+---
 
-> English PE 3 Internals This is a group activity, where you will be individually analyzed and assessed.
+# Debate
 
 ## Objectives
 

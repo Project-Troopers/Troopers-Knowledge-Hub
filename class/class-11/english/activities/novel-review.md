@@ -1,6 +1,10 @@
+---
+description: Speaking Skill Activity - 2; due in the month of January, after PE 3
+---
+
 # Novel Review
 
-> Speaking Skill Activity - 2 Due in the month of January, after PE 3
+
 
 ## Directives
 

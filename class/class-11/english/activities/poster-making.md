@@ -1,6 +1,10 @@
-# Poster Making
+---
+description: >-
+  In-class fun activity with no specified submission date. Submit on the day of
+  preparation.
+---
 
-> In-class fun activity No specified submission date. Submit on the day of preparation.
+# Poster Making
 
 ## Objective
 

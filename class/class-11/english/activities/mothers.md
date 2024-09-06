@@ -1,6 +1,13 @@
-# Mothers
+---
+description: Appreciating her...
+---
 
-> **Submission Date**: 05/10/2023 (Thursday) **Topic**: Celebrating the Uniqueness of Mothers **Related Lesson:** Birth (Supplementary Reader)
+# A poem about your Mother
+
+{% hint style="success" %}
+**Topic**: Celebrating the Uniqueness of Mothers \
+**Related Lesson:** Birth (Supplementary Reader)
+{% endhint %}
 
 ## Objectives
 

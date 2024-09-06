@@ -1,3 +1,7 @@
+---
+description: by Khushwant Singh
+---
+
 # The Portrait of a Lady
 
 ## Vocabulary
