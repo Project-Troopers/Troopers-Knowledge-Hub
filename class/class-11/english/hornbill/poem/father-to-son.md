@@ -1,6 +1,8 @@
-# Father to Son
+---
+description: 'Author: Elizabeth Jennings'
+---
 
-> **Author**: Elizabeth Jennings **Date of Completion**: 12/01/2024 _a Poem from The Hornbill_
+# Father to Son
 
 **Rhyming Scheme**: abc aba abb aba
 
@@ -18,24 +20,14 @@
 
 ## Summary
 
-* The Father does not seem to understand the child, even though they've been living in the same house for years.
-  * The Father tries to rekindle/rebuild his relationship with his son by use his reminiscent memories of old activities they used to perform together when they were younger, but it turned out to be counter-intuitive and instead drew the son further away from him. E.g.: buying strawberry ice cream
+*   The Father does not seem to understand the child, even though they've been living in the same house for years.
 
-![](https://th.bing.com/th/id/OIG3.v2dC8JoKrxqpbTgqbAq6?pid=ImgGn)
+    * The Father tries to rekindle/rebuild his relationship with his son by use his reminiscent memories of old activities they used to perform together when they were younger, but it turned out to be counter-intuitive and instead drew the son further away from him. E.g.: buying strawberry ice cream
 
-![\_8889fdc3-bba0-4808-ba0c-039f61e12ed6.jpeg](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/31475da6-d54f-4973-9a7c-e688849c0b85)
-
+    <figure><img src="../../../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 * The Father then tries to find the original "seeds" (may refer to ideas, qualities, resourcefulness etc) that he sowed into the child but couldn't find its fruits; maybe due to the fact that the Son isn't allowing the Father to reap the fruits of his labor.
 * The Father feels that they talk like strangers; and they don't share anything they like in common anymore; even though the child is built to the design of his father. (Here, note that the father does not understand that he can't force everything onto the child, they they both are individuals with unique characteristics.)
-
-![Image.jpeg](https://th.bing.com/th/id/OIG1.iMTyv06cPQLNCZG1xpVO?w=1024\&h=1024\&rs=1\&pid=ImgDetMain)
-
-![](https://th.bing.com/th/id/OIG1.eUSK3d8tEPkZ0ZJAWAtH?pid=ImgGn)
-
 * The father wishes that his son would rather be prodigal _(refer the story of "The Prodigal Son"… which tends to draw comparison between a model son and a loafer)_ than feel the chasm or space between them or worse; moving out of the house completely. He would rather shape a new bond of love from the sorrow they had faced rather than them losing touch entirely.
-
-![Image.jpeg](https://th.bing.com/th/id/OIG2.Sb4wC4sbOTVYz45uckUD?w=1024\&h=1024\&rs=1\&pid=ImgDetMain)
-
 * In the end, both the Father and the son must live on the same globe, on the same land; they will meet each other someday at some point in time. But time will not always be on their side.
 * Both try to speak to each other in their own understanding; which the other party can not understand.
 * Subsequently, this has led to the duo longing for something forgive and put out an empty hand to each other.
@@ -49,8 +41,10 @@
 * This longing for something to forgive, where there is nothing to forgive, suggests some kind of dignity, pride or trust issues.
 * The son also needs to understand, however, that his father would have gone through the same stages that he did, and that he would, in fact, attempt to understand what is happening.
 
-> **::🥇 Created by a Trooper 🏆::**
+{% hint style="info" %}
+**🥇 Created by a Trooper 🏆**
 
-> The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images, and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
+The above content has been crafted by experienced troopers in collaboration with AI to generate the accompanying images and iron out a few kinks in the process. We assure you that the content provided here is distinctive, pushing the boundaries of uniqueness as far as possible.
 
-> written and claimed by [Sugeeth Jayaraj Samala Augustine](craftdocs://users?id=b8b89018-aef2-86a2-127d-5e07bf8933bc) on February 13, 2024.
+_claim by_ [_Sugeeth Jayaraj Samala Augustine_](https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2) _on February 13, 2024._
+{% endhint %}

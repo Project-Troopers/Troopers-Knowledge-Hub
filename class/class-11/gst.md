@@ -29,49 +29,6 @@ Hello guys, and here we are, at the General Studies Section of the Knowledge hub
    * 10-letter words related to the classroom
 9. Nation Building - Constitution - Students will be asked to stage a parliament session, with a debate on in-house laws. The laws to be debated are mostly recent, to b inform by an appointed student. (Class Activity - TBH 10/1/2024)
 
-## Teams
-
-* **Team 1**
-  * L R Laura Cynthia (Captain)
-  * Neysa Krystin Ebinezer
-  * Rithvini
-  * Ishana Santhosh
-  * M Faheema Nasrin
-  * Amirthavalli
-  * M Sadiya Noushin
-* **Team 2**
-  * F Sushil Austin
-  * K.S Harshavardhan
-  * Kaushik
-  * Joseph Obed
-  * Deepan Sai
-  * H Mithul
-  * J Inbarasu
-* **Team 3**
-  * Nishanth Prabu
-  * Salman (Captain)
-  * Shashank
-  * Eugene Theodora
-  * Lathika
-  * Nicholas Roshan
-* **Team 4**
-  * Nikhel Joseph (Captain)
-  * Vishal
-  * Lakshitha Ramanesh
-  * Geesha
-  * Keyona Joseph
-  * Riya Roopesh
-  * Sharon Stephen
-* **Team 5**
-  * L Kevin Daniel (Captain)
-  * Sugeeth Jayaraj S.A.
-  * Rudran
-  * Kevin Adam
-  * Danish Anto
-  * Joseph Sam Nino
-  * M Mohammed Sameer Hussain
-  * J Joshua Samuel
-
 ## Features
 
 * Internally assessed for the Boards, total of 100 marks.
@@ -93,8 +50,8 @@ Hello guys, and here we are, at the General Studies Section of the Knowledge hub
 
 ## More details
 
-[General Studies - Curriculum for Year 2023 to 2024.pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/0017cbfb-701e-01e6-42e7-0de0091e2c9e/3Bv3aQ1Mt5ZG8ZzaRHhJbeirCD8SYXtcXYrCsTgyl1Mz/General%20Studies%20-%20Curriculum%20for%20Year%202023%20to%202024.pdf)
+{% file src="../../.gitbook/assets/General Studies - Book for Class 11 and 12.pdf" %}
 
-[General Studies - Book for Class 11 and 12](https://cbseacademic.nic.in/web\_material/CurriculumMain22/internal\_assement/General\_Studies.pdf)
+{% file src="../../.gitbook/assets/General Studies - Curriculum for Year 2023 to 2024.pdf" %}
 
 ***

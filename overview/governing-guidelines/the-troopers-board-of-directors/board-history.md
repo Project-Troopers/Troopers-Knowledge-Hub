@@ -1,6 +1,6 @@
 ---
-description: The History of decisions taken by the board of directors, and related events.
 icon: list-timeline
+description: The History of decisions taken by the board of directors, and related events.
 coverY: 0
 layout:
   cover:
@@ -386,7 +386,7 @@ The speaker is discontinuing (sunsetting) the current "Psychology" group of the 
 
 Once again, an invitation is being extended to all individuals who possess materials or have an interest in contributing to the Troopers Hub. It is requested that volunteers actively maintain various sections such as "Psychology", "Computer Science", "Announcements", and "Homework", among others. Contributions ranging from graphic designing, physical drawings, materials, videos, and software-related skills (like API versioning, endpoints, etc) will be highly appreciated. A poll was posted to gauge interest and availability.
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (1).png>)
 
 </details>
 
@@ -400,7 +400,7 @@ After a small problem involving an non-participating party, the description of t
 
 This is the old description of the WhatsApp Doubt Group.
 
-<img src="../../../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 The new description has been given below.
 

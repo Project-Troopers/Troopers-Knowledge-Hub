@@ -1,14 +1,18 @@
+---
+description: 'Author of the poem: Markus Natten; a Poem from The Hornbill'
+---
+
 # Childhood
 
-> #### **📢 Photo-seizure content warning**
+{% hint style="danger" %}
+**Photo-seizure content warning**
 
-> This is a `Class Action Notice Box, Type A (CANB-A)`. Do not remove this Notice box, if you don’t have the required access level. ([Learn why.](craftdocs://open?blockId=82E22F22-B1CA-4F7F-AFED-3C5B66B86947\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c))
+This is a `Class Action Notice Box, Type A (CANB-A)`. Do not remove this Notice box, if you don’t have the required access level. ([Learn why.](craftdocs://open?blockId=82E22F22-B1CA-4F7F-AFED-3C5B66B86947\&spaceId=34ae8ebc-d508-7305-20e2-17e06364862c))
 
-> This article contains disturbing text and graphic content that can cause a seizure for people diagnosed with certain medical condition or if you are generally prone to seizures. Please avoid scrolling down if you are not willing to accept the risks posed by the content below. We will not be held responsible for any damage caused what so ever.
+This article contains disturbing text and graphic content that can cause a seizure for people diagnosed with certain medical conditions or if you are generally prone to seizures. Please avoid scrolling down if you are not willing to accept the risks posed by the content below. We will not be held responsible for any damage caused what so ever.
 
-> by S[ugeeth Jayaraj Samala Augustine ](craftdocs://users?id=b8b89018-aef2-86a2-127d-5e07bf8933bc), with immediate effect.
-
-> **Author of the poem**: Markus Natten _a Poem from The Hornbill_
+by [Sugeeth Jayaraj Samala Augustine](https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2), with immediate effect.
+{% endhint %}
 
 ## Prequel to the poem
 
@@ -22,11 +26,9 @@ Every person goes through different stages of life. They are:-
 
 We tend to chuck morals in during childhood. Until then, the person is oblivious to the surroundings and in essence, is very "innocent".
 
-> The process of growing up involves us losing our innocence.
+The process of growing up involves us losing our innocence.
 
-> "All the words on the stage… and we're merely just actors."
-
-* Shakespeare
+> "All the words on the stage… and we're merely just actors." \~ Shakespeare
 
 Each person tends to play, study, work, travel and settle in a place for life.
 

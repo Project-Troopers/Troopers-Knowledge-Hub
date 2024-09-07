@@ -2,17 +2,11 @@
 
 Welcome to the Computer Science section! In this course, we will explore the fascinating world of computers, their components, and the principles that govern their functioning. Computer Science is the scientific study of computers and their applications, which play a crucial role in our daily lives. Whether it is the software that powers our smartphones or the algorithms that drive the internet, understanding the underlying concepts of computer science is essential.
 
-[Kevin Daniel](craftdocs://users?id=01407a62-1739-6bfe-3bf1-18c2098bca9f), [Craft User](craftdocs://users?id=820dd98e-9f09-f34a-92ca-c363b8b31dbc), [Harsha Vardhan](craftdocs://users?id=4d951f70-fcf5-acbb-fbf8-545785da440e) and [Deepan SaI](craftdocs://users?id=5ce369d5-9030-3396-e377-626a99465ad3) will take care of this section.
-
 [CBSE Computers 2023-2024 Curriculum.pdf](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/bcebbf97-168c-fc90-e430-5eb46e6375df/r4Tax4XSBfrmyUy04QilNpjucTCLcTJZcVZ5YYPKIx0z/Files%20from%20iOS.pdf)
-
-## Lessons
-
-[Harsha Vardhan](craftdocs://users?id=4d951f70-fcf5-acbb-fbf8-545785da440e) please fill this space up.
 
 ## Some good materials
 
-[Encryption, hashing, salting: What's the difference and how do they work](https://www.comparitech.com/blog/information-security/encryption-hashing-salting/)
+{% embed url="https://www.comparitech.com/blog/information-security/encryption-hashing-salting/" %}
 
 ## Revision
 
@@ -76,7 +70,7 @@ document.body.appendChild(jsZip);
 
 ## Record work
 
-The following are the programs to be written in the record and submitted on reopening day (18/01/2024):
+The following are the programs to be written in the record and submitted:
 
 *   Record Entry no. 4
 
