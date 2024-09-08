@@ -14,11 +14,19 @@ They are bound to follow the laws applicable to JPR bodies; and each member of t
 
 ### Who are we?
 
-We are the top administrative unit of Project Troopers. Our aim is to make the day-to-day decision that are related to the running of this project.
+The Board was originally created by the First Brigadier Regiment when they sanctioned the **2nd year of official operations** of this project; through an internal vote. _(Back then, they were considered the core group of Project Troopers and thus all decisions were run through by them, even when the Project expanded to accommodate a 2nd group.)_&#x20;
+
+The Board is the top administrative unit of Project Troopers. &#x20;
+
+**Our job**? To ensure that the members of Project Troopers do not get burdened with the official matters of this Project; like administration, issues etc.&#x20;
+
+As the Project expanded to accommodate others too, the first session of the Board voted to put the Governing Guidelines into force by approving the Legal Stature of Project Troopers; which is a core group of documents that set some basic rules and establishes some protections for the Project, effectively creating a _model baseline for all Project members_.
 
 ### Are we too powerful?
 
 In a sense, during the initial days of our existence, we were, and would have been truly powerful to put in place a proper structure to the Project. However, we are still accountable to the members of the project and, and recently, the ArbCom.
+
+Our principle is to allow the members of the Project to be able to create and maintain elements of the Project on their own, as a community. **Our community is our greatest asset.** We are an extension of the community.
 
 ### What gives our authority?
 
@@ -27,6 +35,8 @@ Our legal basis and authority comes from [our-legal-stature.md](../our-legal-sta
 However, we existed long before the legal stature and the governing guidelines were in force. (Actually, we were the ones who formulated these guidelines themselves.) During those times, it was the immense faith and trust that our project members had in us that helped us to exist and gave us the power to diligently carry out the admin work of Project Troopers.
 
 ## Directors in the Board
+
+The directors are nominees / admins who have been selected by the people or the CIC to lead the Project. They will have control over all the decisions of the Project's administrative matters. These directors will then constitute the Troopers Board of Directors, which has the power to halt, proceed, change, allow or deny any administrative decision before they are put into action.&#x20;
 
 There can be a maximum of 15 directors. Each director is entitled to full administrator rights over the Project Admins, and can request for admin rights to a particular section as and when required. The directors of the Second Session of the Board of Directors are:
 
@@ -37,7 +47,7 @@ There can be a maximum of 15 directors. Each director is entitled to full admini
 * **B Hari Karthik** (aka **TOPPER**)\
   _representative of the Second Brigadier Regiment_
 * **Abdul Hafeez Ali**\
-  _representative of the Third and Fourth Brigadier Regiment_
+  _representative of the Fourth Brigadier Regiment_
 * **Nithin Antonio Dominic**\
   _representative of the Subedars Common Division (Class 11 operations)_
 * **Joanna**\
@@ -57,6 +67,8 @@ The election of a member to the board will follow a standard procedure, as desig
 ## Procedures of the Board
 
 This section will constitute the laws and decision that the board takes to improve its structure, as enshrined by the Legal Stature.
+
+A separate Board protocol page to be released soon.
 
 ### Introduction (and essence)
 
