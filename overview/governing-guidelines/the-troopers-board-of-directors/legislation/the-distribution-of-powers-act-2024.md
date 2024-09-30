@@ -4,8 +4,6 @@ description: approved as a part of the "Combined Bills of Passage" package.
 
 # The Distribution of Powers Act, 2024
 
-### PROJECT TROOPERS - GOVERNING GUIDELINES
-
 _Drafted and introduced to the Board by Sugeeth Jayaraj S.A., the liaison to the Board from the Election Committee and original founder of Project Troopers; on June 1, 2024 as applicable to the guidelines and laws in force on that date. It includes the ideas arrived at during the consensus meetings. Implemented via the means of Board Resolution #0010._
 
 ### Introduction
@@ -13,7 +11,7 @@ _Drafted and introduced to the Board by Sugeeth Jayaraj S.A., the liaison to the
 1. This act will be called “**The Distribution of Powers Act, 2024**”. The designated shorthand for this act will be the “**DOPA 2024**”. This act has come into effect and has been incorporated into the Governing Guidelines by the means of Resolution #0010.
 2. This act will deal with the distribution of powers and responsibility in Project Troopers, as envisioned by the Legal Stature; expanding upon the substance of the separation of powers.
 3. This act is binding on the **members and structure of Project Troopers**, as enshrined and empowered by the Legal Stature.
-4. In this act, the term the “CIC” refers to the office of the Collaborator In-Charge, which may be occupied by single or multiple directors.
+4. [In this act, the term the “CIC” refers to the office of the Collaborator In-Charge, which may be occupied by single or multiple directors. \[1\]](#user-content-fn-1)[^1]
 5. _This act will be protected by the **AP86 provision** within this act._ The Election Committee, Board or the ArbCom can recommend amendments to this act.
 6. Any changes to this act shall only be applicable after 3 weeks from the date of amendment.
 7. The provisions enclosed in this act shall apply to any currently ongoing event that is happening at that time, even if a future amendment is made to this act.
@@ -29,7 +27,7 @@ _Drafted and introduced to the Board by Sugeeth Jayaraj S.A., the liaison to the
 7. The office will be the executive head and representative head of Project Troopers to the outside world.
 8. They will have the highest form of clearance and access to all parts of the Project, unless they reject a particular aspect of the clearance or if the Board decides to remove aspects of their clearance.
 9. A maximum limit of only 3 members can hold the office at the same time. In the case of multiple bearers, they all must sign and agree on all the decisions they take on behalf of the office.
-10. Only 33% of the Board can hold the office at the same time.
+10. [Only 33% of the Board can hold the office at the same time. \[2\]](#user-content-fn-2)[^2]&#x20;
 11. All actions taken by the office should be clearly documented with proper evidence and published under the respective page of the office in the Governing Guidelines.
 
 #### Joint Protection and Restrictions
@@ -109,3 +107,15 @@ The details and proceedings must be properly documented in the Troopers Knowledg
 2. **Any reasonable restriction**: These restrictions must be within the purview of Project Troopers and can be appealed by the impeached member in front of the ArbCom or the EGM. The ArbCom or the EGM can decide to relax, strengthen and/or remove the restrictions.
 
 **End of the Act.**
+
+***
+
+_This page is part of a series of guidelines that govern Project Troopers. Do not take these laws lightly._
+
+[^1]: This clause does not mean, however, that "only directors should occupy the office of the CIC". The Legal Stature of Project Troopers, while it gives the CIC the "level" of ownership, director, and [#the-ca-a-pass](../../editorial-code-of-conduct.md#the-ca-a-pass "mention"); it does not make them "director"-per-se nor "owner"-per-se. Rather, the post automatically bestows upon them powers **similar** to that of a director, or owner; which is required to ensure that the office-bearer can execute his duties without hinderance. (_interpreted from the **Consensus #0011 )**discussions, which was adopted._\
+    _**Refer the Board of Directors'**_ [board-history.md](../board-history.md "mention") for more details.
+
+[^2]: The Second Session of the Board of Directors, after much deliberation, have decided to interpret this clause officially as "`if members of the Board wish to hold the post, no more than 33% of the Board’s members would be allowed to hold the post at the same time`". \
+    \
+    (_via **consensus decision #0011.**_\
+    Refer [board-history.md](../board-history.md "mention") for more details.)
