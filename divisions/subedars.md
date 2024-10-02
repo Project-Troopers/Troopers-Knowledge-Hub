@@ -1,5 +1,5 @@
 ---
-description: of Project Troopers (Batch 2)
+description: of Project Troopers (Batch 2) - Reserved for Class 11 batch of 2023
 cover: ../.gitbook/assets/Subedar.jpg
 coverY: 0
 ---

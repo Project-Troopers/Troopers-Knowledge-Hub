@@ -65,6 +65,12 @@ We are self-governed by a set of guidelines, applicable to all viewers and contr
 [governing-guidelines](governing-guidelines/)
 {% endcontent-ref %}
 
+The core document of the Governing Guidelines is the Legal Stature, which is the base that provides us with a basic framework and gives us a set of legal protections.
+
+{% content-ref url="governing-guidelines/our-legal-stature.md" %}
+[our-legal-stature.md](governing-guidelines/our-legal-stature.md)
+{% endcontent-ref %}
+
 If you have any doubts, please ask us, and we will help you. Thank you for joining Project Troopers!
 
 ***

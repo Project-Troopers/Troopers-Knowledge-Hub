@@ -200,7 +200,7 @@
 * [✨ Governing Guidelines](overview/governing-guidelines/README.md)
   * [Our Legal Stature](overview/governing-guidelines/our-legal-stature.md)
   * [Technical Guideline to the Hub](overview/governing-guidelines/technical-guideline-to-the-hub.md)
-  * [Arbitration Committee (ArbCom)](overview/governing-guidelines/arbitration-committee-arbcom.md)
+  * [⚖️ Arbitration Committee (ArbCom)](overview/governing-guidelines/arbitration-committee-arbcom.md)
   * [Editorial Code of Conduct](overview/governing-guidelines/editorial-code-of-conduct.md)
   * [Life cycle Policies](overview/governing-guidelines/life-cycle-policies.md)
   * [🎩 The Troopers Board of Directors](overview/governing-guidelines/the-troopers-board-of-directors/README.md)
@@ -260,6 +260,7 @@
     * [📢 Announcements](divisions/brigadiers/the-second-brigadier-regiment/announcements/README.md)
       * [Latest Reminders (SBR)](divisions/brigadiers/the-second-brigadier-regiment/announcements/latest-reminders-sbr.md)
       * [February 2024](divisions/brigadiers/the-second-brigadier-regiment/announcements/february-2024.md)
+  * [The Third Brigadier Regiment](divisions/brigadiers/the-third-brigadier-regiment.md)
   * [The Fourth Brigadier Regiment](divisions/brigadiers/the-fourth-brigadier-regiment.md)
 * [🪖 Subedars](divisions/subedars.md)
 

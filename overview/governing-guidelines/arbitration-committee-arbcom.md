@@ -1,8 +1,8 @@
-# Arbitration Committee (ArbCom)
+# ⚖️ Arbitration Committee (ArbCom)
 
 ### What is the Arbitration Committee?
 
-Empowered by the Legal stature, the ArbCom is an independent wing of Project Troopers that acts as a court of last resort, i.e it’s job is to hear cases, and decide upon them using the powers granted to it.
+Empowered by the Legal stature, the ArbCom is an independent wing of Project Troopers that acts as a court of last resort for internal disputes within Project Troopers, i.e. it’s job is to hear cases, and decide upon them using the powers granted to it.
 
 ### Inspiration
 
@@ -10,4 +10,17 @@ We are modelled after the Indian Constitution’s powerful Judiciary and the Eng
 
 ### Are we in force yet?
 
-Nope, but we plan to come into force soon… as soon we create our own structure by the power vested in us.
+Yes, we are in force from Spetember 11, 2024. Our members are as follows:-
+
+1. **Prasanna Jeyaselva**\
+   _Head, Arbitration Committee_\
+   **Home Regiment**: The Third Brigadier Regiment
+2. **Jehana**\
+   _Asst Head, Arbitration Committee_\
+   **Home Regiment**: The Fourth Brigadier Regiment
+3. **Divyan**\
+   _Selected Arbitrator_\
+   **Home Regiment**: The Fourth Brigadier Regiment
+4. **Pranvi**\
+   _Selected Arbitrator_\
+   **Home Regiment**: The Fourth Brigadier Regiment

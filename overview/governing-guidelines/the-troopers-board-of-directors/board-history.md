@@ -27,6 +27,38 @@ _This Board session is officially in session._
 
 <details>
 
+<summary>Consensus Discussion #0011: Selecting the CIC and Group Operations</summary>
+
+_September 28, 2024 @ 07:48 PM_
+
+**Objective**: To discuss and select the next CIC of Project Troopers, and start an orientation session for the directors
+
+**Things to discuss on the Agenda:-**
+
+* To introduce the directors to each other and ensure that they are given proper guidance on the Project's structure (more like an Orientation session).
+* To constitute the Office of Legal Consult and appoint the office bearer.
+* To see how we can improve the current technical implementations of the Hub (including the Website, Group etc).
+* To appoint members to the Department of IT on a preliminary basis.
+* To elect the new head(s), i.e the CICs, of Project Troopers
+
+_Raised by the liaison from the Election Committee; Sugeeth Jayaraj S.A._
+
+**Consensus formulated:-**
+
+1. To not post the link to the Google Drive backend in the groups to avoid DMCA takedown requests, and to ensure that there is high volume of activity in the group. _(introduced as Deepan and Harshavardhan believed that there was less activity in the core group.)_
+2. To emphasise that the IT Manager must find alternatives to the current Google Drive storage system in order to ensure continued access to materials. _(suggested by Sugeeth, the liaison from the TEC)_
+3. To adopt the interpretation of Clause 10 of the “Office of the CIC” section in the DOPA 2024 Act as “if members of the Board wish to hold the post, no more than 33% of the Board’s members would be allowed to hold the post at the same time”.
+4. To approve Sugeeth Jayaraj S.A., head of election committee, to concurrently take up the position of **“CIC of Project Troopers”** as under the DOPA 2024, TECRR 2024 and the Legal Stature of Project Troopers. \
+   **Adopted Justification:** The CIC does not need to be a _director-per-sé_, he just gains the level of ownership, director, and a CA-A pass, where the word “**level**” refers to a post with similar powers. And the TECCR only does not allow the Election Committee head to be a “director”. So he is allowed to hold the top office of CIC.
+
+_There were no objections to the above consensus from any director._\
+_The Project Troopers' related legislation pages and documentation has been updated to abide to the directives of the Board._\
+_Other internal discussions have been omitted, as they are not relevant._
+
+</details>
+
+<details>
+
 <summary>Start of the 2nd Board Session</summary>
 
 _From September 02, 2024 @ 12:00 AM_
@@ -213,7 +245,7 @@ _April 28, 2024_
 
 A resolution was passed that includes the following points:
 
-* To allow a member from the election committee to stay as a liaison between the board and election committee. This will invariably mean that they will have to be part of this group, but they won't be a director. They would somewhat close to an advisor, who can request or initiate proposal in the group, but can't vote on them.
+* To allow a member from the election committee to stay as a liaison between the board and election committee. This will invariably mean that they will have to be part of this group, but they won't be a director-per-se. They would somewhat close to an advisor, who can request or initiate proposal in the group, but can't vote on them. They will have the powers of a director, without voting powers.
 * To extend the timeframe to conduct the election for the next replacement director and put the responsibility of conducting the election on the election committee instead of Sugeeth, the caretaker CIC (as his caretaker period will end today night at 11:59 PM)
 * To give the election committee the power to appoint any member of Project Troopers to itself (and invariably make them as administrators).
 * To allow the election committee head to have admin access to all the groups and works of Project Troopers.
