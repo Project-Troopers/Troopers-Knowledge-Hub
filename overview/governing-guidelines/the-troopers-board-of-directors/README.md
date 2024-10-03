@@ -64,7 +64,6 @@ There can be a maximum of 15 directors. Each director is entitled to full admini
    _**Head of the Election Committee**_\
    Temporary Manager of IT operations\
    _has voting rights and director-level powers._\
-   _Liaison from the Election Committee (until October 1, 2024 11:59 PM)_\
    _Liaison from the Office of the CIC (from September 29, 2024)_
 2. **Faheema Nasrin**\
    **Asst. Head of Election Committee**\
