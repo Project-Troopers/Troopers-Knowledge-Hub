@@ -6,7 +6,7 @@ description: by the First Brigadier Regiment
 
 {% hint style="info" %}
 **Introducing The Corridor Initiative**: Unleashing Brain Power!\
-_Celebrating the 2nd year of the running initiative!_
+&#xNAN;_&#x43;elebrating the 2nd year of the running initiative!_
 {% endhint %}
 
 Step into the world of imagination, creativity, and learning with The Corridor Initiative – a one-of-a-kind fortnightly newsletter filled with exciting brain-boosting activities! Imagine a corridor lined with colorful, interactive challenges aimed at expanding your knowledge and skills. That's the inspiration behind our name and our mission!

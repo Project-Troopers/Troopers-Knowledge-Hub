@@ -17,27 +17,27 @@ We are modelled after the Indian Constitution’s powerful Judiciary and the Eng
 Yes, we are in force from Spetember 11, 2024. Our members are as follows:-
 
 1. **Prasanna Jeyaselva**\
-   _Head, Arbitration Committee_\
+   &#xNAN;_&#x48;ead, Arbitration Committee_\
    **Home Regiment**: The Third Brigadier Regiment
 2. **Jehana**\
-   _Asst Head, Arbitration Committee_\
+   &#xNAN;_&#x41;sst Head, Arbitration Committee_\
    **Home Regiment**: The Fourth Brigadier Regiment
 3. **Divyan**\
-   _Selected Arbitrator_\
+   &#xNAN;_&#x53;elected Arbitrator_\
    **Home Regiment**: The Fourth Brigadier Regiment
 4. **Pranvi**\
-   _Selected Arbitrator_\
+   &#xNAN;_&#x53;elected Arbitrator_\
    **Home Regiment**: The Fourth Brigadier Regiment
 
 **Liaisons**:
 
 1. **M. Faheema Nasrin**\
    Asst. Head, Election Committee\
-   _Liaison from the Election Committee_\
+   &#xNAN;_&#x4C;iaison from the Election Committee_\
    This liaison has the powers of the arbitrator, without voting powers.
 2. **Sugeeth Jayaraj S.A.**\
    **CIC of Project Troopers (Second Term)**\
-   _**Head of the Election Committee**_\
+   &#xNAN;_**Head of the Election Committee**_\
    Temporary Manager of IT operations\
-   _has voting rights and director-level powers._\
+   &#xNAN;_&#x68;as voting rights and director-level powers._\
    _Liaison from the Office of the CIC (from September 29, 2024)_

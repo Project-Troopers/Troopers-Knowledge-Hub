@@ -6,9 +6,25 @@ description: >-
 
 # 🎯 Executive Directives of the CIC
 
+These executive directives are under VIDE (Very Important Directives of the Executive) status.
+
 ### Second Term of Sugeeth Jayaraj S.A.
 
 _From September 29, 2024 @ 06:36 PM IST till September 29, 2025; 06:36 PM IST (expected)_
+
+<details>
+
+<summary>Executive Directive #0002: Reiteration of Vision of Project Troopers</summary>
+
+_October 10, 2024 - 06:31 PM IST_
+
+As the CIC, it is my duty to inform everyone to transform the archived materials on the Jugzards backend into more useful educational information. Though we will, and should, maintain all the materials on the archive for future citation reference, we must use those materials as inspiration to create/transform our educational pages (as a non-profit) into better versions of themselves.
+
+E.g. Our English Materials for Class 11 is really good as it contains original work and inspiration from other sources, it's really good
+
+_This is an reiteration of our vision._
+
+</details>
 
 <details>
 

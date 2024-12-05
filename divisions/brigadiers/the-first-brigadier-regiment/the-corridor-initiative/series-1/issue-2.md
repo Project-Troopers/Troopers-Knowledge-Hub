@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 **Status**: Published\
-_AKA The Failure/Neon Edition_
+&#xNAN;_&#x41;KA The Failure/Neon Edition_
 {% endhint %}
 
 ## Contributors:

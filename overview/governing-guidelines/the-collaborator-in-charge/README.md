@@ -7,14 +7,14 @@ description: The official page for the office of the CIC of Project Troopers.
 {% hint style="info" %}
 **Position is being currently held by Sugeeth Jayaraj S.A.**\
 **CIC of Project Troopers (Second Term)**\
-_**Head of the Election Committee**_\
+&#xNAN;_**Head of the Election Committee**_\
 Temporary Manager of IT operations\
-_has voting rights and director-level powers._
+&#xNAN;_&#x68;as voting rights and director-level powers._
 {% endhint %}
 
 The CIC is the representative _de-jure_ head of Project Troopers. He has level of Ownership, director and a CA-A pass. He has the power to decide upon the administrative matters of the Knowledge Hub, but not without the knowledge and approval of the Board of directors.
 
-As the head, he responsible for running the executive of Project Troopers. As such, he can pass executive directives to ensure that the Project continues running properly. He automatically has access to all operations and is a liaison on all bodies of Project Troopers.
+As the head, he responsible for running the administration (executive) of Project Troopers. As such, he can pass executive directives to ensure that the Project continues running properly. He automatically has access to all operations and is a liaison on all bodies of Project Troopers.
 
 {% content-ref url="executive-directives-of-the-cic.md" %}
 [executive-directives-of-the-cic.md](executive-directives-of-the-cic.md)
@@ -39,7 +39,7 @@ As the head, he responsible for running the executive of Project Troopers. As su
 {% hint style="info" %}
 **Position is being currently held by Deepan Sai**\
 **Deputy CIC of Project Troopers (First Term)**\
-_has voting rights and director-level powers._
+&#xNAN;_&#x68;as voting rights and director-level powers._
 {% endhint %}
 
 The Deputy of the CIC shares the same burdens, restrictions and powers as that of the CIC, however there will be a few changes:-

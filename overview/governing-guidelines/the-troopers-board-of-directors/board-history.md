@@ -23,11 +23,132 @@ layout:
 ### Second Board Session
 
 _From September 02, 2024 till March 01, 2024 (proposed)_\
-_This Board session is officially in session._
+_This Board session is officially in session._\
+_Orange indicates that the activity is currently ongoing._
 
 <details>
 
-<summary>Consensus Discussion #0011: Selecting the CIC and Group Operations</summary>
+<summary><mark style="color:orange;">Acquisition Negotiations #0017: Acquisition of Jugzards and Incorporation of Assets</mark></summary>
+
+**Timeframe**: _From October 13, 2024_\
+<mark style="color:green;">**ONGOING**</mark>
+
+**Objective:** To consolidate the operations of Jugzards into Project Troopers via the Power of the IoFA 2024
+
+Jugzards was the backend service where Project Troopers hosted their documents of materials. The agreement to acquire Jugzards was proposed in order to improve operational efficiency and improve compliance.
+
+Sugeeth Jayaraj S.A. was reclused from the process of voting as he had a personal stake in the matter.
+
+The approval process to start the incorporation entered a stalemate on November 03, 2024; with the Board of Directors adopting a neutral stance in a majority sweep.&#x20;
+
+A consensus discussion has been initiated to work out the problems and restart the approval process.
+
+The proposed agreement is given below.
+
+</details>
+
+{% file src="../../../.gitbook/assets/Acquisition of Jugzards Draft Agreement.pdf" %}
+
+<details>
+
+<summary><mark style="color:orange;">Consensus Discussion #0016: Structure of Bills and Acts, 2024 (SOBA)</mark></summary>
+
+**Timeframe**: _From November 29, 2024_\
+<mark style="color:green;">**ONGOING**</mark>
+
+**Objective**: To formulate a set of guidelines for better framing of Bills and Acts in the future by the Board and/or its members.
+
+**Draft Bill Attached Below.**
+
+</details>
+
+{% file src="../../../.gitbook/assets/Draft - Structure of Bills and Acts, 2024 (SOBA 2024).pdf" %}
+
+<details>
+
+<summary>Consensus #0015: Decision regarding a Special Resources Group</summary>
+
+**Timeframe**: December 04, 2024 (07:58 PM) to December 06, 2024 (11:35 PM)
+
+Sugeeth, the CIC, had added a group called "Special Resources Group" to Project Troopers, specifically designed to cater to individuals who were willing to give their utmost effort for JEE Mains Session 1. This group was intended to be a closed, focused environment. The members included handpicked students who were also Sugeeth's classmates, and the group closely aligned with an integrated program offered by their school. Within the group, discussions and resource-sharing centered around the program while also covering other relevant topics. Sugeeth clarified that the group was not an official communication channel for the school program but rather a self-help group for study companions.
+
+Normally, decisions about creating or expanding Project Troopers’ member base and group structures were made administratively. However, Sugeeth had sought permission and input before proceeding, as this initiative was unprecedented within Project Troopers. While transparency was a core value of Project Troopers, Sugeeth believed that keeping the group invisible was necessary to maintain its integrity and fulfill its purpose as a focus group for JEE Mains preparation.
+
+To address this, Sugeeth had proposed three options:
+
+1. Allow the group to exist invisibly within Project Troopers to serve its purpose.
+2. Create similar focus groups for other exams to benefit other members.
+3. Spin off the Special Resources Group into a separate entity, given its secrecy and alignment with the school’s integrated program.
+
+Sugeeth had invited additional suggestions, opinions, or concerns and posted a primary poll with these three options to initiate discussions. Members were also encouraged to share their thoughts through messages.
+
+**Decision taken by the Board of Directors:**
+
+The Board of Directors have hereby agreed, by consensus, to siphon off the Special Resources Group from Project Troopers as its ideals do not agree with the Ethos of the mission of Project Troopers and the fact that it closely aligns with another program outside Project Troopers.
+
+However, it has been acknowledged that there is a need for the existence of focus groups for particular exams. (Concern of 1 director)
+
+**Motion passed by virtue of absolute majority.** \
+**Matter Dismissed.**
+
+_Other internal discussions have been omitted, as they are not relevant._
+
+</details>
+
+<details>
+
+<summary>Advice of the Board #0014: Creation and Maintenance of a Project Troopers YouTube Channel</summary>
+
+_From October 02, 2024 to October 18, 2024._
+
+The Board of Directors were informed on October 8, 2024 that a Project Troopers YouTube Channel was started. Their thoughts and ideas were welcomed for the Branding of the Channel.
+
+A teacher was initially willing to create content for free, in an arrangement (created on October 8, 2024) where both Project Troopers and the teacher will not gain monetary gains from the channel. The teacher, after a few videos, withdrew from the agreement on October 18, 2024.
+
+This was part of a larger advice request regarding the entry of Project Troopers to help fill up the vacuum caused by the fall of BYJU's.
+
+</details>
+
+<details>
+
+<summary><mark style="color:orange;">Consensus Discussion #0013: Creation of the Board Election Protocol, Rules and Regulations 2024</mark></summary>
+
+_From October 06, 2024 onwards_\
+&#xNAN;_<mark style="color:green;">ONGOING</mark>_
+
+**Objective**: To create a standardised protocol between the Election Committee and Board for the Smooth conduct of elections to the Board of Directors.
+
+Discussion Started by Sugeeth Jayaraj S.A. (Collaborator In-Charge)
+
+**Original Points for Consideration:**
+
+* To ensure that the CIC can not appoint arbitrary directors that exceed the number of elected directors
+* To ensure that the board remains suspended but still has temporary admin powers and latent decision rights until a new board comes into force, when the elections happen
+
+**Draft Bill has been attached below. Voting is still ongoing.**
+
+</details>
+
+{% file src="../../../.gitbook/assets/BEPRR Draft Bill 2024.pdf" %}
+
+<details>
+
+<summary><mark style="color:orange;">Consensus Discussion #0012: Appointment of Office of Legal Consult</mark></summary>
+
+From _September 30, 2024 @ 06:38 PM_ \
+&#xNAN;_<mark style="color:green;">ONGOING</mark>_
+
+**Objective**: To select the officebearer for the Office of Legal Consult (OLC).
+
+Discussion put forth by Sugeeth Jayaraj S.A.; and he has put forth a recommendation to make K.S. Harshavardhan the officebearer of the Office of Legal Consult.
+
+No decision has been taken regarding this consensus yet.
+
+</details>
+
+<details>
+
+<summary>Consensus #0011: Selecting the CIC and Group Operations</summary>
 
 _September 28, 2024 @ 07:48 PM_
 
@@ -68,17 +189,17 @@ The election results were released in stages; and was finalised on September 01,
 The new directors have been mentioned below.
 
 * **K.S. Harshavardhan** \
-  _representative of the First Brigadier Regiment_
+  &#xNAN;_&#x72;epresentative of the First Brigadier Regiment_
 * **Deepan Sai** \
-  _representative of the core group that started Project Troopers_
+  &#xNAN;_&#x72;epresentative of the core group that started Project Troopers_
 * **B Hari Karthik** (aka **TOPPER**)\
-  _representative of the Second Brigadier Regiment_
+  &#xNAN;_&#x72;epresentative of the Second Brigadier Regiment_
 * **Abdul Hafeez Ali**\
-  _representative of the Third and Fourth Brigadier Regiment_
+  &#xNAN;_&#x72;epresentative of the Third and Fourth Brigadier Regiment_
 * **Nithin Antonio Dominic**\
-  _representative of the Subedars Common Division (Class 11 operations)_
+  &#xNAN;_&#x72;epresentative of the Subedars Common Division (Class 11 operations)_
 * **Joanna**\
-  _representative of the Subedars Common Division (Class 11 operations)_
+  &#xNAN;_&#x72;epresentative of the Subedars Common Division (Class 11 operations)_
 
 The liaison from the Election Committee has not changed from the previous session.
 
@@ -147,8 +268,8 @@ _**This resolution can also be referred to as "the Combined Bills of Passage" re
 * Naturalization Protocol: Details the process for integrating new assets into Project Troopers.
 
 **Vote results: 1-nil-3-1-nil**\
-_Vote results are in the for-against-neutral-abstained-reclused format._\
-_**Timeframe**:_ From May 31, 2024 to 19/07/2024 at 2:00 PM.
+&#xNAN;_&#x56;ote results are in the for-against-neutral-abstained-reclused format._\
+&#xNAN;_**Timeframe**:_ From May 31, 2024 to 19/07/2024 at 2:00 PM.
 
 **Approvers**: Nithin\
 **Detractors**: _None_\
@@ -226,8 +347,8 @@ Laws shall be reframed and simplified involving no legal actions or requirements
 This vote was not able to continue due to it being ignored by the Board. Some votes were cast, but they were not enough to exceed the required threshold. This proposal has been archived.
 
 **Vote results: 2-nil-nil-3-nil**\
-_Vote results are in the for-against-neutral-abstained-reclused format._\
-_**Timeframe**: No Timeframe was agreed upon or put forth by the co-CICs._
+&#xNAN;_&#x56;ote results are in the for-against-neutral-abstained-reclused format._\
+&#xNAN;_**Timeframe**: No Timeframe was agreed upon or put forth by the co-CICs._
 
 **Approvers**: K.S. Harshavardhan, Deepan, \
 **Detractors**: _None_\
@@ -254,8 +375,8 @@ A resolution was passed that includes the following points:
 * To initiate an internal consensus (discussion) about the feasibility of giving the directors a particular tenure to serve in, and to put forth laws that would allow only 1/3rd of the board members' tenure to expire at any given point in time, with reasonable exceptions.
 
 **Vote results: 3-1-0-1-1**\
-_Vote results are in the for-against-neutral-abstained-reclused format._\
-_**Timeframe**: By April 28, 2024 at 6:00 PM, as one of the points in this proposal need immediate attention... which was extended for one more day._
+&#xNAN;_&#x56;ote results are in the for-against-neutral-abstained-reclused format._\
+&#xNAN;_**Timeframe**: By April 28, 2024 at 6:00 PM, as one of the points in this proposal need immediate attention... which was extended for one more day._
 
 **Approvers**: K.S. Harshavardhan, Deepan, Faheema\
 **Detractors**: Eric\
@@ -274,8 +395,8 @@ _April 23, 2024._
 A resolution to grant a request made by the upcoming CIC "K.S. Harshavardhan". The resolution was to allow the CIC(s) to have administrator access to all regiments and groups of Project Troopers. It was passed, with the following results.
 
 **Vote results: 2-0-1-3-1**\
-_Vote results are in the for-against-neutral-abstained-reclused format._\
-_**Time Frame**: From 23-04-2024 05:21 PM to 24-04-2024 06:21 PM (25 hours -> new, extended from original timeframe due to low vote count)_
+&#xNAN;_&#x56;ote results are in the for-against-neutral-abstained-reclused format._\
+&#xNAN;_**Time Frame**: From 23-04-2024 05:21 PM to 24-04-2024 06:21 PM (25 hours -> new, extended from original timeframe due to low vote count)_
 
 **Approvers**: K.S. Harshavardhan, Deepan\
 **Detractors**: _None_\
@@ -294,14 +415,14 @@ _April 22, 2024._
 A resolution to officialise the result of an internal election to choose a new CIC(s) to lead the board after Sugeeth completely stepped down on April 28, 2024 was passed. The elected candidates also accepted to be the Collaborators-In-Charge of Project Troopers.
 
 **Vote results: 5-0-0-1**\
-_Vote results are in the candidate 1 - candidate 2 - abstained - reclused format._\
-_**Time Frame**: From 22-04-2024 05:08 PM to the end of the same day_
+&#xNAN;_&#x56;ote results are in the candidate 1 - candidate 2 - abstained - reclused format._\
+&#xNAN;_**Time Frame**: From 22-04-2024 05:08 PM to the end of the same day_
 
 **Voted for Deepan and Harshavardhan as Co-Candidate(s) ID 1** : Deepan, Nithin, Harshavardhan, Faheema, Eric\
 **Voted for Eric (Candidate ID 2): \_None**\_
 
 **Detractors**: _None_\
-_A_**bstained:** _None_\
+&#xNAN;_&#x41;_**bstained:** _None_\
 **Reclused**: Sugeeth (since he was only a caretaker director)
 
 </details>
@@ -366,8 +487,8 @@ The Board of Directors was kindly asked to deliberate on the mentioned recommend
 A resolution to bring the original governing guidelines along with the Legal Stature into force was passed by the board.
 
 **Vote results: 2-1-3**\
-_Vote results are in the for-against-abstained format._\
-_**Time Frame**: From 08-04-2024 06:15 PM to 09-04-2024 06:15 PM (24 hours)_
+&#xNAN;_&#x56;ote results are in the for-against-abstained format._\
+&#xNAN;_**Time Frame**: From 08-04-2024 06:15 PM to 09-04-2024 06:15 PM (24 hours)_
 
 **Approvers**: [Sugeeth Jayaraj S.A.](https://app.gitbook.com/u/9Om3tUS42vUVpNcq3eN15t09EZU2 "mention"), Nithin\
 **Detractors**: K.S. Harshavardhan\

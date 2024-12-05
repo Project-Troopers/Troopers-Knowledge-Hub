@@ -41,33 +41,33 @@ The directors are nominees / admins who have been selected by the people or the 
 There can be a maximum of 15 directors. Each director is entitled to full administrator rights over the Project Admins, and can request for admin rights to a particular section as and when required. The directors of the Second Session of the Board of Directors are:
 
 * **K.S. Harshavardhan** \
-  _representative of the First Brigadier Regiment_
+  &#xNAN;_&#x72;epresentative of the First Brigadier Regiment_
 * **Deepan Sai** \
   **Deputy CIC of Project Troopers**\
-  _representative of the core group that started Project Troopers_
+  &#xNAN;_&#x72;epresentative of the core group that started Project Troopers_
 * **B Hari Karthik** (aka **TOPPER**)\
   **Head Trooper of the Second Brigadier Regiment**\
-  _representative of the Second Brigadier Regiment_
+  &#xNAN;_&#x72;epresentative of the Second Brigadier Regiment_
 * **Abdul Hafeez Ali**\
   **Head Trooper of the Third and Fourth Brigadier Regiments**\
-  _representative of the Fourth Brigadier Regiment_
+  &#xNAN;_&#x72;epresentative of the Fourth Brigadier Regiment_
 * **Nithin Antonio Dominic**\
   **Head Trooper of Class 11 Operations**\
-  _representative of the Subedars Common Division (Class 11 operations)_
+  &#xNAN;_&#x72;epresentative of the Subedars Common Division (Class 11 operations)_
 * **Joanna**\
-  _representative of the Subedars Common Division (Class 11 operations)_
+  &#xNAN;_&#x72;epresentative of the Subedars Common Division (Class 11 operations)_
 
 #### Liaisons on the Board
 
 1. **Sugeeth Jayaraj S.A.**\
    **CIC of Project Troopers (Second Term)**\
-   _**Head of the Election Committee**_\
+   &#xNAN;_**Head of the Election Committee**_\
    Temporary Manager of IT operations\
-   _has voting rights and director-level powers._\
+   &#xNAN;_&#x68;as voting rights and director-level powers._\
    _Liaison from the Office of the CIC (from September 29, 2024)_
 2. **Faheema Nasrin**\
    **Asst. Head of Election Committee**\
-   _Liaison from the Election Committee (from October 2, 2023 12:00 AM)_\
+   &#xNAN;_&#x4C;iaison from the Election Committee (from October 2, 2023 12:00 AM)_\
    _has director-level powers, except for voting rights in the Board._
 
 ### Election of a member to the Board

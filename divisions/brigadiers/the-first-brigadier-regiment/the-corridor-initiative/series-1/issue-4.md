@@ -3,7 +3,7 @@
 {% hint style="info" %}
 **Status**: Published\
 **Theme**: Astrology\
-_Published on 07/08/2023_
+&#xNAN;_&#x50;ublished on 07/08/2023_
 {% endhint %}
 
 ### Contributors
@@ -76,7 +76,7 @@ b) WIMP-
 
 By Ishana Santhosh
 
-![Image.png](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/6aedab5d-852e-43ec-9705-d705d0d442ca/483BA56E-2352-46C4-9749-60862E3701BC\_2/UKrOpyhJnOYrjw6Q0myxTqhkMbrnvTCffGhPhBKF9uAz/Image.png)
+![Image.png](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/6aedab5d-852e-43ec-9705-d705d0d442ca/483BA56E-2352-46C4-9749-60862E3701BC_2/UKrOpyhJnOYrjw6Q0myxTqhkMbrnvTCffGhPhBKF9uAz/Image.png)
 
 **Deadline - Submissions of Creative Work: Thursday, 03/08/2023**
 
