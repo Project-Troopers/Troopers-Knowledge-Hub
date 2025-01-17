@@ -49,6 +49,8 @@ Our mission is to equip you with the tools and knowledge necessary to excel in y
 
 Browse through the intricately categorized files, meticulously organized for your convenience. Discover insightful strategies, innovative techniques, and expert advice from our experienced Troopers who have conquered myriad challenges and emerged victorious.
 
+My God.
+
 ### Notice
 
 This hub may include copyrighted materials and text for scientific and research purposes under the educational exemptions of the Indian Copyright Act, 1951 and its further amendments. We do not claim copyright for any materials that have been used from other sources and will priorly inform you regarding the same.
