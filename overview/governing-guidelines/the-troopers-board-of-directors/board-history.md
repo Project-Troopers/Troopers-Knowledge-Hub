@@ -28,6 +28,58 @@ _Orange indicates that the activity is currently ongoing._
 
 <details>
 
+<summary><mark style="color:orange;"><strong>Consensus Discussion #0020: Availability of the Directors</strong></mark></summary>
+
+This is an internal discussion that will not be made available online till the discussion is completed due to the significance of the discussion.
+
+</details>
+
+<details>
+
+<summary><strong>Resolution #0019: Approval is granted for member Kevin Adam to join using a third-party device.</strong></summary>
+
+**Timeframe**: January 15, 2025 to January 17, 2025\
+<mark style="color:green;">**PASSED**</mark>**.**
+
+**Question raised by Sugeeth Jayaraj, the CIC**: There’s a guy called Kevin Adam whose mom is a teacher in a school. He used to participate in this project through his own phone. However, his phone is now in a state of disrepair… Could we allow that guy to participate in Project Troopers through his mom’s phone?
+
+**Why board approval was necessary?** Historically, the Project has mandated members to participate via their own devices, with exceptions granted to devices that do not belong to teachers in an educational institution. However, this is the first time a request has been raised to the board to allow a member to participate from a teacher's phone.
+
+The matter was put to vote, and the decision was as follows.
+
+**Vote results: All the directors unanimously approved it.**\
+&#xNAN;_&#x56;ote results are in the for-against-neutral-abstained-reclused format._\
+&#xNAN;_**Timeframe**:_ From May 31, 2024 to 19/07/2024 at 2:00 PM.
+
+**Approvers**: Nithin, K.S. Harshavardhan, Deepan, Sugeeth (CIC), Abdul Hafeez, Joanna, Hari Karthik\
+**Detractors**: _None_\
+**Neutral:** _None_\
+**Abstained**: _None_\
+**Reclused**: _None_
+
+_Thus, Kevin Adam re-joined the Project via his mother's phone on the same day._
+
+</details>
+
+<details>
+
+<summary><mark style="color:orange;">Deliberation #0018: <strong>The Hunt for a New Logo</strong></mark> </summary>
+
+**Timeframe:** January 07, 2025\
+<mark style="color:green;">**ONGOING**</mark>
+
+**Objective:** Project Troopers has heavily relied on graphics from Freepik to officiate its status and has used multiple images in the past as its logo. As the Project has started to mature, Sugeeth Jayaraj S.A., the CIC, felt it was necessary to adopt an official logo for Project Troopers to use standardised across all of its operations.&#x20;
+
+The currently proposed logo is:
+
+![](<../../../.gitbook/assets/Project Troopers logo new.jpg>)
+
+The old logos are also under consideration; and there are other internal discussion happening on these lines too.&#x20;
+
+</details>
+
+<details>
+
 <summary><mark style="color:orange;">Acquisition Negotiations #0017: Acquisition of Jugzards and Incorporation of Assets</mark></summary>
 
 **Timeframe**: _From October 13, 2024_\
@@ -41,7 +93,7 @@ Sugeeth Jayaraj S.A. was reclused from the process of voting as he had a persona
 
 The approval process to start the incorporation entered a stalemate on November 03, 2024; with the Board of Directors adopting a neutral stance in a majority sweep.&#x20;
 
-A consensus discussion has been initiated to work out the problems and restart the approval process.
+A consensus discussion has been initiated to work out the problems and restart the approval process, and the bill has also been transferred to ArbCom for approval.
 
 The proposed agreement is given below.
 
@@ -51,18 +103,21 @@ The proposed agreement is given below.
 
 <details>
 
-<summary><mark style="color:orange;">Consensus Discussion #0016: Structure of Bills and Acts, 2024 (SOBA)</mark></summary>
+<summary>Consensus Discussion #0016: Structure of Bills and Acts, 2024 (SOBA)</summary>
 
-**Timeframe**: _From November 29, 2024_\
-<mark style="color:green;">**ONGOING**</mark>
+**Timeframe**: _From November 29, 2024 to December 15, 2024_\
+<mark style="color:green;">**PASSED.**</mark>
 
-**Objective**: To formulate a set of guidelines for better framing of Bills and Acts in the future by the Board and/or its members.
+**Objective**: Formulate a set of guidelines for better framing of Bills and Acts in the future by the Board and/or its members.
 
-**Draft Bill Attached Below.**
+By virtue of no opposing views, the Board of Directors henceforth implement the SOBA Bill as a framework (not an act) that serves as the guardrails for the creation of future acts.
+
+**Motion passed by virtue of no opposing views.** \
+**Matter Dismissed.**
+
+Framework text can be accessed at [structure-of-bills-and-acts-2024-soba-2024.md](legislation/structure-of-bills-and-acts-2024-soba-2024.md "mention").
 
 </details>
-
-{% file src="../../../.gitbook/assets/Draft - Structure of Bills and Acts, 2024 (SOBA 2024).pdf" %}
 
 <details>
 
@@ -133,16 +188,16 @@ Discussion Started by Sugeeth Jayaraj S.A. (Collaborator In-Charge)
 
 <details>
 
-<summary><mark style="color:orange;">Consensus Discussion #0012: Appointment of Office of Legal Consult</mark></summary>
+<summary>Consensus Discussion #0012: Appointment of Office of Legal Consult</summary>
 
-From _September 30, 2024 @ 06:38 PM_ \
-&#xNAN;_<mark style="color:green;">ONGOING</mark>_
+From _September 30, 2024 @ 06:38 PM, but ended ex-officio on December 17, 2024 via an Executive Directive of the CIC._\
+<mark style="color:red;">**DISMISSED without discussion, appointment made by CIC**</mark><mark style="color:green;">**.**</mark>
 
 **Objective**: To select the officebearer for the Office of Legal Consult (OLC).
 
 Discussion put forth by Sugeeth Jayaraj S.A.; and he has put forth a recommendation to make K.S. Harshavardhan the officebearer of the Office of Legal Consult.
 
-No decision has been taken regarding this consensus yet.
+No decision has been taken regarding this consensus yet. On result of this stalemate; the office of the CIC excercised its powers and appointed Ishana Santhosh as the Head of the Office of Legal Consult on December 17, 2024; to quell the ruckus caused by the Second Brigadier Regiment. The person accepted the post, and she will continue to hold it as per the rules of the DOPA 2024.
 
 </details>
 
@@ -157,7 +212,7 @@ _September 28, 2024 @ 07:48 PM_
 **Things to discuss on the Agenda:-**
 
 * To introduce the directors to each other and ensure that they are given proper guidance on the Project's structure (more like an Orientation session).
-* To constitute the Office of Legal Consult and appoint the office bearer.
+* To constitute the Office of Legal Consult the office bearer.
 * To see how we can improve the current technical implementations of the Hub (including the Website, Group etc).
 * To appoint members to the Department of IT on a preliminary basis.
 * To elect the new head(s), i.e the CICs, of Project Troopers
@@ -207,11 +262,11 @@ The liaison from the Election Committee has not changed from the previous sessio
 
 ### First Interim Period
 
-_From July 07, 2024 to September 01, 2024 (57 days)_
+_From July 07, 2024; to September 01, 2024 (57 days)_
 
-_During this period, the day-to-day operations of the board was carried out by Sugeeth Jayaraj S.A., head of election Committee as defined under Crisis Protocol of the Distribution of Powers Act, 2024. A caretaker Board did exist, consisting of final members of the First Board Session, to decide on crucial matters as and when required._
+_During this period, the day-to-day operations of the board was conductedy Sugeeth Jayaraj S.A., head of election Committee as defined under Crisis Protocol of the Distribution of Powers Act, 2024. A caretaker Board did exist, consisting of final members of the First Board Session, to decide on crucial matters as and when required._
 
-During this time, the elections were conducted in stages. Since there weren't many participants in the elections, it ran for a prolonged period of 50 days.
+During this time, the elections were conducted in stages. Since there weren't many participants in the elections, it ran for a prolonged period of 57 days.
 
 ### First Board Session
 
