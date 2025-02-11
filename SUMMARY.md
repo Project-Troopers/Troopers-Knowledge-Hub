@@ -230,6 +230,7 @@
 * [🧑‍🔧 Members](overview/members.md)
 * [📃 Changelog](overview/changelog.md)
 * [⚒️ System Status](https://troopers.betteruptime.com)
+* [Acquirement of Jugzards](overview/acquirement-of-jugzards.md)
 
 ## Divisions
 
