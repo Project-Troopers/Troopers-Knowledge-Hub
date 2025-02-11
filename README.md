@@ -68,7 +68,7 @@ You automatically abide by the governing guidelines when you visit our site. Cli
 
 
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/n04w.svg)](https://troopers.betteruptime.com/) - Check our UpTime Status
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/n04w.svg)](https://troopers.betteruptime.com/)
 
 
 
