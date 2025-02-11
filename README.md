@@ -66,4 +66,6 @@ _Released under the Creative Commons 4.0 Share-Alike license (as mentioned under
 
 You automatically abide by the governing guidelines when you visit our site. Click the above block to view the governing guidelines.
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/n04w.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 [^1]: This is the time at which the current version of the document was deemed stable after a slew of improvements.
