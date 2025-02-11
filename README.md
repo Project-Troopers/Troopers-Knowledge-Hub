@@ -57,8 +57,8 @@ This hub may include copyrighted materials and text for scientific and research 
 
 ***
 
-_© Project Troopers (2024)._ \
-_Released under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our_ [_Terms_ ](overview/governing-guidelines/)_with exceptions)._
+_© Project Troopers (2024)._\
+&#xNAN;_&#x52;eleased under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our_ [_Terms_ ](overview/governing-guidelines/)_with exceptions)._
 
 {% content-ref url="overview/governing-guidelines/" %}
 [governing-guidelines](overview/governing-guidelines/)
@@ -66,8 +66,10 @@ _Released under the Creative Commons 4.0 Share-Alike license (as mentioned under
 
 You automatically abide by the governing guidelines when you visit our site. Click the above block to view the governing guidelines.
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/n04w.svg)](https://troopers.betteruptime.com/)
 
-<iframe src="https://troopers.betteruptime.com/badge?theme=light" width="250" height="30" frameborder="0" scrolling="no" style="color-scheme: normal"></iframe>
+
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/n04w.svg)](https://troopers.betteruptime.com/) - Check our UpTime Status
+
+
 
 [^1]: This is the time at which the current version of the document was deemed stable after a slew of improvements.

@@ -229,6 +229,7 @@
 * [🎉 Onboarding](overview/onboarding.md)
 * [🧑‍🔧 Members](overview/members.md)
 * [📃 Changelog](overview/changelog.md)
+* [⚒️ System Status](https://troopers.betteruptime.com)
 
 ## Divisions
 
