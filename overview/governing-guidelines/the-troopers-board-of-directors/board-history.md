@@ -31,8 +31,8 @@ _Orange indicates that the activity is currently ongoing._
 
 <summary><strong>Consensus #0020:</strong> Temporary Suspension of Board Operations &#x26; Administrative Adjustments</summary>
 
-T**imeframe**: January 15, 2025 to February 14, 2025\
-<mark style="color:green;">**APPROVED AND ANNOUNCED**</mark>**.**
+**Timeframe**: January 15, 2025 to February 14, 2025\
+<mark style="color:green;">**APPROVED.**</mark> \ <mark style="color:green;">**ANNOUNCED via**</mark>**&#x20;Service Notification #0003 in** the <mark style="color:blue;">Announcements channel of Project Troopers' WhatsApp Community.</mark>
 
 **Objective:** To align operations of Project Troopers; **planning for a temporary leadership transition and operational adjustments** during the examination period.
 
