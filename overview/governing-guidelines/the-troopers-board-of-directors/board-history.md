@@ -22,7 +22,8 @@ layout:
 
 ### Second Board Session
 
-_From September 02, 2024 till March 01, 2024 (proposed)_\
+_From September 02, 2024 till March 01, 2025 (proposed)_\
+_Extended from March 1, 2025 to April 15, 2025 by Board._\
 _This Board session is officially in session._\
 _Orange indicates that the activity is currently ongoing._
 
@@ -63,10 +64,10 @@ _Thus, Kevin Adam re-joined the Project via his mother's phone on the same day._
 
 <details>
 
-<summary><mark style="color:orange;">Deliberation #0018: <strong>The Hunt for a New Logo</strong></mark> </summary>
+<summary>Deliberation #0018: <strong>The Hunt for a New Logo</strong> </summary>
 
-**Timeframe:** January 07, 2025\
-<mark style="color:green;">**ONGOING**</mark>
+**Timeframe:** January 07, 2025 to February 14, 2025\
+<mark style="color:green;">**ENDED.**</mark>
 
 **Objective:** Project Troopers has heavily relied on graphics from Freepik to officiate its status and has used multiple images in the past as its logo. As the Project has started to mature, Sugeeth Jayaraj S.A., the CIC, felt it was necessary to adopt an official logo for Project Troopers to use standardised across all of its operations.&#x20;
 
@@ -76,30 +77,38 @@ The currently proposed logo is:
 
 The old logos are also under consideration; and there are other internal discussion happening on these lines too.&#x20;
 
+However, the Board has decided to allow the usage of all logos, old and new, to represent Project Troopers.
+
+Mr. Vishal Subramaniam of ArbCom has also agreed to hunt for a new logo.
+
 </details>
 
 <details>
 
-<summary><mark style="color:orange;">Acquisition Negotiations #0017: Acquisition of Jugzards and Incorporation of Assets</mark></summary>
+<summary>Resolution #00<strong>17:</strong> Acquisition of Jugzards and Incorporation of Assets</summary>
 
-**Timeframe**: _From October 13, 2024_\
-<mark style="color:green;">**ONGOING**</mark>
+**Timeframe**: _From October 13, 2024 to February 07, 2025._\
+<mark style="color:green;">**Approved.**</mark>
 
 **Objective:** To consolidate the operations of Jugzards into Project Troopers via the Power of the IoFA 2024
 
-Jugzards was the backend service where Project Troopers hosted their documents of materials. The agreement to acquire Jugzards was proposed in order to improve operational efficiency and improve compliance.
+Jugzards was the backend service where Project Troopers archived their documents of materials. The agreement to acquire Jugzards was proposed in order to improve operational efficiency and improve compliance.
 
-Sugeeth Jayaraj S.A. was reclused from the process of voting as he had a personal stake in the matter.
+Sugeeth Jayaraj S.A. was reclused from the process of voting on the side of Project Troopers as he had a personal stake in the matter.
 
 The approval process to start the incorporation entered a stalemate on November 03, 2024; with the Board of Directors adopting a neutral stance in a majority sweep.&#x20;
 
-A consensus discussion has been initiated to work out the problems and restart the approval process, and the bill has also been transferred to ArbCom for approval.
+A consensus discussion was initiated to work out the problems and restart the approval process, and the bill has also been transferred to ArbCom for approval.
 
-The proposed agreement is given below.
+_Voting details are not available due to it being done as a consensus discussion, and the other voting details are sparse due to extended voting sessions and internal dilemma._
+
+The ArbCom approved the bill on February 2, 2025 at 6:00 PM. View details of voting at ArbCom's page.
+
+The agreement was signed by the respective representatives on February 06, 2025. A detailed action-response page has been linked below.
+
+[acquirement-of-jugzards.md](../../acquirement-of-jugzards.md "mention")
 
 </details>
-
-{% file src="../../../.gitbook/assets/Acquisition of Jugzards Draft Agreement.pdf" %}
 
 <details>
 
@@ -166,10 +175,10 @@ This was part of a larger advice request regarding the entry of Project Troopers
 
 <details>
 
-<summary><mark style="color:orange;">Consensus Discussion #0013: Creation of the Board Election Protocol, Rules and Regulations 2024</mark></summary>
+<summary>Consensus Discussion #0013: Creation of the Board Election Protocol, Rules and Regulations 2024</summary>
 
-_From October 06, 2024 onwards_\
-&#xNAN;_<mark style="color:green;">ONGOING</mark>_
+_From October 06, 2024 till February 13, 2025._\
+&#xNAN;_<mark style="color:green;">Ended.</mark>_
 
 **Objective**: To create a standardised protocol between the Election Committee and Board for the Smooth conduct of elections to the Board of Directors.
 
@@ -180,7 +189,7 @@ Discussion Started by Sugeeth Jayaraj S.A. (Collaborator In-Charge)
 * To ensure that the CIC can not appoint arbitrary directors that exceed the number of elected directors
 * To ensure that the board remains suspended but still has temporary admin powers and latent decision rights until a new board comes into force, when the elections happen
 
-**Draft Bill has been attached below. Voting is still ongoing.**
+**These points were accepted and the bill was handed back over to the Election Committee. View Election Committee Documentation for more detailed.**
 
 </details>
 

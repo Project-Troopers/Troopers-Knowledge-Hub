@@ -11,6 +11,19 @@ description: What's changed?
 
 <details>
 
+<summary>Version 5.1</summary>
+
+_Rolled out on_ [_16-02-2025 at 02:30 PM_](#user-content-fn-1)[^1]
+
+* Added a System Status page to the Hub
+* Added a section on the Acquirement of Jugzards
+* Polish on the Governing Guidelines
+* Updated the Onboarding page to be more clear.
+
+</details>
+
+<details>
+
 <summary>Version 5</summary>
 
 _Rolled out on 17-07-2024 at 08:02 AM._
@@ -169,3 +182,5 @@ Just a folder with all the required materials that an educator would need.
 </details>
 
 ![The Troopers - Badge.jpg](https://res.craft.do/user/full/34ae8ebc-d508-7305-20e2-17e06364862c/doc/3491F8B8-527B-4029-A8C5-FBF1AF7CCE2D/0ec69cd6-368b-43c5-a9f2-01e5a12f6551)
+
+[^1]: This is the time at which the current version of the document was deemed stable after a slew of improvements.

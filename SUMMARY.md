@@ -227,7 +227,7 @@
   * [⚒️ The Collaborator In-Charge](overview/governing-guidelines/the-collaborator-in-charge/README.md)
     * [🎯 Executive Directives of the CIC](overview/governing-guidelines/the-collaborator-in-charge/executive-directives-of-the-cic.md)
 * [🎉 Onboarding](overview/onboarding.md)
-* [🧑‍🔧 Members](overview/members.md)
+* [🧑‍🔧 Collaborators](overview/members.md)
 * [📃 Changelog](overview/changelog.md)
 * [⚒️ System Status](https://troopers.betteruptime.com)
 * [Acquirement of Jugzards](overview/acquirement-of-jugzards.md)

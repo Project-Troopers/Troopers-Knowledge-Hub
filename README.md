@@ -24,8 +24,8 @@ layout:
 # 👋 Home Page
 
 {% hint style="success" %}
-**Version 5** (_Stable_)\
-Rolled out on [_17-07-2024 at 08:02 AM_](#user-content-fn-1)[^1]\
+**Version 5.1** (_Stable_)\
+Rolled out on [_16-02-2025 at 02:30 PM_](#user-content-fn-1)[^1]\
 This is a digital documentation.
 {% endhint %}
 
@@ -37,7 +37,15 @@ This is a digital documentation.
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>NEET</strong></td><td><a href=".gitbook/assets/doctor-with-his-arms-crossed-white-background.jpg">doctor-with-his-arms-crossed-white-background.jpg</a></td><td><a href="competitive-exams/neet.md">neet.md</a></td></tr><tr><td><strong>JEE / VIT / BITSAT</strong></td><td><a href=".gitbook/assets/Gears.jpg">Gears.jpg</a></td><td><a href="competitive-exams/jee-vit-bitsat/">jee-vit-bitsat</a></td></tr><tr><td><strong>SAT</strong></td><td><a href=".gitbook/assets/3d-render-graduation-cap-with-diploma-certificate.jpg">3d-render-graduation-cap-with-diploma-certificate.jpg</a></td><td><a href="competitive-exams/sat.md">sat.md</a></td></tr></tbody></table>
 
-### <mark style="color:purple;">Divisions</mark>
+### <mark style="color:green;">Do you wish to join us?</mark>
+
+View our Onboarding page to learn more! Click on the block below to view the onboarding page.
+
+{% content-ref url="overview/onboarding.md" %}
+[onboarding.md](overview/onboarding.md)
+{% endcontent-ref %}
+
+### <mark style="color:purple;">Our Members in Divisions</mark>
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Brigadiers</strong></td><td>The Original Troopers</td><td><a href="divisions/brigadiers/">brigadiers</a></td><td><a href=".gitbook/assets/Troopers.jpg">Troopers.jpg</a></td></tr><tr><td><strong>Subedars</strong></td><td>The next generation</td><td><a href="divisions/subedars.md">subedars.md</a></td><td><a href=".gitbook/assets/Subedar.jpg">Subedar.jpg</a></td></tr></tbody></table>
 
@@ -49,15 +57,19 @@ Our mission is to equip you with the tools and knowledge necessary to excel in y
 
 Browse through the intricately categorized files, meticulously organized for your convenience. Discover insightful strategies, innovative techniques, and expert advice from our experienced Troopers who have conquered myriad challenges and emerged victorious.
 
-My God.
-
+{% hint style="danger" %}
 ### Notice
 
 This hub may include copyrighted materials and text for scientific and research purposes under the educational exemptions of the Indian Copyright Act, 1951 and its further amendments. We do not claim copyright for any materials that have been used from other sources and will priorly inform you regarding the same.
 
+View our [Governing Guidelines](overview/governing-guidelines/) for more info.
+
+_This is a **`Class Action Notice Box - Type A (CANB - A)`**. Do not remove this notice box unless you have adequate permission._ &#x20;
+{% endhint %}
+
 ***
 
-_© Project Troopers (2024)._\
+_© Project Troopers (2025)._\
 &#xNAN;_&#x52;eleased under the Creative Commons 4.0 Share-Alike license (as mentioned under “Intellectual Property” in our_ [_Terms_ ](overview/governing-guidelines/)_with exceptions)._
 
 {% content-ref url="overview/governing-guidelines/" %}
@@ -66,10 +78,6 @@ _© Project Troopers (2024)._\
 
 You automatically abide by the governing guidelines when you visit our site. Click the above block to view the governing guidelines.
 
-
-
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/n04w.svg)](https://troopers.betteruptime.com/)
-
-
 
 [^1]: This is the time at which the current version of the document was deemed stable after a slew of improvements.
