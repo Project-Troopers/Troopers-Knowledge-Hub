@@ -224,6 +224,7 @@
   * [The Troopers Election Committee](overview/governing-guidelines/the-troopers-election-committee/README.md)
     * [Approved Acts](overview/governing-guidelines/the-troopers-election-committee/approved-acts/README.md)
       * [TECRR Act, 2024](overview/governing-guidelines/the-troopers-election-committee/approved-acts/tecrr-2024.md)
+      * [Board Election Protocol, Rules and Regulations 2024 (BEPRR 2024)](overview/governing-guidelines/the-troopers-election-committee/approved-acts/board-election-protocol-rules-and-regulations-2024-beprr-2024.md)
   * [⚒️ The Collaborator In-Charge](overview/governing-guidelines/the-collaborator-in-charge/README.md)
     * [🎯 Executive Directives of the CIC](overview/governing-guidelines/the-collaborator-in-charge/executive-directives-of-the-cic.md)
 * [🎉 Onboarding](overview/onboarding.md)

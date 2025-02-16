@@ -29,9 +29,29 @@ _Orange indicates that the activity is currently ongoing._
 
 <details>
 
-<summary><mark style="color:orange;"><strong>Consensus Discussion #0020: Availability of the Directors</strong></mark></summary>
+<summary><strong>Consensus #0020:</strong> Temporary Suspension of Board Operations &#x26; Administrative Adjustments</summary>
 
-This is an internal discussion that will not be made available online till the discussion is completed due to the significance of the discussion.
+T**imeframe**: January 15, 2025 to February 14, 2025\
+<mark style="color:green;">**APPROVED AND ANNOUNCED**</mark>**.**
+
+**Objective:** To align operations of Project Troopers; **planning for a temporary leadership transition and operational adjustments** during the examination period.
+
+#### **Adopted Decisions:**
+
+**Decision 1:**
+
+From **February 15, 2025, 12:01 AM IST, to April 7, 2025, 11:59 PM IST**, Brigadiers will be occupied with important examinations. During this period, they are **exempt from administrative and operational duties**, except in cases of operational emergencies. The **Project Troopers Board session will be also during be suspended during this period** to allow volunteers, including Brigadiers, to focus on their preparations. As a result, there may be **delays in responses** to official queries raised during this time.
+
+During this period, **Subedars will assume expanded roles and responsibilities**. They will either take on additional functions as assigned or exercise greater authority in roles where their powers are typically limited due to proportional participation.&#x20;
+
+The **WhatsApp Community and Website will continue to function as usual**, ensuring that essential communication channels remain open.
+
+**Decison 2:**
+
+Furthermore, in the absence of the Board, **decisions will be made by the directors from the Subedars through the board channel**. If both the **Collaborator In-Charge (CIC) and Assistant CIC** are unavailable, **Director Nithin Antonio Dominic** will assume the responsibilities of the CIC and execute autonomous decisions as necessary. These measures will remain in effect **until the end of the Second Board Session or until further notice**. Following this, the **Board will be dissolved**. Additionally, to avoid the inconvenience of conducting elections during the examination period, the **current Board session has been extended until April 15, 2025**.
+
+**Board of Directors,**\
+**Project Troopers.**
 
 </details>
 
@@ -112,7 +132,7 @@ The agreement was signed by the respective representatives on February 06, 2025.
 
 <details>
 
-<summary>Consensus Discussion #0016: Structure of Bills and Acts, 2024 (SOBA)</summary>
+<summary>Consensus #0016: Structure of Bills and Acts, 2024 (SOBA)</summary>
 
 **Timeframe**: _From November 29, 2024 to December 15, 2024_\
 <mark style="color:green;">**PASSED.**</mark>
@@ -175,7 +195,7 @@ This was part of a larger advice request regarding the entry of Project Troopers
 
 <details>
 
-<summary>Consensus Discussion #0013: Creation of the Board Election Protocol, Rules and Regulations 2024</summary>
+<summary>Consensus #0013: Creation of the Board Election Protocol, Rules and Regulations 2024</summary>
 
 _From October 06, 2024 till February 13, 2025._\
 &#xNAN;_<mark style="color:green;">Ended.</mark>_
@@ -193,11 +213,9 @@ Discussion Started by Sugeeth Jayaraj S.A. (Collaborator In-Charge)
 
 </details>
 
-{% file src="../../../.gitbook/assets/BEPRR Draft Bill 2024.pdf" %}
-
 <details>
 
-<summary>Consensus Discussion #0012: Appointment of Office of Legal Consult</summary>
+<summary>Consensus #0012: Appointment of Office of Legal Consult</summary>
 
 From _September 30, 2024 @ 06:38 PM, but ended ex-officio on December 17, 2024 via an Executive Directive of the CIC._\
 <mark style="color:red;">**DISMISSED without discussion, appointment made by CIC**</mark><mark style="color:green;">**.**</mark>
@@ -357,7 +375,7 @@ _**This resolution can also be referred to as "the Combined Bills of Passage" re
 
 <details>
 
-<summary>Consensus Discussion #0009</summary>
+<summary>Consensus #0009: TECRR legislation</summary>
 
 _May 30, 2024_
 
@@ -377,7 +395,7 @@ _"Hello board, I'm initiating a new consensus for your consideration, as the Ele
 
 <details>
 
-<summary>Consensus Discussion #0008</summary>
+<summary>Consensus #0008: Structural Changes inside Project Troopers</summary>
 
 _May 04, 2024_
 
