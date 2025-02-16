@@ -1,3 +1,7 @@
+---
+icon: file-lines
+---
+
 # Acquirement of Jugzards
 
 The Troopers' Board of Directors acquired Jugzards, via an agreement. The link to the agreement will be given below.
