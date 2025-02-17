@@ -52,14 +52,15 @@ Her terrified hands will tell the whole story of her unhappy life even when aunt
 {% endstep%}
 
 {% step %}
-*Aunt Jennifer’s tigers prance across a screen,*
-*Bright topaz denizens of a world of green.*
+*Aunt Jennifer’s tigers prance across a screen,**Bright topaz denizens of a world of green.*
 *They do not fear the men beneath the tree:*
 *They pace in sleek chivalric certainty.*
+
 1. **Why are the tigers called Aunt Jennifer’s tigers?**
 2. **How are they described here?**
 3. **How are they different from Aunt Jennifer?**
 4. **What does the word’ chivalric’ mean?**
+
 
 **ANSWER IN BRIEF:**
 
