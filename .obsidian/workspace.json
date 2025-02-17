@@ -13,11 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class/class-12/english/lessons/ls-2-lost-spring.md",
+                "file": "class/class-12/english/lessons/aunt-jennifers-tigers-workfile.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "aunt-jennifers-tigers-workfile"
+            }
+          },
+          {
+            "id": "a299ac2555f391d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -30,7 +53,9 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SUMMARY"
             }
           }
         ]
@@ -52,8 +77,21 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae3c7f6585ba10df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -68,15 +106,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "ae3c7f6585ba10df",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -107,7 +139,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ls-2-lost-spring"
             }
           },
           {
@@ -119,7 +153,9 @@
                 "file": "class/class-12/english/lessons/ls-2-lost-spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ls-2-lost-spring"
             }
           },
           {
@@ -130,7 +166,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,7 +178,9 @@
               "type": "outline",
               "state": {
                 "file": "class/class-12/english/lessons/ls-2-lost-spring.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ls-2-lost-spring"
             }
           },
           {
@@ -148,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -156,15 +198,17 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,37 +217,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b51a08921ce5d91c",
   "lastOpenFiles": [
-    "class/class-12/english/composition/letters-to-the-editor.md",
+    "class/class-12/english/lessons/a-thing-of-beauty-workfile.md",
+    "overview/onboarding.md",
+    "class/class-12/english/lessons/aunt-jennifers-tigers-workfile.md",
     "class/class-12/english/lessons/ls-2-lost-spring.md",
     "class/class-12/english/lessons/ls-1-the-last-lesson.md",
+    "overview/governing-guidelines/the-troopers-board-of-directors/board-history.md",
     "SUMMARY.md",
-    "class/class-12/english/lessons/vistas/ls-2-the-tiger-king.md",
-    "class/class-12/english/lessons/poem-1-my-mother-at-sixty-six.md",
-    "class/class-12/english/lessons/vistas/ls-1-the-third-level.md",
-    "class/class-11/chemistry/lessons/some-basic-concepts-of-chemistry.md",
-    "class/class-11/chemistry/lessons/thermodynamics.md",
-    "class/class-11/chemistry/lessons/structure-of-an-atom.md",
-    "class/class-12/mathematics/ls-3-matrices.md",
-    "class/class-12/physics/tests.md",
-    "overview/governing-guidelines/the-troopers-election-committee/README.md",
-    "class/class-12/physics/lessons/ls-3-current-electricity.md",
-    "class/class-12/physics/lessons/ls-2-electrostatic-potential-and-capacitance.md",
-    "class/class-12/physics/lessons/ls-1-electric-charges-and-fields.md",
-    "competitive-exams/jee-vit-bitsat/the-db-prep-test-series/class-12-dbpts-j.md",
-    "class/class-12/physics/Untitled",
-    "README.md",
-    "class/class-12/physics/lessons/ls-4-magnetic-effects-of-electric-current.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-tests.md",
-    "class/class-10.md",
     "overview/governing-guidelines/technical-guideline-to-the-hub.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/latest-reminders.md",
-    "class/class-11/biology/lessons/the-living-world.md",
+    "overview/governing-guidelines/editorial-code-of-conduct.md",
     "assets/d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
+    "class/class-11/chemistry/lessons/redox-reactions.md",
+    "class/class-11/chemistry/lessons/hydrocarbons.md",
+    "overview/acquirement-of-jugzards.md",
+    "overview/governing-guidelines/the-collaborator-in-charge/executive-directives-of-the-cic.md",
+    "overview/governing-guidelines/the-collaborator-in-charge/README.md",
+    "overview/governing-guidelines/the-collaborator-in-charge",
+    "class/class-12/english/vistas/README.md",
+    "class/class-12/english/vistas/ls-2-the-tiger-king.md",
+    "class/class-12/english/vistas/ls-1-the-third-level.md",
+    "class/class-12/english/vistas",
+    "overview/governing-guidelines/the-troopers-election-committee/approved-acts/board-election-protocol-rules-and-regulations-2024-beprr-2024.md",
+    "overview/governing-guidelines/the-troopers-board-of-directors/legislation/structure-of-bills-and-acts-2024-soba-2024.md",
+    "class/class-12/english/lessons/poem-5-a-roadside-stand.md",
+    "class/class-12/english/lessons/my_mother_at_sixty_six-worksheet.md",
+    "class/class-12/english/lessons/keeping-quiet-work-file-english.md",
+    "class/class-12/english/lessons/indigo-workfile.md",
+    "class/class-12/english/lessons/going-places-workfile.md",
+    "class/class-12/english/lessons/deep-water-work-file.md",
+    "overview/governing-guidelines/the-troopers-board-of-directors/legislation/the-incorporation-of-foreign-assets-act-2024.md",
+    "overview/governing-guidelines/the-troopers-board-of-directors/legislation",
+    "class/class-12/physics/Untitled",
     "d2916f8bffa4d36a2600b6bedde73c58_MD5.jpg",
     "assets",
     "Untitled.canvas",
@@ -211,8 +261,6 @@
     "media",
     "Untitled",
     "Pasted image 20240628174907.png",
-    "class/class-11/physics/lessons/thermal-properties-of-matter.md",
-    "divisions/brigadiers/the-first-brigadier-regiment/announcements/README.md",
     "overview/software",
     "Untitled 1.canvas",
     "Pasted image 20240622073509.png",

@@ -1,12 +1,1 @@
-{
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "strictLineBreaks": false,
-  "alwaysUpdateLinks": true,
-  "mobilePullAction": "obsidian-git:open-history-view",
-  "promptDelete": false
-}
+{}
