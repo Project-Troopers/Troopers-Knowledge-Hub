@@ -36,40 +36,42 @@ Her terrified hands will tell the whole story of her unhappy life even when aunt
 {% stepper %}
 {% step %}
 
-*Aunt Jennifer’s fingers fluttering through her wool*
-*Find even the ivory needle hard to pull.*
-*he massive weight of Uncle’s wedding band*
-*Sits heavily upon Aunt Jennifer’s hand*
+*Aunt Jennifer’s fingers fluttering through her wool*\
+*Find even the ivory needle hard to pull.*\
+*he massive weight of Uncle’s wedding band*\
+*Sits heavily upon Aunt Jennifer’s hand*\
 
-1. **What were Aunt Jennifer’s fingers fluttering through?**
+1. **What were Aunt Jennifer’s fingers fluttering through?**\
    **Ans. Her fingers were fluttering through her wool.**
 
-2. **How was she pulling the needle?**
+2. **How was she pulling the needle?**\
    **Ans.** She was pulling the needle with a lot of difficulties.
 
-3. **What did Aunt Jennifer have on her hand? What was the problem with that object?**
+3. **What did Aunt Jennifer have on her hand? What was the problem with that object?**\
    **Ans.** Aunt Jennifer had her husband’s wedding band on her finger. The problem was that his band lay heavily on her hand because it was a symbol of the difficulties and hardships that she had borne in her married life.
 {% endstep%}
 
 {% step %}
-*Aunt Jennifer’s tigers prance across a screen,**Bright topaz denizens of a world of green.*
-*They do not fear the men beneath the tree:*
-*They pace in sleek chivalric certainty.*
+*Aunt Jennifer’s tigers prance across a screen,*\
+*Bright topaz denizens of a world of green.*\
+*They do not fear the men beneath the tree:*\
+*They pace in sleek chivalric certainty.*\
 
 1. **Why are the tigers called Aunt Jennifer’s tigers?**
 2. **How are they described here?**
-3. **How are they different from Aunt Jennifer?**
-4. **What does the word’ chivalric’ mean?**
-
+3. **How are they different from Aunt Jennifer?**\
+4. **What does the word’ chivalric’ mean?**\
+{% endstep %}
+{% endstepper %}
 
 **ANSWER IN BRIEF:**
 
-1. Why did Aunt Jennifer choose to embroider tigers on the panel?
-2. Describe the contrast between Aunt Jennifer and her creation, the tigers.
-3. What do the symbols, ‘tigers’, ‘fingers’ and ‘ring’ stand for in the poem, ‘Aunt Jennifer’s Tigers’?
-4. What kind of married life did Aunt Jennifer lead?
-5. What will happen to Aunt Jennifer’s tigers when she is dead?
+5. Why did Aunt Jennifer choose to embroider tigers on the panel?
+6. Describe the contrast between Aunt Jennifer and her creation, the tigers.
+7. What do the symbols, ‘tigers’, ‘fingers’ and ‘ring’ stand for in the poem, ‘Aunt Jennifer’s Tigers’?
+8. What kind of married life did Aunt Jennifer lead?
+9. What will happen to Aunt Jennifer’s tigers when she is dead?
 
 **ANSWER IN ABOUT 120-150 WORDS:**
 
-6. **Steeped in feminism, Rich presents a vivid criticism of a male-dominated societal setup. Comment.** (Answer on your own)
+10. **Steeped in feminism, Rich presents a vivid criticism of a male-dominated societal setup. Comment.** (Answer on your own)
