@@ -29,6 +29,7 @@
   "showFileMenu": true,
   "authorInHistoryView": "initials",
   "dateInHistoryView": true,
+  "diffStyle": "split",
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
