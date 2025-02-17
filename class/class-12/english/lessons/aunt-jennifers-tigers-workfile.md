@@ -39,7 +39,7 @@ Her terrified hands will tell the whole story of her unhappy life even when aunt
 *Aunt Jennifer’s fingers fluttering through her wool*\
 *Find even the ivory needle hard to pull.*\
 *he massive weight of Uncle’s wedding band*\
-*Sits heavily upon Aunt Jennifer’s hand*\
+*Sits heavily upon Aunt Jennifer’s hand*
 
 1. **What were Aunt Jennifer’s fingers fluttering through?**\
    **Ans. Her fingers were fluttering through her wool.**
@@ -55,12 +55,12 @@ Her terrified hands will tell the whole story of her unhappy life even when aunt
 *Aunt Jennifer’s tigers prance across a screen,*\
 *Bright topaz denizens of a world of green.*\
 *They do not fear the men beneath the tree:*\
-*They pace in sleek chivalric certainty.*\
+*They pace in sleek chivalric certainty.*
 
 1. **Why are the tigers called Aunt Jennifer’s tigers?**
 2. **How are they described here?**
-3. **How are they different from Aunt Jennifer?**\
-4. **What does the word’ chivalric’ mean?**\
+3. **How are they different from Aunt Jennifer?**
+4. **What does the word’ chivalric’ mean?**
 {% endstep %}
 {% endstepper %}
 
