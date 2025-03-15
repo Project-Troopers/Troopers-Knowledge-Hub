@@ -1,6 +1,6 @@
 ---
-icon: list-timeline
 description: The History of decisions taken by the board of directors, and related events.
+icon: list-timeline
 coverY: 0
 layout:
   cover:
@@ -26,6 +26,39 @@ _From September 02, 2024 till March 01, 2025 (proposed)_\
 _Extended from March 1, 2025 to April 15, 2025 by Board._\
 _This Board session is officially in session._\
 _Orange indicates that the activity is currently ongoing._
+
+<details>
+
+<summary><strong>Resolution #0021:</strong> Approval to allow educator XXX to join Project Troopers.</summary>
+
+**Timeframe**: March 12, 2025 from 03:00 PM to 06:00 PM\
+<mark style="color:green;">**PASSED**</mark>**.**
+
+**The Board came out of temporary suspension to approve a resolution detrimental to the operations of Project Troopers.**
+
+**Chain of Events:**
+
+1. Ms. NKE, a member of Project Troopers, contacted the head of Project Troopers (Mr. Sugeeth Jayaraj S.A.) about an educator who was willing to join Project Troopers at 03:25 PM. It was raised as a formal request.
+2. Usually, normal administrators can approve admissions into Project Troopers. However, there was no precedence for this kind of request nor was any specific provision established in the Governing Guidelines for the nature of this request.
+3. Project Troopers has declared that it has no official ties to any institution under the Legal Stature. In this case, admissions into Project Troopers is not explicitly prohibited as per rules. Members join voluntarily for academic collaboration
+4. The CIC of Project Troopers consulted with a few directors individually before introducing the proposal to the Board to allow the educator to join, since the Board was in temporary suspension. These directors said it was okay to introduce the proposal to the Board.
+5. The CIC of Project Troopers introduced the proposal to the Board. A vote was consecutively started.
+6. The liaisons and directors gave their valuable feedback about the proposal.
+7. Around the same time, the members of the First Biology Corps were informed of the request.  No member voiced any dissent to the request, and one member explicitly accepted the request.
+8. The Board approved the Resolution by virtue of simple majority at 05:27 PM.
+9. The members in the Board internal group were invited to voice their dissent or their opinions.
+10. The Board was also informed that this resolution would serve as precedent for future decisions made within Project Troopers, and were offered to chance to voice their dissent, if required, as a separate discussion.
+11. At 05:31 PM, consecutively, the educator was offered to join Project Troopers in their personal capacity, specifically the First Biology Corps. The educator was informed that the Governing Guidelines would govern their presence in the group, if they chose to join.
+12. The educator automatically accepted the terms by joining Project Troopers.
+13. The requestee, Ms. NKE was informed that their request was fulfilled by the Board.
+
+**The adopted Resolution is as follows:**
+
+<mark style="color:purple;">`"We, the Board of Directors of Project Troopers, by the powers vested in us by the members of Project Troopers; allow educator XXX to join Project Troopers for academic collaboration in their personal capacity, adhering to the Governing Guidelines of Project Troopers. We are aware that this decision will serve as precedent for future actions in Project Troopers; and believe that this decision is in line with the ethos of the Legal Stature of Project Troopers."`</mark>
+
+_The name of the educator was replaced to conceal personal data._
+
+</details>
 
 <details>
 
